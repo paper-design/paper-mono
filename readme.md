@@ -9,7 +9,7 @@
 [Shaping]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fpaper-design%2Fpaper-mono%2Fgh-pages%2Fbadges%2FShapingChecks.json
 [Universal]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fpaper-design%2Fpaper-mono%2Fgh-pages%2Fbadges%2FUniversalProfileChecks.json
 
-![](./documentation/img/banner-light.png#gh-light-mode-only)
+![](./documentation/img/banner--light.png#gh-light-mode-only)
 ![](./documentation/img/banner--dark.png#gh-dark-mode-only)
 
 # About
