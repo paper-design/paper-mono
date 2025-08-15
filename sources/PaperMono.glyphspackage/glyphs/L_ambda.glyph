@@ -1,0 +1,25 @@
+{
+color = 1;
+glyphname = Lambda;
+layers = (
+{
+layerId = "574EE4B9-5C1A-4E7E-9985-C08FACB65BD8";
+shapes = (
+{
+closed = 1;
+nodes = (
+(118,0,l),
+(310,660,l),
+(502,0,l),
+(590,0,l),
+(368,740,l),
+(252,740,l),
+(30,0,l)
+);
+}
+);
+width = 620;
+}
+);
+unicode = 923;
+}

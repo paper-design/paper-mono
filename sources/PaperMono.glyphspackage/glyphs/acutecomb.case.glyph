@@ -1,0 +1,31 @@
+{
+color = 1;
+glyphname = acutecomb.case;
+layers = (
+{
+anchors = (
+{
+name = _top;
+pos = (268,740);
+},
+{
+name = top;
+pos = (268,938);
+}
+);
+layerId = "574EE4B9-5C1A-4E7E-9985-C08FACB65BD8";
+shapes = (
+{
+closed = 1;
+nodes = (
+(296,800,l),
+(394,938,l),
+(300,938,l),
+(226,800,l)
+);
+}
+);
+width = 620;
+}
+);
+}

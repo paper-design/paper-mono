@@ -1,0 +1,28 @@
+{
+color = 1;
+glyphname = strokelongcomb;
+layers = (
+{
+anchors = (
+{
+name = _center;
+pos = (310,572);
+}
+);
+layerId = "574EE4B9-5C1A-4E7E-9985-C08FACB65BD8";
+shapes = (
+{
+closed = 1;
+nodes = (
+(600,534,l),
+(600,612,l),
+(20,612,l),
+(20,534,l)
+);
+}
+);
+width = 620;
+}
+);
+unicode = 822;
+}

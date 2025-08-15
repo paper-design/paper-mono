@@ -1,0 +1,35 @@
+{
+color = 1;
+glyphname = greaterequal;
+layers = (
+{
+layerId = "574EE4B9-5C1A-4E7E-9985-C08FACB65BD8";
+shapes = (
+{
+closed = 1;
+nodes = (
+(540,60,l),
+(540,134,l),
+(80,134,l),
+(80,60,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(540,342,l),
+(540,448,l),
+(80,618,l),
+(80,536,l),
+(486,390,l),
+(486,400,l),
+(80,254,l),
+(80,172,l)
+);
+}
+);
+width = 620;
+}
+);
+unicode = 8805;
+}

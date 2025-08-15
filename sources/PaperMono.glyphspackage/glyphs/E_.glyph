@@ -1,0 +1,44 @@
+{
+color = 1;
+glyphname = E;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (310,0);
+},
+{
+name = ogonek;
+pos = (530,0);
+},
+{
+name = top;
+pos = (310,740);
+}
+);
+layerId = "574EE4B9-5C1A-4E7E-9985-C08FACB65BD8";
+shapes = (
+{
+closed = 1;
+nodes = (
+(530,0,l),
+(530,80,l),
+(176,80,l),
+(176,338,l),
+(510,338,l),
+(510,418,l),
+(176,418,l),
+(176,660,l),
+(522,660,l),
+(522,740,l),
+(90,740,l),
+(90,0,l)
+);
+}
+);
+width = 620;
+}
+);
+unicode = 69;
+}

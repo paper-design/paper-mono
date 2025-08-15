@@ -1,0 +1,30 @@
+{
+color = 1;
+glyphname = bar;
+layers = (
+{
+guides = (
+{
+pos = (156,750);
+},
+{
+pos = (156,-110);
+}
+);
+layerId = "574EE4B9-5C1A-4E7E-9985-C08FACB65BD8";
+shapes = (
+{
+closed = 1;
+nodes = (
+(350,-190,l),
+(350,778,l),
+(270,778,l),
+(270,-190,l)
+);
+}
+);
+width = 620;
+}
+);
+unicode = 124;
+}

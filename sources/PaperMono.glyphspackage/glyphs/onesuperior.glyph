@@ -1,0 +1,25 @@
+{
+color = 9;
+glyphname = onesuperior;
+layers = (
+{
+layerId = "574EE4B9-5C1A-4E7E-9985-C08FACB65BD8";
+shapes = (
+{
+closed = 1;
+nodes = (
+(400,390,l),
+(400,778,l),
+(342,778,l),
+(200,692,l),
+(200,624,l),
+(334,704,l),
+(334,390,l)
+);
+}
+);
+width = 620;
+}
+);
+unicode = 185;
+}

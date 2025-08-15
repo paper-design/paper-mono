@@ -1,0 +1,17 @@
+{
+color = 9;
+glyphname = nine.dnom;
+layers = (
+{
+layerId = "574EE4B9-5C1A-4E7E-9985-C08FACB65BD8";
+shapes = (
+{
+angle = 180;
+pos = (620,778);
+ref = sixsuperior;
+}
+);
+width = 620;
+}
+);
+}

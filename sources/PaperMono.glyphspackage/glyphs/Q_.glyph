@@ -1,0 +1,35 @@
+{
+color = 1;
+glyphname = Q;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (310,0);
+},
+{
+name = top;
+pos = (310,740);
+}
+);
+layerId = "574EE4B9-5C1A-4E7E-9985-C08FACB65BD8";
+shapes = (
+{
+closed = 1;
+nodes = (
+(510,-140,l),
+(350,248,l),
+(270,248,l),
+(430,-140,l)
+);
+},
+{
+ref = O;
+}
+);
+width = 620;
+}
+);
+unicode = 81;
+}

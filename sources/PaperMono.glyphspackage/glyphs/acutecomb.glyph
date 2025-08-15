@@ -1,0 +1,32 @@
+{
+color = 1;
+glyphname = acutecomb;
+layers = (
+{
+anchors = (
+{
+name = _top;
+pos = (268,530);
+},
+{
+name = top;
+pos = (268,778);
+}
+);
+layerId = "574EE4B9-5C1A-4E7E-9985-C08FACB65BD8";
+shapes = (
+{
+closed = 1;
+nodes = (
+(296,620,l),
+(394,778,l),
+(300,778,l),
+(226,620,l)
+);
+}
+);
+width = 620;
+}
+);
+unicode = 769;
+}

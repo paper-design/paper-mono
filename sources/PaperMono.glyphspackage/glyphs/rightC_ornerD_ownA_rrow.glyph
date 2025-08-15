@@ -1,0 +1,32 @@
+{
+color = 9;
+glyphname = rightCornerDownArrow;
+layers = (
+{
+layerId = "574EE4B9-5C1A-4E7E-9985-C08FACB65BD8";
+shapes = (
+{
+closed = 1;
+nodes = (
+(478,71,l),
+(478,709,l),
+(22,709,l),
+(22,631,l),
+(399,631,l),
+(399,71,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(599,193,l),
+(278,194,l),
+(438,0,l)
+);
+}
+);
+width = 620;
+}
+);
+unicode = 8628;
+}

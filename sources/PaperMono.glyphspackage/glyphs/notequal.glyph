@@ -1,0 +1,26 @@
+{
+color = 1;
+glyphname = notequal;
+layers = (
+{
+layerId = "574EE4B9-5C1A-4E7E-9985-C08FACB65BD8";
+shapes = (
+{
+closed = 1;
+nodes = (
+(270,37,l),
+(424,561,l),
+(350,561,l),
+(196,37,l)
+);
+},
+{
+alignment = -1;
+ref = equal;
+}
+);
+width = 620;
+}
+);
+unicode = 8800;
+}

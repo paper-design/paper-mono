@@ -1,0 +1,4 @@
+.DS_Store
+/sources/build.ninja
+/sources/.ninja_log
+instance_ufos

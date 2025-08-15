@@ -1,0 +1,31 @@
+{
+color = 1;
+glyphname = gravecomb.case;
+layers = (
+{
+anchors = (
+{
+name = _top;
+pos = (370,740);
+},
+{
+name = top;
+pos = (370,938);
+}
+);
+layerId = "574EE4B9-5C1A-4E7E-9985-C08FACB65BD8";
+shapes = (
+{
+closed = 1;
+nodes = (
+(404,800,l),
+(330,938,l),
+(236,938,l),
+(334,800,l)
+);
+}
+);
+width = 620;
+}
+);
+}

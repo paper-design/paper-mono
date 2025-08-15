@@ -1,0 +1,36 @@
+{
+color = 1;
+glyphname = V;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (310,0);
+},
+{
+name = top;
+pos = (310,740);
+}
+);
+layerId = "574EE4B9-5C1A-4E7E-9985-C08FACB65BD8";
+shapes = (
+{
+closed = 1;
+nodes = (
+(366,0,l),
+(580,740,l),
+(488,740,l),
+(298,56,l),
+(322,56,l),
+(132,740,l),
+(40,740,l),
+(254,0,l)
+);
+}
+);
+width = 620;
+}
+);
+unicode = 86;
+}

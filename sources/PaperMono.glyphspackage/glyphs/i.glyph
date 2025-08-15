@@ -1,0 +1,20 @@
+{
+color = 1;
+glyphname = i;
+layers = (
+{
+layerId = "574EE4B9-5C1A-4E7E-9985-C08FACB65BD8";
+shapes = (
+{
+ref = idotless;
+},
+{
+pos = (23,0);
+ref = dotaccentcomb;
+}
+);
+width = 620;
+}
+);
+unicode = 105;
+}

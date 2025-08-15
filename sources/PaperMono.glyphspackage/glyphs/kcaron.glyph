@@ -1,0 +1,19 @@
+{
+glyphname = kcaron;
+layers = (
+{
+layerId = "574EE4B9-5C1A-4E7E-9985-C08FACB65BD8";
+shapes = (
+{
+ref = k;
+},
+{
+pos = (-166,38);
+ref = caroncomb.case;
+}
+);
+width = 620;
+}
+);
+unicode = 489;
+}

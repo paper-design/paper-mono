@@ -1,0 +1,19 @@
+{
+color = 9;
+glyphname = downTipRightArrow;
+layers = (
+{
+layerId = "574EE4B9-5C1A-4E7E-9985-C08FACB65BD8";
+shapes = (
+{
+alignment = -1;
+angle = 180;
+pos = (620,710);
+ref = upTipLeftArrow;
+}
+);
+width = 620;
+}
+);
+unicode = 8627;
+}

@@ -1,0 +1,17 @@
+{
+color = 1;
+glyphname = breve;
+layers = (
+{
+layerId = "574EE4B9-5C1A-4E7E-9985-C08FACB65BD8";
+shapes = (
+{
+alignment = -1;
+ref = brevecomb;
+}
+);
+width = 620;
+}
+);
+unicode = 728;
+}

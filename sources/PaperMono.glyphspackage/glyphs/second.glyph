@@ -1,0 +1,23 @@
+{
+color = 9;
+glyphname = second;
+layers = (
+{
+layerId = "574EE4B9-5C1A-4E7E-9985-C08FACB65BD8";
+shapes = (
+{
+alignment = -1;
+pos = (-90,0);
+ref = minute;
+},
+{
+alignment = -1;
+pos = (90,0);
+ref = minute;
+}
+);
+width = 620;
+}
+);
+unicode = 8243;
+}

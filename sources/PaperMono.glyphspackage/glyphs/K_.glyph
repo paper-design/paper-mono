@@ -1,0 +1,50 @@
+{
+color = 1;
+glyphname = K;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (294,0);
+},
+{
+name = top;
+pos = (287,740);
+}
+);
+layerId = "574EE4B9-5C1A-4E7E-9985-C08FACB65BD8";
+shapes = (
+{
+closed = 1;
+nodes = (
+(560,740,l),
+(454,740,l),
+(146,372,l),
+(146,256,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(156,0,l),
+(156,740,l),
+(70,740,l),
+(70,0,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(570,0,l),
+(276,442,l),
+(216,380,l),
+(464,0,l)
+);
+}
+);
+width = 620;
+}
+);
+unicode = 75;
+}

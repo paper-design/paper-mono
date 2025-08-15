@@ -1,0 +1,19 @@
+{
+glyphname = Tcedilla;
+layers = (
+{
+layerId = "574EE4B9-5C1A-4E7E-9985-C08FACB65BD8";
+shapes = (
+{
+ref = T;
+},
+{
+pos = (22,0);
+ref = cedillacomb;
+}
+);
+width = 620;
+}
+);
+unicode = 354;
+}

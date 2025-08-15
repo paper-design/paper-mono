@@ -1,0 +1,19 @@
+{
+color = 9;
+glyphname = aogonek.ss02;
+layers = (
+{
+layerId = "574EE4B9-5C1A-4E7E-9985-C08FACB65BD8";
+shapes = (
+{
+ref = a.ss02;
+},
+{
+pos = (132,0);
+ref = ogonekcomb;
+}
+);
+width = 620;
+}
+);
+}

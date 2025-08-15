@@ -1,0 +1,31 @@
+{
+color = 1;
+glyphname = dagger;
+layers = (
+{
+layerId = "574EE4B9-5C1A-4E7E-9985-C08FACB65BD8";
+shapes = (
+{
+closed = 1;
+nodes = (
+(350,60,l),
+(350,740,l),
+(270,740,l),
+(270,60,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(520,484,l),
+(520,560,l),
+(100,560,l),
+(100,484,l)
+);
+}
+);
+width = 620;
+}
+);
+unicode = 8224;
+}

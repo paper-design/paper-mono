@@ -1,0 +1,3419 @@
+{
+.appVersion = "3422";
+.formatVersion = 3;
+classes = (
+{
+automatic = 1;
+code = "A Aacute Abreve Acaron Acircumflex Adieresis Agrave Amacron Aogonek Aring Atilde AE B C Cacute Ccaron Ccedilla Ccircumflex Cdotaccent D Dcaron Dcroat Eth E Eacute Ecaron Ecircumflex Edieresis Edotaccent Egrave Emacron Eogonek Etilde Schwa F G Gbreve Gcircumflex Gcommaaccent Gdotaccent Gmacron Gstroke H Hbar Hcircumflex I IJ Iacute Icircumflex Idieresis Idotaccent Igrave Imacron Iogonek Itilde J Jacute Jcircumflex K Kcaron Kcommaaccent L Lacute Lcaron Lcommaaccent Lslash M N Nacute Ncaron Ncommaaccent Ntilde Eng O Oacute Ocircumflex Odieresis Ograve Ohungarumlaut Omacron Oslash Otilde OE P Thorn Q R Racute Rcaron Rcommaaccent S Sacute Scaron Scedilla Scircumflex Scommaaccent Germandbls T Tbar Tcaron Tcedilla Tcommaaccent U Uacute Ubreve Ucircumflex Udieresis Ugrave Uhungarumlaut Umacron Uogonek Uring Utilde V W Wacute Wcircumflex Wdieresis Wgrave X Y Yacute Ycircumflex Ydieresis Ygrave Ytilde Z Zacute Zcaron Zdotaccent Saltillo Lcommaaccent.loclMAH Ncommaaccent.loclMAH Lambda Omega";
+name = Uppercase;
+},
+{
+code = "zero one two three four five six seven eight nine";
+name = FIGURES;
+}
+);
+customParameters = (
+{
+name = "Use Typo Metrics";
+value = 1;
+},
+{
+name = "Write lastChange";
+value = 0;
+},
+{
+name = "Write DisplayStrings";
+value = 0;
+},
+{
+name = "Family Alignment Zones";
+value = (
+{
+pos = 778;
+size = 12;
+},
+{
+pos = 740;
+size = 12;
+},
+{
+pos = 530;
+size = 12;
+},
+{
+pos = 0;
+size = -12;
+},
+{
+pos = -190;
+size = -12;
+}
+);
+},
+{
+name = fsType;
+value = (
+);
+},
+{
+name = isFixedPitch;
+value = 1;
+},
+{
+name = glyphOrder;
+value = (
+.notdef,
+space,
+nbspace,
+"**Uppercase**",
+A,
+Aacute,
+Abreve,
+Acaron,
+Acircumflex,
+Adieresis,
+Agrave,
+Amacron,
+Aogonek,
+Aring,
+Atilde,
+AE,
+B,
+C,
+Cacute,
+Ccaron,
+Ccedilla,
+Ccircumflex,
+Cdotaccent,
+D,
+Dcaron,
+Dcroat,
+Eth,
+E,
+Eacute,
+Ecaron,
+Ecircumflex,
+Edieresis,
+Edotaccent,
+Egrave,
+Emacron,
+Eogonek,
+Etilde,
+Schwa,
+F,
+G,
+Gbreve,
+Gcaron,
+Gcircumflex,
+Gcommaaccent,
+Gdotaccent,
+Gmacron,
+Gstroke,
+H,
+Hbar,
+Hcircumflex,
+I,
+IJ,
+Iacute,
+Icircumflex,
+Idieresis,
+Idotaccent,
+Igrave,
+Imacron,
+Iogonek,
+Itilde,
+J,
+Jacute,
+Jcircumflex,
+K,
+Kcaron,
+Kcommaaccent,
+L,
+Lacute,
+Lcaron,
+Lcommaaccent,
+Lslash,
+M,
+N,
+Nacute,
+Ncaron,
+Ncommaaccent,
+Ntilde,
+Eng,
+O,
+Oacute,
+Ocircumflex,
+Odieresis,
+Ograve,
+Ohungarumlaut,
+Omacron,
+Oslash,
+Otilde,
+OE,
+P,
+Thorn,
+Q,
+R,
+Racute,
+Rcaron,
+Rcommaaccent,
+S,
+Sacute,
+Scaron,
+Scedilla,
+Scircumflex,
+Scommaaccent,
+Germandbls,
+T,
+Tbar,
+Tcaron,
+Tcedilla,
+Tcommaaccent,
+U,
+Uacute,
+Ubreve,
+Ucircumflex,
+Udieresis,
+Ugrave,
+Uhungarumlaut,
+Umacron,
+Uogonek,
+Uring,
+Utilde,
+V,
+W,
+Wacute,
+Wcircumflex,
+Wdieresis,
+Wgrave,
+X,
+Y,
+Yacute,
+Ycircumflex,
+Ydieresis,
+Ygrave,
+Ytilde,
+Z,
+Zacute,
+Zcaron,
+Zdotaccent,
+Saltillo,
+Lcommaaccent.loclMAH,
+Ncommaaccent.loclMAH,
+"**Lowercase**",
+a,
+aacute,
+abreve,
+acaron,
+acircumflex,
+adieresis,
+agrave,
+amacron,
+aogonek,
+aring,
+atilde,
+ae,
+b,
+c,
+cacute,
+ccaron,
+ccedilla,
+ccircumflex,
+cdotaccent,
+d,
+dcaron,
+dcroat,
+eth,
+e,
+eacute,
+ecaron,
+ecircumflex,
+edieresis,
+edotaccent,
+egrave,
+emacron,
+eogonek,
+etilde,
+schwa,
+f,
+g,
+gbreve,
+gcaron,
+gcircumflex,
+gcommaaccent,
+gdotaccent,
+gmacron,
+gstroke,
+h,
+hbar,
+hcircumflex,
+i,
+idotless,
+iacute,
+icircumflex,
+idieresis,
+idotaccent,
+igrave,
+imacron,
+iogonek,
+itilde,
+ij,
+j,
+jdotless,
+jacute,
+jcircumflex,
+k,
+kcaron,
+kcommaaccent,
+l,
+lacute,
+lcaron,
+lcommaaccent,
+lslash,
+m,
+n,
+nacute,
+ncaron,
+ncommaaccent,
+ntilde,
+eng,
+o,
+oacute,
+ocircumflex,
+odieresis,
+ograve,
+ohungarumlaut,
+omacron,
+oslash,
+otilde,
+oe,
+p,
+thorn,
+q,
+r,
+racute,
+rcaron,
+rcommaaccent,
+s,
+sacute,
+scaron,
+scedilla,
+scircumflex,
+scommaaccent,
+germandbls,
+t,
+tbar,
+tcaron,
+tcedilla,
+tcommaaccent,
+u,
+uacute,
+ubreve,
+ucircumflex,
+udieresis,
+ugrave,
+uhungarumlaut,
+umacron,
+uogonek,
+uring,
+utilde,
+v,
+w,
+wacute,
+wcircumflex,
+wdieresis,
+wgrave,
+x,
+y,
+yacute,
+ycircumflex,
+ydieresis,
+ygrave,
+ytilde,
+z,
+zacute,
+zcaron,
+zdotaccent,
+saltillo,
+lcommaaccent.loclMAH,
+ncommaaccent.loclMAH,
+"**Stylistic alternates**",
+a.ss01,
+aacute.ss01,
+abreve.ss01,
+acaron.ss01,
+acircumflex.ss01,
+adieresis.ss01,
+agrave.ss01,
+amacron.ss01,
+aogonek.ss01,
+aring.ss01,
+atilde.ss01,
+a.ss02,
+aacute.ss02,
+abreve.ss02,
+acaron.ss02,
+acircumflex.ss02,
+adieresis.ss02,
+agrave.ss02,
+amacron.ss02,
+aogonek.ss02,
+aring.ss02,
+atilde.ss02,
+"**Ligatures**",
+fi,
+fl,
+"**Ordinals**",
+ordfeminine,
+ordmasculine,
+"**Greek**",
+Lambda,
+Omega,
+lambda,
+pi,
+"**Figures (lining)**",
+zero,
+one,
+two,
+three,
+four,
+five,
+six,
+seven,
+eight,
+nine,
+"**Figures (black circled)**",
+zero.blackCircled,
+one.blackCircled,
+two.blackCircled,
+three.blackCircled,
+four.blackCircled,
+five.blackCircled,
+six.blackCircled,
+seven.blackCircled,
+eight.blackCircled,
+nine.blackCircled,
+"**Figures (circled)**",
+zero.circled,
+one.circled,
+two.circled,
+three.circled,
+four.circled,
+five.circled,
+six.circled,
+seven.circled,
+eight.circled,
+nine.circled,
+"**Special figure variants**",
+zero.ss09,
+"**Denominators**",
+zero.dnom,
+one.dnom,
+two.dnom,
+three.dnom,
+four.dnom,
+five.dnom,
+six.dnom,
+seven.dnom,
+eight.dnom,
+nine.dnom,
+"**Numerators**",
+zero.numr,
+one.numr,
+two.numr,
+three.numr,
+four.numr,
+five.numr,
+six.numr,
+seven.numr,
+eight.numr,
+nine.numr,
+"**Fractions**",
+fraction,
+onehalf,
+onethird,
+twothirds,
+onequarter,
+threequarters,
+onefifth,
+oneeighth,
+threeeighths,
+fiveeighths,
+seveneighths,
+"**Inferior figures**",
+zeroinferior,
+oneinferior,
+twoinferior,
+threeinferior,
+fourinferior,
+fiveinferior,
+sixinferior,
+seveninferior,
+eightinferior,
+nineinferior,
+"**Superior figures**",
+zerosuperior,
+onesuperior,
+twosuperior,
+threesuperior,
+foursuperior,
+fivesuperior,
+sixsuperior,
+sevensuperior,
+eightsuperior,
+ninesuperior,
+"**Punctuation**",
+period,
+comma,
+colon,
+semicolon,
+ellipsis,
+exclam,
+exclamdown,
+question,
+questiondown,
+periodcentered,
+bullet,
+asterisk,
+dittomark,
+numbersign,
+slash,
+backslash,
+hyphen,
+endash,
+emdash,
+underscore,
+wavedash,
+parenleft,
+parenright,
+braceleft,
+braceright,
+bracketleft,
+bracketright,
+quotesinglbase,
+quotedblbase,
+quotedblleft,
+quotedblright,
+quoteleft,
+quoteright,
+guillemetleft,
+guillemetright,
+guilsinglleft,
+guilsinglright,
+quotedbl,
+quotesingle,
+"**Currency & symbols**",
+florin,
+baht,
+apple,
+at,
+ampersand,
+paragraph,
+section,
+copyright,
+registered,
+published,
+trademark,
+degree,
+minute,
+second,
+bar,
+brokenbar,
+dagger,
+daggerdbl,
+numero,
+cent,
+currency,
+dollar,
+euro,
+hryvnia,
+peso,
+ruble,
+rupeeIndian,
+sheqel,
+sterling,
+yen,
+"**Math & technical**",
+plus,
+minus,
+multiply,
+divide,
+equal,
+notequal,
+greater,
+less,
+greaterequal,
+lessequal,
+plusminus,
+approxequal,
+asciitilde,
+logicalnot,
+asciicircum,
+infinity,
+integral,
+increment,
+product,
+summation,
+radical,
+micro,
+partialdiff,
+percent,
+perthousand,
+ratio,
+lozenge,
+"**Arrows**",
+upArrow,
+northEastArrow,
+rightArrow,
+southEastArrow,
+downArrow,
+southWestArrow,
+leftArrow,
+northWestArrow,
+leftRightArrow,
+upDownArrow,
+rightWaveArrow,
+leftTabArrow,
+rightTabArrow,
+leftHookArrow,
+rightHookArrow,
+upTipLeftArrow,
+upTipRightArrow,
+downTipRightArrow,
+rightCornerDownArrow,
+carriagereturn,
+upWhiteArrow,
+upArrow.ss07,
+northEastArrow.ss07,
+rightArrow.ss07,
+southEastArrow.ss07,
+downArrow.ss07,
+southWestArrow.ss07,
+leftArrow.ss07,
+northWestArrow.ss07,
+leftRightArrow.ss07,
+upDownArrow.ss07,
+"**Combining marks**",
+dieresiscomb,
+dotaccentcomb,
+gravecomb,
+acutecomb,
+hungarumlautcomb,
+caroncomb.alt,
+circumflexcomb,
+caroncomb,
+brevecomb,
+ringcomb,
+tildecomb,
+macroncomb,
+commaturnedabovecomb,
+commaaccentcomb,
+commaaccentcomb.loclMAH,
+cedillacomb,
+ogonekcomb,
+strokeshortcomb,
+strokelongcomb,
+slashshortcomb,
+slashlongcomb,
+dieresiscomb.case,
+dotaccentcomb.case,
+gravecomb.case,
+acutecomb.case,
+hungarumlautcomb.case,
+circumflexcomb.case,
+caroncomb.case,
+brevecomb.case,
+ringcomb.case,
+tildecomb.case,
+macroncomb.case,
+strokeshortcomb.case,
+slashshortcomb.case,
+slashlongcomb.case,
+"**Spacing diacritics**",
+dieresis,
+dotaccent,
+grave,
+acute,
+hungarumlaut,
+circumflex,
+caron,
+breve,
+ring,
+tilde,
+macron,
+cedilla,
+ogonek,
+"**Final misc**",
+blackCircled,
+blackCircledStroke
+);
+},
+{
+name = panose;
+value = (
+2,
+0,
+0,
+9,
+0,
+0,
+0,
+0,
+0,
+0
+);
+},
+{
+name = "meta Table";
+value = (
+{
+data = Latn;
+tag = dlng;
+}
+);
+}
+);
+date = "2025-08-14 19:45:36 +0000";
+familyName = "Paper Mono";
+featurePrefixes = (
+{
+automatic = 1;
+code = "languagesystem DFLT dflt;
+
+languagesystem latn dflt;
+languagesystem latn AZE;
+languagesystem latn CRT;
+languagesystem latn KAZ;
+languagesystem latn TAT;
+languagesystem latn TRK;
+languagesystem latn ROM;
+languagesystem latn MOL;
+languagesystem latn MAH;
+languagesystem latn NLD;
+";
+name = Languagesystems;
+}
+);
+features = (
+{
+automatic = 1;
+code = "feature locl;
+feature subs;
+feature sinf;
+feature sups;
+feature numr;
+feature dnom;
+feature frac;
+feature ordn;
+feature case;
+feature ss01;
+feature ss02;
+feature ss07;
+feature ss09;
+";
+tag = aalt;
+},
+{
+automatic = 1;
+code = "lookup ccmp_DFLT_1 {
+	@CombiningTopAccents = [acutecomb brevecomb caroncomb circumflexcomb commaturnedabovecomb dieresiscomb dotaccentcomb gravecomb hungarumlautcomb macroncomb ringcomb tildecomb];
+	lookupflag UseMarkFilteringSet @CombiningTopAccents;
+	sub i' @CombiningTopAccents by idotless;
+	sub j' @CombiningTopAccents by jdotless;
+} ccmp_DFLT_1;
+
+lookup ccmp_Other_1 {
+	lookupflag 0;
+	@Markscomb = [dieresiscomb dotaccentcomb gravecomb acutecomb hungarumlautcomb circumflexcomb caroncomb brevecomb ringcomb tildecomb macroncomb strokeshortcomb slashshortcomb slashlongcomb];
+	@MarkscombCase = [dieresiscomb.case dotaccentcomb.case gravecomb.case acutecomb.case hungarumlautcomb.case circumflexcomb.case caroncomb.case brevecomb.case ringcomb.case tildecomb.case macroncomb.case strokeshortcomb.case slashshortcomb.case slashlongcomb.case];
+	sub @Markscomb @Markscomb' by @MarkscombCase;
+	sub @Uppercase @Markscomb' by @MarkscombCase;
+} ccmp_Other_1;
+
+lookup ccmp_Other_2 {
+	lookupflag 0;
+	sub @Markscomb' @MarkscombCase by @MarkscombCase;
+	sub @MarkscombCase @Markscomb' by @MarkscombCase;
+} ccmp_Other_2;
+
+lookup ccmp_latn_1 {
+	lookupflag 0;
+	sub fi by f i;
+	sub fl by f l;
+} ccmp_latn_1;
+
+script latn;
+lookup ccmp_latn_1;
+";
+tag = ccmp;
+},
+{
+automatic = 1;
+code = "script latn;
+language AZE;
+lookup locl_latn_0 {
+	sub i by idotaccent;
+} locl_latn_0;
+language CRT;
+lookup locl_latn_0;
+language KAZ;
+lookup locl_latn_0;
+language TAT;
+lookup locl_latn_0;
+language TRK;
+lookup locl_latn_0;
+
+script latn;
+language ROM;
+lookup locl_latn_1 {
+	sub Scedilla by Scommaaccent;
+	sub scedilla by scommaaccent;
+	sub Tcedilla by Tcommaaccent;
+	sub tcedilla by tcommaaccent;
+} locl_latn_1;
+language MOL;
+lookup locl_latn_1;
+
+script latn;
+language MAH;
+lookup locl_latn_2 {
+	sub Lcommaaccent by Lcommaaccent.loclMAH;
+	sub Ncommaaccent by Ncommaaccent.loclMAH;
+	sub lcommaaccent by lcommaaccent.loclMAH;
+	sub ncommaaccent by ncommaaccent.loclMAH;
+	sub commaaccentcomb by commaaccentcomb.loclMAH;
+} locl_latn_2;
+
+script latn;
+language NLD;
+lookup locl_latn_3 {
+	sub iacute j' by jacute;
+	sub Iacute J' by Jacute;
+} locl_latn_3;
+";
+tag = locl;
+},
+{
+automatic = 1;
+code = "sub zero by zeroinferior;
+sub one by oneinferior;
+sub two by twoinferior;
+sub three by threeinferior;
+sub four by fourinferior;
+sub five by fiveinferior;
+sub six by sixinferior;
+sub seven by seveninferior;
+sub eight by eightinferior;
+sub nine by nineinferior;
+";
+tag = subs;
+},
+{
+automatic = 1;
+code = "sub zero by zeroinferior;
+sub one by oneinferior;
+sub two by twoinferior;
+sub three by threeinferior;
+sub four by fourinferior;
+sub five by fiveinferior;
+sub six by sixinferior;
+sub seven by seveninferior;
+sub eight by eightinferior;
+sub nine by nineinferior;
+";
+tag = sinf;
+},
+{
+automatic = 1;
+code = "sub zero by zerosuperior;
+sub one by onesuperior;
+sub two by twosuperior;
+sub three by threesuperior;
+sub four by foursuperior;
+sub five by fivesuperior;
+sub six by sixsuperior;
+sub seven by sevensuperior;
+sub eight by eightsuperior;
+sub nine by ninesuperior;
+";
+tag = sups;
+},
+{
+automatic = 1;
+code = "sub zero by zero.numr;
+sub one by one.numr;
+sub two by two.numr;
+sub three by three.numr;
+sub four by four.numr;
+sub five by five.numr;
+sub six by six.numr;
+sub seven by seven.numr;
+sub eight by eight.numr;
+sub nine by nine.numr;
+";
+tag = numr;
+},
+{
+automatic = 1;
+code = "sub zero by zero.dnom;
+sub one by one.dnom;
+sub two by two.dnom;
+sub three by three.dnom;
+sub four by four.dnom;
+sub five by five.dnom;
+sub six by six.dnom;
+sub seven by seven.dnom;
+sub eight by eight.dnom;
+sub nine by nine.dnom;
+";
+tag = dnom;
+},
+{
+code = "sub one [fraction slash] two by onehalf;
+sub one [fraction slash] three by onethird;
+sub two slash three by twothirds;
+sub one [fraction slash] four by onequarter;
+sub three [fraction slash] four by threequarters;
+sub one [fraction slash] five by onefifth;
+sub one [fraction slash] eight by oneeighth;
+sub three [fraction slash] eight by threeeighths;
+sub five [fraction slash] eight by fiveeighths;
+sub seven [fraction slash] eight by seveneighths;";
+tag = frac;
+},
+{
+automatic = 1;
+code = "sub [zero one two three four five six seven eight nine] [A a]' by ordfeminine;
+sub [zero one two three four five six seven eight nine] [O o]' by ordmasculine;
+sub N o period by numero;
+";
+tag = ordn;
+},
+{
+automatic = 1;
+code = "sub dieresiscomb by dieresiscomb.case;
+sub dotaccentcomb by dotaccentcomb.case;
+sub gravecomb by gravecomb.case;
+sub acutecomb by acutecomb.case;
+sub hungarumlautcomb by hungarumlautcomb.case;
+sub circumflexcomb by circumflexcomb.case;
+sub caroncomb by caroncomb.case;
+sub brevecomb by brevecomb.case;
+sub ringcomb by ringcomb.case;
+sub tildecomb by tildecomb.case;
+sub macroncomb by macroncomb.case;
+sub strokeshortcomb by strokeshortcomb.case;
+sub slashshortcomb by slashshortcomb.case;
+sub slashlongcomb by slashlongcomb.case;
+";
+tag = case;
+},
+{
+automatic = 1;
+code = "lookupflag IgnoreMarks;
+sub f i by fi;
+sub f l by fl;
+";
+disabled = 1;
+tag = liga;
+},
+{
+automatic = 1;
+code = "sub a by a.ss01;
+sub aacute by aacute.ss01;
+sub abreve by abreve.ss01;
+sub acaron by acaron.ss01;
+sub acircumflex by acircumflex.ss01;
+sub adieresis by adieresis.ss01;
+sub agrave by agrave.ss01;
+sub amacron by amacron.ss01;
+sub aogonek by aogonek.ss01;
+sub aring by aring.ss01;
+sub atilde by atilde.ss01;
+";
+labels = (
+{
+language = dflt;
+value = "Alternative tailed a";
+}
+);
+tag = ss01;
+},
+{
+automatic = 1;
+code = "sub a by a.ss02;
+sub aacute by aacute.ss02;
+sub abreve by abreve.ss02;
+sub acaron by acaron.ss02;
+sub acircumflex by acircumflex.ss02;
+sub adieresis by adieresis.ss02;
+sub agrave by agrave.ss02;
+sub amacron by amacron.ss02;
+sub aogonek by aogonek.ss02;
+sub aring by aring.ss02;
+sub atilde by atilde.ss02;
+";
+labels = (
+{
+language = dflt;
+value = "Alternative single storey a";
+}
+);
+tag = ss02;
+},
+{
+automatic = 1;
+code = "sub upArrow by upArrow.ss07;
+sub northEastArrow by northEastArrow.ss07;
+sub rightArrow by rightArrow.ss07;
+sub southEastArrow by southEastArrow.ss07;
+sub downArrow by downArrow.ss07;
+sub southWestArrow by southWestArrow.ss07;
+sub leftArrow by leftArrow.ss07;
+sub northWestArrow by northWestArrow.ss07;
+sub leftRightArrow by leftRightArrow.ss07;
+sub upDownArrow by upDownArrow.ss07;
+";
+labels = (
+{
+language = dflt;
+value = "Alt arrows";
+}
+);
+tag = ss07;
+},
+{
+automatic = 1;
+code = "sub zero by zero.zero;
+";
+tag = zero;
+}
+);
+fontMaster = (
+{
+customParameters = (
+{
+name = hheaAscender;
+value = 970;
+},
+{
+name = hheaDescender;
+value = -230;
+},
+{
+name = hheaLineGap;
+value = 0;
+},
+{
+name = typoAscender;
+value = 970;
+},
+{
+name = typoDescender;
+value = -230;
+},
+{
+name = typoLineGap;
+value = 0;
+},
+{
+name = winAscent;
+value = 1000;
+},
+{
+name = winDescent;
+value = 260;
+}
+);
+id = "574EE4B9-5C1A-4E7E-9985-C08FACB65BD8";
+metricValues = (
+{
+over = 12;
+pos = 740;
+},
+{
+over = 12;
+pos = 530;
+},
+{
+over = -12;
+},
+{
+over = -12;
+pos = -190;
+},
+{
+},
+{
+over = 12;
+pos = 778;
+}
+);
+name = Regular;
+stemValues = (
+90,
+84,
+84,
+80
+);
+}
+);
+instances = (
+{
+instanceInterpolations = {
+"574EE4B9-5C1A-4E7E-9985-C08FACB65BD8" = 1;
+};
+name = Regular;
+}
+);
+metrics = (
+{
+type = "cap height";
+},
+{
+type = "x-height";
+},
+{
+type = baseline;
+},
+{
+type = descender;
+},
+{
+type = "italic angle";
+},
+{
+type = ascender;
+}
+);
+properties = (
+{
+key = copyrights;
+values = (
+{
+language = dflt;
+value = "Copyright 2025 The Paper Mono Project Authors https://github.com/paper-design/paper-mono";
+}
+);
+},
+{
+key = designers;
+values = (
+{
+language = dflt;
+value = "Guido Ferreyra, Javier Quintana Godoy";
+}
+);
+},
+{
+key = designerURL;
+value = "https://www.tipografia.com.ar";
+},
+{
+key = licenses;
+values = (
+{
+language = dflt;
+value = "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org";
+}
+);
+},
+{
+key = manufacturers;
+values = (
+{
+language = dflt;
+value = "Guido Ferreyra, Javier Quintana Godoy, Paper";
+}
+);
+},
+{
+key = manufacturerURL;
+value = "https://www.tipografia.com.ar";
+},
+{
+key = vendorID;
+value = PAPR;
+}
+);
+stems = (
+{
+name = Upper_H;
+},
+{
+name = Lower_H;
+},
+{
+horizontal = 1;
+name = Upper_V;
+},
+{
+horizontal = 1;
+name = Lower_V;
+}
+);
+unitsPerEm = 1000;
+userData = {
+GSDimensionPlugin.Dimensions = {
+"37DC72B3-BCF2-46ED-AAD5-F0285A86700E" = {
+HH = "150";
+HV = "170";
+OH = "150";
+OV = "180";
+nV = "164";
+nd = "140";
+oH = "140";
+oV = "174";
+tH = "130";
+};
+"574EE4B9-5C1A-4E7E-9985-C08FACB65BD8" = {
+HH = "80";
+HV = "86";
+OH = "84";
+OV = "90";
+cydeH = "74";
+nV = "84";
+nd = "74";
+oH = "76";
+oV = "88";
+tH = "72";
+};
+"58B1DC7A-69F8-4375-AD2E-AC5103CCF536" = {
+HH = "158";
+HV = "180";
+OH = "154";
+OV = "184";
+cydeH = "125";
+nV = "170";
+nd = "142";
+oH = "146";
+oV = "176";
+tH = "130";
+};
+"EE2FFE84-06F1-4AFB-BBEC-60D09A436D14" = {
+HH = "30";
+HV = "32";
+OH = "32";
+OV = "34";
+nV = "30";
+nd = "30";
+oH = "30";
+oV = "32";
+tH = "28";
+};
+m01 = {
+HH = "86";
+HV = "88";
+OH = "86";
+OV = "92";
+nV = "86";
+nd = "76";
+oH = "82";
+oV = "90";
+tH = "76";
+};
+};
+backdropGlyphLib = {
+A = (
+(
+O,
+0,
+0
+)
+);
+AE = (
+(
+A,
+0,
+0
+),
+(
+E,
+0,
+0
+),
+(
+OE,
+1,
+0
+)
+);
+B = (
+(
+D,
+1,
+0
+),
+(
+E,
+1,
+0
+),
+(
+H,
+0,
+0
+),
+(
+P,
+0,
+0
+),
+(
+R,
+0,
+0
+),
+(
+Germandbls,
+0,
+0
+),
+(
+germandbls,
+0,
+0
+),
+(
+three,
+0,
+0
+),
+(
+eight,
+0,
+0
+),
+(
+E,
+1,
+0
+)
+);
+C = (
+(
+D,
+0,
+0
+),
+(
+G,
+1,
+0
+),
+(
+O,
+1,
+0
+),
+(
+Q,
+0,
+0
+)
+);
+D = (
+(
+B,
+0,
+0
+),
+(
+C,
+0,
+0
+),
+(
+E,
+1,
+0
+),
+(
+G,
+0,
+0
+),
+(
+O,
+0,
+0
+),
+(
+Q,
+0,
+0
+)
+);
+E = (
+(
+B,
+1,
+0
+),
+(
+D,
+0,
+0
+),
+(
+F,
+1,
+0
+),
+(
+H,
+0,
+0
+),
+(
+C,
+1,
+0
+)
+);
+Eng = (
+(
+N,
+1,
+0
+),
+(
+j,
+1,
+0
+)
+);
+F = (
+(
+E,
+1,
+0
+),
+(
+H,
+0,
+0
+)
+);
+G = (
+(
+A,
+0,
+0
+),
+(
+C,
+0,
+0
+),
+(
+D,
+0,
+0
+),
+(
+H,
+0,
+0
+),
+(
+O,
+1,
+0
+),
+(
+Q,
+0,
+0
+),
+(
+x,
+0,
+0
+)
+);
+Germandbls = (
+(
+B,
+0,
+0
+),
+(
+S,
+0,
+0
+),
+(
+T,
+0,
+0
+),
+(
+germandbls,
+0,
+0
+),
+(
+three,
+1,
+0
+)
+);
+H = (
+(
+B,
+0,
+0
+),
+(
+D,
+0,
+0
+),
+(
+E,
+0,
+0
+),
+(
+F,
+0,
+0
+),
+(
+I,
+0,
+0
+),
+(
+J,
+0,
+0
+),
+(
+K,
+0,
+0
+),
+(
+L,
+0,
+0
+),
+(
+M,
+0,
+0
+),
+(
+N,
+1,
+0
+),
+(
+P,
+0,
+0
+),
+(
+R,
+0,
+0
+),
+(
+U,
+1,
+0
+)
+);
+I = (
+(
+B,
+0,
+0
+),
+(
+D,
+0,
+0
+),
+(
+E,
+0,
+0
+),
+(
+F,
+0,
+0
+),
+(
+H,
+0,
+0
+),
+(
+J,
+0,
+0
+),
+(
+K,
+0,
+0
+),
+(
+L,
+0,
+0
+),
+(
+M,
+0,
+0
+),
+(
+N,
+0,
+0
+),
+(
+P,
+0,
+0
+),
+(
+R,
+0,
+0
+),
+(
+T,
+1,
+0
+),
+(
+U,
+0,
+0
+),
+(
+Y,
+1,
+0
+),
+(
+i,
+0,
+0
+),
+(
+l,
+1,
+0
+),
+(
+one,
+1,
+0
+)
+);
+I.ss01 = (
+(
+T,
+1,
+0
+)
+);
+IJ = (
+(
+I,
+0,
+0
+),
+(
+J,
+1,
+0
+),
+(
+U,
+1,
+0
+)
+);
+J = (
+(
+I,
+1,
+0
+),
+(
+U,
+0,
+0
+)
+);
+K = (
+(
+B,
+0,
+0
+),
+(
+H,
+0,
+0
+),
+(
+I,
+1,
+0
+),
+(
+R,
+0,
+0
+),
+(
+X,
+0,
+0
+),
+(
+Y,
+0,
+0
+)
+);
+L = (
+(
+E,
+0,
+0
+),
+(
+H,
+0,
+0
+),
+(
+I,
+0,
+0
+)
+);
+Lcaron = (
+(
+dcaron,
+1,
+0
+)
+);
+M = (
+(
+H,
+0,
+0
+),
+(
+I,
+0,
+0
+),
+(
+O,
+1,
+0
+),
+(
+N,
+0,
+0
+),
+(
+V,
+0,
+0
+),
+(
+W,
+0,
+0
+)
+);
+N = (
+(
+H,
+1,
+0
+),
+(
+I,
+0,
+0
+),
+(
+M,
+0,
+0
+),
+(
+U,
+1,
+0
+)
+);
+O = (
+(
+C,
+1,
+0
+),
+(
+D,
+0,
+0
+),
+(
+G,
+0,
+0
+),
+(
+Q,
+0,
+0
+),
+(
+zero,
+0,
+0
+),
+(
+H,
+0,
+0
+)
+);
+OE = (
+(
+E,
+0,
+0
+),
+(
+O,
+0,
+0
+),
+(
+OE,
+0,
+0
+)
+);
+Oslash = (
+(
+O,
+1,
+0
+),
+(
+Q,
+0,
+0
+)
+);
+P = (
+(
+B,
+1,
+0
+),
+(
+F,
+1,
+0
+),
+(
+R,
+1,
+0
+)
+);
+Q = (
+(
+C,
+0,
+0
+),
+(
+D,
+0,
+0
+),
+(
+G,
+0,
+0
+),
+(
+O,
+1,
+0
+),
+(
+R,
+0,
+0
+)
+);
+R = (
+(
+B,
+0,
+0
+),
+(
+F,
+0,
+0
+),
+(
+P,
+0,
+0
+),
+(
+Q,
+0,
+0
+),
+(
+X,
+0,
+0
+),
+(
+P,
+1,
+0
+)
+);
+R.001 = (
+(
+A,
+1,
+0
+)
+);
+S = (
+(
+C,
+0,
+0
+),
+(
+eight,
+0,
+0
+)
+);
+Saltillo = (
+(
+acute,
+1,
+0
+)
+);
+Schwa = (
+(
+C,
+1,
+0
+)
+);
+T = (
+(
+H,
+0,
+0
+),
+(
+I,
+1,
+0
+),
+(
+Y,
+1,
+0
+)
+);
+Thorn = (
+(
+D,
+0,
+0
+),
+(
+H,
+0,
+0
+),
+(
+I,
+0,
+0
+),
+(
+P,
+1,
+0
+)
+);
+U = (
+(
+H,
+0,
+0
+),
+(
+N,
+1,
+0
+),
+(
+O,
+0,
+0
+),
+(
+V,
+0,
+0
+)
+);
+V = (
+(
+U,
+0,
+0
+),
+(
+W,
+0,
+0
+),
+(
+X,
+0,
+0
+),
+(
+Y,
+0,
+0
+)
+);
+W = (
+(
+M,
+0,
+0
+),
+(
+V,
+0,
+0
+)
+);
+X = (
+(
+K,
+0,
+0
+),
+(
+N,
+0,
+0
+),
+(
+R,
+0,
+0
+),
+(
+V,
+0,
+0
+),
+(
+Y,
+1,
+0
+),
+(
+Z,
+1,
+0
+)
+);
+Y = (
+(
+I,
+0,
+0
+),
+(
+T,
+1,
+0
+),
+(
+U,
+0,
+0
+),
+(
+V,
+1,
+0
+),
+(
+W,
+0,
+0
+),
+(
+X,
+0,
+0
+)
+);
+Z = (
+(
+L,
+0,
+0
+),
+(
+T,
+0,
+0
+),
+(
+X,
+0,
+0
+)
+);
+a = (
+(
+e,
+0,
+0
+)
+);
+a.002 = (
+(
+d,
+1,
+0
+)
+);
+acutecomb = (
+(
+circumflexcomb,
+1,
+0
+)
+);
+ae = (
+(
+a,
+0,
+0
+),
+(
+e,
+0,
+0
+),
+(
+o,
+0,
+0
+),
+(
+oe,
+1,
+0
+)
+);
+ampersand = (
+(
+E,
+0,
+0
+),
+(
+t,
+0,
+0
+),
+(
+eight,
+0,
+0
+),
+(
+O,
+1,
+0
+)
+);
+asterisk = (
+(
+bracketleft,
+0,
+0
+),
+(
+numbersign,
+1,
+0
+)
+);
+at = (
+(
+a,
+0,
+0
+)
+);
+b = (
+(
+c,
+0,
+0
+),
+(
+e,
+0,
+0
+),
+(
+h,
+1,
+0
+),
+(
+k,
+0,
+0
+),
+(
+l,
+0,
+0
+),
+(
+o,
+0,
+0
+),
+(
+p,
+0,
+0
+)
+);
+blacklenticularbracketright = (
+(
+cornerbracketleft,
+1,
+0
+)
+);
+braceleft = (
+(
+bracketleft,
+0,
+0
+)
+);
+brevecomb = (
+(
+acute,
+1,
+0
+)
+);
+c = (
+(
+b,
+0,
+0
+),
+(
+d,
+0,
+0
+),
+(
+e,
+1,
+0
+),
+(
+g,
+0,
+0
+),
+(
+o,
+0,
+0
+),
+(
+p,
+0,
+0
+),
+(
+q,
+0,
+0
+)
+);
+cent = (
+(
+c,
+1,
+0
+)
+);
+circumflexcomb = (
+(
+acutecomb,
+1,
+0
+)
+);
+comma = (
+(
+period,
+1,
+0
+)
+);
+commaaccentcomb = (
+(
+cedilla,
+1,
+0
+)
+);
+d = (
+(
+c,
+0,
+0
+),
+(
+eth,
+0,
+0
+),
+(
+e,
+0,
+0
+),
+(
+l,
+0,
+0
+),
+(
+o,
+1,
+0
+),
+(
+q,
+1,
+0
+)
+);
+dcaron = (
+(
+acute,
+1,
+0
+)
+);
+dollar = (
+(
+S,
+1,
+0
+)
+);
+dotaccentcomb = (
+(
+acutecomb,
+1,
+0
+)
+);
+e = (
+(
+b,
+0,
+0
+),
+(
+c,
+0,
+0
+),
+(
+d,
+0,
+0
+),
+(
+g,
+1,
+0
+),
+(
+o,
+0,
+0
+),
+(
+p,
+0,
+0
+),
+(
+q,
+0,
+0
+)
+);
+eight = (
+(
+B,
+0,
+0
+),
+(
+zero,
+1,
+0
+),
+(
+three,
+1,
+0
+),
+(
+six,
+0,
+0
+),
+(
+nine,
+0,
+0
+)
+);
+eng = (
+(
+j,
+1,
+0
+),
+(
+m,
+0,
+0
+),
+(
+n,
+1,
+0
+)
+);
+estimated = (
+(
+e,
+0,
+0
+)
+);
+eth = (
+(
+d,
+0,
+0
+),
+(
+o,
+0,
+0
+)
+);
+euro = (
+(
+C,
+0,
+0
+)
+);
+exclam = (
+(
+I,
+0,
+0
+),
+(
+T,
+0,
+0
+),
+(
+one,
+0,
+0
+),
+(
+period,
+0,
+0
+),
+(
+question,
+0,
+0
+)
+);
+f = (
+(
+l,
+0,
+0
+),
+(
+longs,
+0,
+0
+),
+(
+germandbls,
+0,
+0
+),
+(
+t,
+1,
+0
+)
+);
+five = (
+(
+six,
+0,
+0
+),
+(
+three,
+1,
+0
+)
+);
+florin = (
+(
+f,
+1,
+0
+)
+);
+four = (
+(
+one,
+1,
+0
+),
+(
+two,
+1,
+0
+)
+);
+franc = (
+(
+F,
+1,
+0
+)
+);
+g = (
+(
+c,
+0,
+0
+),
+(
+e,
+0,
+0
+),
+(
+o,
+1,
+0
+),
+(
+q,
+0,
+0
+)
+);
+germandbls = (
+(
+B,
+0,
+0
+),
+(
+b,
+0,
+0
+),
+(
+f,
+0,
+0
+),
+(
+s,
+0,
+0
+),
+(
+longs,
+1,
+0
+),
+(
+three,
+0,
+0
+)
+);
+h = (
+(
+b,
+0,
+0
+),
+(
+k,
+0,
+0
+),
+(
+l,
+0,
+0
+),
+(
+m,
+0,
+0
+),
+(
+n,
+1,
+0
+),
+(
+r,
+0,
+0
+)
+);
+hyphen = (
+(
+H,
+1,
+0
+)
+);
+i = (
+(
+I,
+0,
+0
+),
+(
+j,
+0,
+0
+),
+(
+l,
+0,
+0
+),
+(
+n,
+0,
+0
+)
+);
+idotless = (
+(
+I,
+0,
+0
+),
+(
+i,
+0,
+0
+),
+(
+j,
+0,
+0
+),
+(
+uni0237,
+0,
+0
+),
+(
+l,
+0,
+0
+),
+(
+n,
+0,
+0
+)
+);
+j = (
+(
+i,
+1,
+0
+),
+(
+l,
+0,
+0
+),
+(
+n,
+0,
+0
+)
+);
+k = (
+(
+b,
+1,
+0
+),
+(
+h,
+0,
+0
+),
+(
+l,
+0,
+0
+),
+(
+x,
+1,
+0
+),
+(
+o,
+1,
+0
+)
+);
+l = (
+(
+I,
+1,
+0
+),
+(
+b,
+0,
+0
+),
+(
+h,
+0,
+0
+),
+(
+k,
+0,
+0
+),
+(
+i,
+0,
+0
+),
+(
+one,
+1,
+0
+)
+);
+lcaron = (
+(
+dcaron,
+1,
+0
+)
+);
+less = (
+(
+plus,
+0,
+0
+)
+);
+longs = (
+(
+f,
+1,
+0
+),
+(
+l,
+0,
+0
+),
+(
+germandbls,
+0,
+0
+)
+);
+m = (
+(
+h,
+0,
+0
+),
+(
+n,
+1,
+0
+),
+(
+r,
+0,
+0
+),
+(
+w,
+0,
+0
+)
+);
+mu = (
+(
+u,
+1,
+0
+)
+);
+n = (
+(
+h,
+0,
+0
+),
+(
+m,
+0,
+0
+),
+(
+r,
+0,
+0
+),
+(
+u,
+1,
+0
+),
+(
+v,
+0,
+0
+)
+);
+nine = (
+(
+zero,
+1,
+0
+),
+(
+six,
+1,
+0
+),
+(
+eight,
+1,
+0
+)
+);
+o = (
+(
+b,
+0,
+0
+),
+(
+c,
+0,
+0
+),
+(
+d,
+0,
+0
+),
+(
+eth,
+0,
+0
+),
+(
+e,
+0,
+0
+),
+(
+g,
+1,
+0
+),
+(
+p,
+0,
+0
+),
+(
+q,
+0,
+0
+),
+(
+o,
+1,
+0
+)
+);
+oe = (
+(
+ae,
+1,
+0
+),
+(
+e,
+0,
+0
+),
+(
+o,
+0,
+0
+)
+);
+ogonekcomb = (
+(
+cedilla,
+1,
+0
+)
+);
+one = (
+(
+I,
+1,
+0
+),
+(
+l,
+1,
+0
+)
+);
+oslash = (
+(
+o,
+1,
+0
+)
+);
+p = (
+(
+b,
+1,
+0
+),
+(
+c,
+0,
+0
+),
+(
+e,
+0,
+0
+),
+(
+n,
+0,
+0
+),
+(
+o,
+0,
+0
+)
+);
+paragraph = (
+(
+P,
+1,
+0
+)
+);
+parenleft = (
+(
+braceleft,
+0,
+0
+),
+(
+bracketleft,
+1,
+0
+)
+);
+product = (
+(
+H,
+1,
+0
+)
+);
+q = (
+(
+d,
+1,
+0
+),
+(
+c,
+0,
+0
+),
+(
+e,
+0,
+0
+),
+(
+g,
+0,
+0
+),
+(
+o,
+1,
+0
+)
+);
+question = (
+(
+two,
+0,
+0
+),
+(
+period,
+0,
+0
+),
+(
+exclam,
+0,
+0
+),
+(
+S,
+0,
+0
+),
+(
+exclam,
+0,
+0
+),
+(
+question,
+0,
+0
+),
+(
+two,
+0,
+0
+)
+);
+r = (
+(
+h,
+0,
+0
+),
+(
+m,
+0,
+0
+),
+(
+n,
+1,
+0
+)
+);
+ringcomb = (
+(
+circumflexcomb,
+1,
+0
+),
+(
+adieresis,
+1,
+0
+)
+);
+rupeeIndian = (
+(
+ruble,
+0,
+0
+)
+);
+s = (
+(
+o,
+1,
+0
+)
+);
+semicolon = (
+(
+colon,
+1,
+0
+)
+);
+seven = (
+(
+T,
+0,
+0
+),
+(
+zero,
+1,
+0
+)
+);
+six = (
+(
+zero,
+0,
+0
+),
+(
+five,
+0,
+0
+),
+(
+eight,
+0,
+0
+),
+(
+nine,
+0,
+0
+)
+);
+slash = (
+(
+V,
+0,
+0
+)
+);
+sterling = (
+(
+euro,
+1,
+0
+)
+);
+t = (
+(
+f,
+1,
+0
+),
+(
+l,
+0,
+0
+)
+);
+tcaron = (
+(
+lcaron,
+1,
+0
+)
+);
+thorn = (
+(
+b,
+0,
+0
+),
+(
+h,
+0,
+0
+),
+(
+p,
+0,
+0
+),
+(
+thorn,
+0,
+0
+),
+(
+Thorn,
+1,
+0
+)
+);
+three = (
+(
+B,
+0,
+0
+),
+(
+eight,
+1,
+0
+)
+);
+tildecomb = (
+(
+acutecomb,
+1,
+0
+)
+);
+two = (
+(
+question,
+1,
+0
+),
+(
+two,
+1,
+0
+),
+(
+two,
+1,
+0
+)
+);
+u = (
+(
+n,
+1,
+0
+),
+(
+v,
+0,
+0
+)
+);
+uni0237 = (
+(
+i,
+0,
+0
+),
+(
+idotless,
+1,
+0
+),
+(
+l,
+0,
+0
+),
+(
+n,
+0,
+0
+)
+);
+uni20B9 = (
+(
+R,
+1,
+0
+)
+);
+uni20BD = (
+(
+P,
+1,
+0
+)
+);
+uni20BF = (
+(
+B,
+1,
+0
+)
+);
+v = (
+(
+n,
+0,
+0
+),
+(
+w,
+0,
+0
+),
+(
+x,
+0,
+0
+),
+(
+y,
+0,
+0
+)
+);
+w = (
+(
+v,
+1,
+0
+),
+(
+m,
+0,
+0
+)
+);
+x = (
+(
+k,
+1,
+0
+),
+(
+v,
+0,
+0
+),
+(
+z,
+0,
+0
+)
+);
+y = (
+(
+v,
+1,
+0
+)
+);
+yen = (
+(
+Y,
+1,
+0
+)
+);
+z = (
+(
+x,
+1,
+0
+)
+);
+zero = (
+(
+O,
+1,
+0
+)
+);
+};
+};
+versionMajor = 1;
+versionMinor = 0;
+}

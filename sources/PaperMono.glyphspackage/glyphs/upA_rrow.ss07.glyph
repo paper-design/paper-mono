@@ -1,0 +1,29 @@
+{
+color = 9;
+glyphname = upArrow.ss07;
+layers = (
+{
+layerId = "574EE4B9-5C1A-4E7E-9985-C08FACB65BD8";
+shapes = (
+{
+closed = 1;
+nodes = (
+(310,694,l),
+(149,501,l),
+(471,500,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(349,18,l),
+(349,624,l),
+(271,624,l),
+(271,18,l)
+);
+}
+);
+width = 620;
+}
+);
+}

@@ -1,0 +1,26 @@
+{
+color = 1;
+glyphname = Gstroke;
+layers = (
+{
+layerId = "574EE4B9-5C1A-4E7E-9985-C08FACB65BD8";
+shapes = (
+{
+closed = 1;
+nodes = (
+(590,161,l),
+(590,229,l),
+(316,229,l),
+(316,161,l)
+);
+},
+{
+pos = (-10,0);
+ref = G;
+}
+);
+width = 620;
+}
+);
+unicode = 484;
+}

@@ -1,0 +1,16 @@
+{
+color = 9;
+glyphname = seven.dnom;
+layers = (
+{
+layerId = "574EE4B9-5C1A-4E7E-9985-C08FACB65BD8";
+shapes = (
+{
+pos = (0,-389);
+ref = sevensuperior;
+}
+);
+width = 620;
+}
+);
+}

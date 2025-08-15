@@ -1,0 +1,38 @@
+{
+color = 1;
+glyphname = z;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (310,0);
+},
+{
+name = top;
+pos = (310,530);
+}
+);
+layerId = "574EE4B9-5C1A-4E7E-9985-C08FACB65BD8";
+shapes = (
+{
+closed = 1;
+nodes = (
+(530,0,l),
+(530,72,l),
+(178,72,l),
+(522,450,l),
+(522,530,l),
+(100,530,l),
+(100,458,l),
+(434,458,l),
+(90,80,l),
+(90,0,l)
+);
+}
+);
+width = 620;
+}
+);
+unicode = 122;
+}

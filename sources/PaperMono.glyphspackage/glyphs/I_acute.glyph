@@ -1,0 +1,19 @@
+{
+glyphname = Iacute;
+layers = (
+{
+layerId = "574EE4B9-5C1A-4E7E-9985-C08FACB65BD8";
+shapes = (
+{
+ref = I;
+},
+{
+pos = (42,0);
+ref = acutecomb.case;
+}
+);
+width = 620;
+}
+);
+unicode = 205;
+}

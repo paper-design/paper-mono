@@ -1,0 +1,28 @@
+{
+color = 1;
+glyphname = schwa;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (310,0);
+},
+{
+name = top;
+pos = (310,530);
+}
+);
+layerId = "574EE4B9-5C1A-4E7E-9985-C08FACB65BD8";
+shapes = (
+{
+angle = 180;
+pos = (620,530);
+ref = e;
+}
+);
+width = 620;
+}
+);
+unicode = 601;
+}

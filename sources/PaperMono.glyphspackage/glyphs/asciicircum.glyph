@@ -1,0 +1,26 @@
+{
+color = 1;
+glyphname = asciicircum;
+layers = (
+{
+layerId = "574EE4B9-5C1A-4E7E-9985-C08FACB65BD8";
+shapes = (
+{
+closed = 1;
+nodes = (
+(184,403,l),
+(314,687,l),
+(306,687,l),
+(436,403,l),
+(520,403,l),
+(363,740,l),
+(257,740,l),
+(100,403,l)
+);
+}
+);
+width = 620;
+}
+);
+unicode = 94;
+}

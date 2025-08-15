@@ -1,0 +1,23 @@
+{
+color = 1;
+glyphname = approxequal;
+layers = (
+{
+layerId = "574EE4B9-5C1A-4E7E-9985-C08FACB65BD8";
+shapes = (
+{
+alignment = -1;
+pos = (0,-113);
+ref = asciitilde;
+},
+{
+alignment = -1;
+pos = (0,116);
+ref = asciitilde;
+}
+);
+width = 620;
+}
+);
+unicode = 8776;
+}

@@ -1,0 +1,21 @@
+{
+color = 9;
+glyphname = braceright;
+layers = (
+{
+layerId = "574EE4B9-5C1A-4E7E-9985-C08FACB65BD8";
+shapes = (
+{
+alignment = 1;
+pos = (620,0);
+ref = braceleft;
+scale = (-1,1);
+}
+);
+width = 620;
+}
+);
+metricLeft = o;
+metricRight = o;
+unicode = 125;
+}

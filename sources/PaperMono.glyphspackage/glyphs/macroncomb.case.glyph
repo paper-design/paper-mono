@@ -1,0 +1,31 @@
+{
+color = 1;
+glyphname = macroncomb.case;
+layers = (
+{
+anchors = (
+{
+name = _top;
+pos = (310,740);
+},
+{
+name = top;
+pos = (310,900);
+}
+);
+layerId = "574EE4B9-5C1A-4E7E-9985-C08FACB65BD8";
+shapes = (
+{
+closed = 1;
+nodes = (
+(480,832,l),
+(480,900,l),
+(140,900,l),
+(140,832,l)
+);
+}
+);
+width = 620;
+}
+);
+}

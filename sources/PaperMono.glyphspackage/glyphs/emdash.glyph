@@ -1,0 +1,22 @@
+{
+color = 9;
+glyphname = emdash;
+layers = (
+{
+layerId = "574EE4B9-5C1A-4E7E-9985-C08FACB65BD8";
+shapes = (
+{
+closed = 1;
+nodes = (
+(620,253,l),
+(620,331,l),
+(0,331,l),
+(0,253,l)
+);
+}
+);
+width = 620;
+}
+);
+unicode = 8212;
+}

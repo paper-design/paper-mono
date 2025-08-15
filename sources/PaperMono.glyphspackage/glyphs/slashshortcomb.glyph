@@ -1,0 +1,28 @@
+{
+color = 1;
+glyphname = slashshortcomb;
+layers = (
+{
+anchors = (
+{
+name = _center;
+pos = (310,391);
+}
+);
+layerId = "574EE4B9-5C1A-4E7E-9985-C08FACB65BD8";
+shapes = (
+{
+closed = 1;
+nodes = (
+(520,444,l),
+(520,518,l),
+(100,338,l),
+(100,264,l)
+);
+}
+);
+width = 620;
+}
+);
+unicode = 823;
+}

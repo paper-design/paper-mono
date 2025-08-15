@@ -1,0 +1,37 @@
+{
+color = 9;
+glyphname = fraction;
+layers = (
+{
+guides = (
+{
+angle = 55.742;
+pos = (20,0);
+}
+);
+layerId = "574EE4B9-5C1A-4E7E-9985-C08FACB65BD8";
+shapes = (
+{
+closed = 1;
+nodes = (
+(424,482,l),
+(600,740,l),
+(524,740,l),
+(348,482,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(196,258,l),
+(20,0,l),
+(96,0,l),
+(272,258,l)
+);
+}
+);
+width = 620;
+}
+);
+unicode = 8260;
+}

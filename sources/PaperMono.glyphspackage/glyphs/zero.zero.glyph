@@ -1,0 +1,24 @@
+{
+color = 1;
+glyphname = zero.zero;
+layers = (
+{
+layerId = "574EE4B9-5C1A-4E7E-9985-C08FACB65BD8";
+shapes = (
+{
+closed = 1;
+nodes = (
+(147,219,l),
+(514,461,l),
+(474,521,l),
+(107,279,l)
+);
+},
+{
+ref = zero;
+}
+);
+width = 620;
+}
+);
+}

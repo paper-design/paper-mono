@@ -1,0 +1,49 @@
+{
+color = 1;
+glyphname = L;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (331,0);
+},
+{
+name = center;
+pos = (200,390);
+},
+{
+name = top;
+pos = (153,740);
+},
+{
+name = topright;
+pos = (360,492);
+}
+);
+guides = (
+{
+angle = 90;
+pos = (550,80);
+}
+);
+layerId = "574EE4B9-5C1A-4E7E-9985-C08FACB65BD8";
+shapes = (
+{
+closed = 1;
+nodes = (
+(550,0,l),
+(550,80,l),
+(153,80,l),
+(196,40,l),
+(196,740,l),
+(110,740,l),
+(110,0,l)
+);
+}
+);
+width = 620;
+}
+);
+unicode = 76;
+}

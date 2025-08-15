@@ -1,0 +1,19 @@
+{
+color = 9;
+glyphname = aring.ss02;
+layers = (
+{
+layerId = "574EE4B9-5C1A-4E7E-9985-C08FACB65BD8";
+shapes = (
+{
+ref = a.ss02;
+},
+{
+pos = (-29,0);
+ref = ringcomb;
+}
+);
+width = 620;
+}
+);
+}

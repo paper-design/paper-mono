@@ -1,0 +1,19 @@
+{
+color = 9;
+glyphname = quotedblleft;
+layers = (
+{
+layerId = "574EE4B9-5C1A-4E7E-9985-C08FACB65BD8";
+shapes = (
+{
+alignment = -1;
+angle = 180;
+pos = (620,604);
+ref = quotedblbase;
+}
+);
+width = 620;
+}
+);
+unicode = 8220;
+}

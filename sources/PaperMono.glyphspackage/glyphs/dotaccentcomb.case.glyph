@@ -1,0 +1,39 @@
+{
+color = 1;
+glyphname = dotaccentcomb.case;
+layers = (
+{
+anchors = (
+{
+name = _top;
+pos = (310,740);
+},
+{
+name = top;
+pos = (310,932);
+}
+);
+layerId = "574EE4B9-5C1A-4E7E-9985-C08FACB65BD8";
+shapes = (
+{
+closed = 1;
+nodes = (
+(350,800,o),
+(376,824,o),
+(376,866,cs),
+(376,908,o),
+(350,932,o),
+(310,932,cs),
+(270,932,o),
+(244,908,o),
+(244,866,cs),
+(244,824,o),
+(270,800,o),
+(310,800,cs)
+);
+}
+);
+width = 620;
+}
+);
+}

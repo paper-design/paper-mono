@@ -1,0 +1,19 @@
+{
+glyphname = Eth;
+layers = (
+{
+layerId = "574EE4B9-5C1A-4E7E-9985-C08FACB65BD8";
+shapes = (
+{
+ref = D;
+},
+{
+pos = (-120,26);
+ref = strokeshortcomb.case;
+}
+);
+width = 620;
+}
+);
+unicode = 208;
+}

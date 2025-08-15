@@ -1,0 +1,18 @@
+{
+color = 9;
+glyphname = northEastArrow.ss07;
+layers = (
+{
+layerId = "574EE4B9-5C1A-4E7E-9985-C08FACB65BD8";
+shapes = (
+{
+alignment = -1;
+angle = -45;
+pos = (-147,350);
+ref = upArrow.ss07;
+}
+);
+width = 620;
+}
+);
+}

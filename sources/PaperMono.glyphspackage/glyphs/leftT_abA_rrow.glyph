@@ -1,0 +1,39 @@
+{
+color = 9;
+glyphname = leftTabArrow;
+layers = (
+{
+layerId = "574EE4B9-5C1A-4E7E-9985-C08FACB65BD8";
+shapes = (
+{
+closed = 1;
+nodes = (
+(327,475,l),
+(134,314,l),
+(328,153,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(108,119,l),
+(108,509,l),
+(30,509,l),
+(30,119,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(590,275,l),
+(590,353,l),
+(204,353,l),
+(204,275,l)
+);
+}
+);
+width = 620;
+}
+);
+unicode = 8676;
+}
