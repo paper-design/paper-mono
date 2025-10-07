@@ -1,22 +1,10 @@
+<img width="3112" height="2145" alt="PM S1 Light" src="https://github.com/user-attachments/assets/010d7430-ea89-42c5-ac3e-b401549d3e34" />
+
 # Paper Mono
 
-[![][Fontbakery]](https://paper-design.github.io/paper-mono/fontbakery/fontbakery-report.html)
-[![][Universal]](https://paper-design.github.io/paper-mono/fontbakery/fontbakery-report.html)
-[![][Shaping]](https://paper-design.github.io/paper-mono/fontbakery/fontbakery-report.html)
+A beautiful monospace font for design and code by [Paper](https://paper.design).
 
-[Fontbakery]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fpaper-design%2Fpaper-mono%2Fgh-pages%2Fbadges%2Foverall.json
-[Outline Correctness]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fpaper-design%2Fpaper-mono%2Fgh-pages%2Fbadges%2FOutlineChecks.json
-[Shaping]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fpaper-design%2Fpaper-mono%2Fgh-pages%2Fbadges%2FShapingChecks.json
-[Universal]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fpaper-design%2Fpaper-mono%2Fgh-pages%2Fbadges%2FUniversalProfileChecks.json
-
-![](./documentation/img/banner--light.png#gh-light-mode-only)
-![](./documentation/img/banner--dark.png#gh-dark-mode-only)
-
-# About
-
-To-Do
-
-### Installation
+## Installation
 
 Download the latest release from the [releases page](https://github.com/paper-design/paper-mono/releases/latest) and install the fonts on your system.
 
