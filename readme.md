@@ -1,4 +1,5 @@
-<img width="3112" height="2145" alt="PM S1 Light" src="https://github.com/user-attachments/assets/010d7430-ea89-42c5-ac3e-b401549d3e34" />
+![paper-1](https://github.com/user-attachments/assets/70bf9a47-1109-4217-879d-0225a2498d00)
+![paper-2](https://github.com/user-attachments/assets/e9c0e9e3-d19a-447d-bab6-4ac3bc463c61)
 
 # Paper Mono
 
