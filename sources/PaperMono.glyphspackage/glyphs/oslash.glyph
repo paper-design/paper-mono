@@ -12,7 +12,7 @@ pos = (0,2);
 ref = slashlongcomb;
 }
 );
-width = 620;
+width = 605;
 }
 );
 unicode = 248;

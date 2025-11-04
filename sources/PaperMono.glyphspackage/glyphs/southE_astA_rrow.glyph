@@ -8,11 +8,11 @@ shapes = (
 {
 alignment = -1;
 angle = -135;
-pos = (291,805);
+pos = (288,773);
 ref = upArrow;
 }
 );
-width = 620;
+width = 605;
 }
 );
 unicode = 8600;

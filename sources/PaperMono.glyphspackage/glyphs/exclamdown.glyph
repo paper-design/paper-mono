@@ -8,12 +8,12 @@ name = Regular;
 shapes = (
 {
 alignment = -1;
-pos = (0,548);
+pos = (0,526);
 ref = exclam;
 scale = (1,-1);
 }
 );
-width = 620;
+width = 605;
 }
 );
 unicode = 161;

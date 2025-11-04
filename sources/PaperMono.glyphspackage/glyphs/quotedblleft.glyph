@@ -8,11 +8,11 @@ shapes = (
 {
 alignment = -1;
 angle = 180;
-pos = (620,604);
+pos = (595,580);
 ref = quotedblbase;
 }
 );
-width = 620;
+width = 605;
 }
 );
 unicode = 8220;

@@ -8,12 +8,12 @@ shapes = (
 ref = t;
 },
 {
-pos = (-92,-41);
+pos = (-90,-39);
 ref = strokeshortcomb;
 scale = (1.2,1);
 }
 );
-width = 620;
+width = 605;
 }
 );
 unicode = 359;

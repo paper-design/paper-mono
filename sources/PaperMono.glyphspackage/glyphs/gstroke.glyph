@@ -8,10 +8,10 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(600,247,l),
-(600,315,l),
-(295,315,l),
-(295,247,l)
+(576,237,l),
+(576,302,l),
+(283,302,l),
+(283,237,l)
 );
 },
 {
@@ -19,8 +19,10 @@ alignment = -1;
 ref = g;
 }
 );
-width = 620;
+width = 605;
 }
 );
+metricLeft = g;
+metricWidth = g;
 unicode = 485;
 }

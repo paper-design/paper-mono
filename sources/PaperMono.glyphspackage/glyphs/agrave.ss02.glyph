@@ -9,11 +9,11 @@ shapes = (
 ref = a.ss02;
 },
 {
-pos = (-72,0);
+pos = (-69,0);
 ref = gravecomb;
 }
 );
-width = 620;
+width = 605;
 }
 );
 }

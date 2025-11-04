@@ -1,5 +1,5 @@
 {
-.appVersion = "3337";
+.appVersion = "3434";
 .formatVersion = 3;
 classes = (
 {
@@ -29,24 +29,24 @@ value = 0;
 name = "Family Alignment Zones";
 value = (
 {
-pos = 778;
-size = 12;
+pos = 746;
+size = 11;
 },
 {
-pos = 740;
-size = 12;
+pos = 710;
+size = 11;
 },
 {
-pos = 530;
-size = 12;
+pos = 508;
+size = 11;
 },
 {
 pos = 0;
-size = -12;
+size = -11;
 },
 {
-pos = -190;
-size = -12;
+pos = -182;
+size = -11;
 }
 );
 },
@@ -673,7 +673,7 @@ tag = dlng;
 );
 }
 );
-date = "2025-08-14 19:45:36 +0000";
+date = "2025-11-04 02:29:52 +0000";
 familyName = "Paper Mono";
 featurePrefixes = (
 {
@@ -994,11 +994,11 @@ fontMaster = (
 customParameters = (
 {
 name = hheaAscender;
-value = 970;
+value = 931;
 },
 {
 name = hheaDescender;
-value = -230;
+value = -221;
 },
 {
 name = hheaLineGap;
@@ -1006,11 +1006,11 @@ value = 0;
 },
 {
 name = typoAscender;
-value = 970;
+value = 931;
 },
 {
 name = typoDescender;
-value = -230;
+value = -221;
 },
 {
 name = typoLineGap;
@@ -1018,43 +1018,43 @@ value = 0;
 },
 {
 name = winAscent;
-value = 1000;
+value = 960;
 },
 {
 name = winDescent;
-value = 260;
+value = 250;
 }
 );
 id = "574EE4B9-5C1A-4E7E-9985-C08FACB65BD8";
 metricValues = (
 {
 over = 12;
-pos = 740;
+pos = 710;
 },
 {
 over = 12;
-pos = 530;
+pos = 509;
 },
 {
 over = -12;
 },
 {
 over = -12;
-pos = -190;
+pos = -182;
 },
 {
 },
 {
 over = 12;
-pos = 778;
+pos = 747;
 }
 );
 name = Regular;
 stemValues = (
-90,
-84,
-84,
-80
+86,
+81,
+81,
+77
 );
 }
 );
@@ -1174,8 +1174,8 @@ OV = "90";
 cydeH = "74";
 nV = "84";
 nd = "74";
-oH = "76";
-oV = "88";
+oH = "73";
+oV = "85";
 tH = "72";
 };
 "58B1DC7A-69F8-4375-AD2E-AC5103CCF536" = {
@@ -3415,5 +3415,5 @@ O,
 };
 };
 versionMajor = 0;
-versionMinor = 100;
+versionMinor = 200;
 }

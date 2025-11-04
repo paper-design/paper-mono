@@ -11,7 +11,7 @@ ref = blackCircledStroke;
 },
 {
 alignment = -1;
-pos = (0,-210);
+pos = (0,-202);
 ref = fivesuperior;
 }
 );
@@ -42,9 +42,10 @@ NPUSHB[ ]	/* 38 values pushed */
 32 32 16 16 0 0 32 63 32 62 58 56 52 51 50 49 48 47 45 43 39 37 35 34 16 31 16 30 24 22 0 15 0 14 38 15 6 23 
 CALL[ ]	/* CallFunction */";
 };
-width = 620;
+width = 605;
 }
 );
+metricWidth = blackCircledStroke;
 note = uni2464;
 unicode = 9316;
 }

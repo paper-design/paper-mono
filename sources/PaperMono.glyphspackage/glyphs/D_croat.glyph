@@ -8,7 +8,7 @@ shapes = (
 ref = Eth;
 }
 );
-width = 620;
+width = 605;
 }
 );
 unicode = 272;

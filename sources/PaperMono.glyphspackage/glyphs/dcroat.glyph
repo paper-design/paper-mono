@@ -8,11 +8,11 @@ shapes = (
 ref = d;
 },
 {
-pos = (120,289);
+pos = (115,277);
 ref = strokeshortcomb;
 }
 );
-width = 620;
+width = 605;
 }
 );
 unicode = 273;

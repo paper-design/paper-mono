@@ -11,7 +11,7 @@ ref = E;
 ref = macroncomb.case;
 }
 );
-width = 620;
+width = 605;
 }
 );
 unicode = 274;

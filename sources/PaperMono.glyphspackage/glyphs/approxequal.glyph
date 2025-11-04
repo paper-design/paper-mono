@@ -7,16 +7,16 @@ layerId = "574EE4B9-5C1A-4E7E-9985-C08FACB65BD8";
 shapes = (
 {
 alignment = -1;
-pos = (0,-113);
+pos = (0,-108);
 ref = asciitilde;
 },
 {
 alignment = -1;
-pos = (0,116);
+pos = (0,111);
 ref = asciitilde;
 }
 );
-width = 620;
+width = 605;
 }
 );
 unicode = 8776;

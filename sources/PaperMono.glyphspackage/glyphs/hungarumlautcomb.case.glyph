@@ -6,27 +6,27 @@ layers = (
 anchors = (
 {
 name = _top;
-pos = (270,740);
+pos = (259,710);
 },
 {
 name = top;
-pos = (270,936);
+pos = (259,899);
 }
 );
 layerId = "574EE4B9-5C1A-4E7E-9985-C08FACB65BD8";
 shapes = (
 {
 alignment = -1;
-pos = (-70,-2);
+pos = (-67,-2);
 ref = acutecomb.case;
 },
 {
 alignment = -1;
-pos = (70,-2);
+pos = (67,-2);
 ref = acutecomb.case;
 }
 );
-width = 620;
+width = 605;
 }
 );
 }

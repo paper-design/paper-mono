@@ -8,11 +8,11 @@ shapes = (
 {
 alignment = -1;
 angle = -45;
-pos = (-147,350);
+pos = (-139,336);
 ref = upArrow.ss07;
 }
 );
-width = 620;
+width = 605;
 }
 );
 }

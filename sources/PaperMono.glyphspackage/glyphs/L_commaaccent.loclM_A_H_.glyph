@@ -8,11 +8,11 @@ shapes = (
 ref = L;
 },
 {
-pos = (5,0);
+pos = (10,0);
 ref = commaaccentcomb.loclMAH;
 }
 );
-width = 620;
+width = 605;
 }
 );
 }

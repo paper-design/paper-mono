@@ -6,11 +6,11 @@ layers = (
 layerId = "574EE4B9-5C1A-4E7E-9985-C08FACB65BD8";
 shapes = (
 {
-pos = (0,-38);
+pos = (0,-36);
 ref = fivesuperior;
 }
 );
-width = 620;
+width = 605;
 }
 );
 }
