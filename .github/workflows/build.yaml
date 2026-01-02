@@ -14,7 +14,7 @@ jobs:
       with:
         python-version: "3.11"
     - name: Setup fontspector
-      uses: fonttools/setup-fontspector@v1
+      uses: fonttools/setup-fontspector@main
       with:
         version: "1.5.1"
       env:
