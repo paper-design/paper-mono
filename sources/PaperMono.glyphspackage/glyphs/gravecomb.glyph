@@ -1,5 +1,5 @@
 {
-color = 1;
+color = 4;
 glyphname = gravecomb;
 layers = (
 {
@@ -13,7 +13,7 @@ name = top;
 pos = (360,747);
 }
 );
-layerId = "574EE4B9-5C1A-4E7E-9985-C08FACB65BD8";
+layerId = m002;
 shapes = (
 {
 closed = 1;
@@ -22,6 +22,31 @@ nodes = (
 (312,747,l),
 (222,747,l),
 (316,595,l)
+);
+}
+);
+width = 605;
+},
+{
+anchors = (
+{
+name = _top;
+pos = (344,509);
+},
+{
+name = top;
+pos = (360,747);
+}
+);
+layerId = m003;
+shapes = (
+{
+closed = 1;
+nodes = (
+(421,565,l),
+(350,747,l),
+(174,747,l),
+(281,565,l)
 );
 }
 );

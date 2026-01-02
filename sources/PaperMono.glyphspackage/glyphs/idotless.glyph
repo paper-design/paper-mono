@@ -1,4 +1,5 @@
 {
+color = 4;
 glyphname = idotless;
 layers = (
 {
@@ -16,7 +17,7 @@ name = top;
 pos = (325,509);
 }
 );
-layerId = "574EE4B9-5C1A-4E7E-9985-C08FACB65BD8";
+layerId = m002;
 shapes = (
 {
 closed = 1;
@@ -32,6 +33,42 @@ nodes = (
 (284,69,l),
 (80,69,l),
 (80,0,l)
+);
+}
+);
+width = 605;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (315,0);
+},
+{
+name = ogonek;
+pos = (551,0);
+},
+{
+name = top;
+pos = (310,509);
+}
+);
+layerId = m003;
+shapes = (
+{
+closed = 1;
+nodes = (
+(551,0,l),
+(551,150,l),
+(395,150,l),
+(395,509,l),
+(79,509,l),
+(79,359,l),
+(324,359,l),
+(235,477,l),
+(235,150,l),
+(70,150,l),
+(70,0,l)
 );
 }
 );

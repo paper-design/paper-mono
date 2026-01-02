@@ -2,13 +2,26 @@
 glyphname = igrave;
 layers = (
 {
-layerId = "574EE4B9-5C1A-4E7E-9985-C08FACB65BD8";
+layerId = m002;
 shapes = (
 {
 ref = idotless;
 },
 {
 pos = (-19,0);
+ref = gravecomb;
+}
+);
+width = 605;
+},
+{
+layerId = m003;
+shapes = (
+{
+ref = idotless;
+},
+{
+pos = (-34,0);
 ref = gravecomb;
 }
 );

@@ -1,13 +1,25 @@
 {
-color = 1;
+color = 4;
 glyphname = guillemetright;
 layers = (
 {
-layerId = "574EE4B9-5C1A-4E7E-9985-C08FACB65BD8";
+layerId = m002;
 shapes = (
 {
-alignment = -1;
-pos = (606,0);
+alignment = 1;
+pos = (605,0);
+ref = guillemetleft;
+scale = (-1,1);
+}
+);
+width = 605;
+},
+{
+layerId = m003;
+shapes = (
+{
+alignment = 1;
+pos = (605,0);
 ref = guillemetleft;
 scale = (-1,1);
 }

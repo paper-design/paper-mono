@@ -1,9 +1,20 @@
 {
-color = 9;
+color = 4;
 glyphname = nine.numr;
 layers = (
 {
-layerId = "574EE4B9-5C1A-4E7E-9985-C08FACB65BD8";
+layerId = m002;
+shapes = (
+{
+angle = 180;
+pos = (605,1085);
+ref = sixsuperior;
+}
+);
+width = 605;
+},
+{
+layerId = m003;
 shapes = (
 {
 angle = 180;

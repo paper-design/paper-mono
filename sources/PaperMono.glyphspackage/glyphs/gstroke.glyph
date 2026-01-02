@@ -1,9 +1,9 @@
 {
-color = 9;
+color = 5;
 glyphname = gstroke;
 layers = (
 {
-layerId = "574EE4B9-5C1A-4E7E-9985-C08FACB65BD8";
+layerId = m002;
 shapes = (
 {
 closed = 1;
@@ -20,9 +20,27 @@ ref = g;
 }
 );
 width = 605;
+},
+{
+layerId = m003;
+shapes = (
+{
+closed = 1;
+nodes = (
+(589,212,l),
+(589,324,l),
+(256,324,l),
+(256,212,l)
+);
+},
+{
+alignment = -1;
+pos = (-12,0);
+ref = g;
 }
 );
-metricLeft = g;
-metricWidth = g;
+width = 605;
+}
+);
 unicode = 485;
 }

@@ -1,14 +1,26 @@
 {
-color = 9;
+color = 4;
 glyphname = southEastArrow.ss07;
 layers = (
 {
-layerId = "574EE4B9-5C1A-4E7E-9985-C08FACB65BD8";
+layerId = m002;
 shapes = (
 {
 alignment = -1;
 angle = -135;
 pos = (288,753);
+ref = upArrow.ss07;
+}
+);
+width = 605;
+},
+{
+layerId = m003;
+shapes = (
+{
+alignment = -1;
+angle = -135;
+pos = (299,753);
 ref = upArrow.ss07;
 }
 );

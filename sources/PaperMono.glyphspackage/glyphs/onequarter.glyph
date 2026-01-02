@@ -1,9 +1,9 @@
 {
-color = 9;
+color = 4;
 glyphname = onequarter;
 layers = (
 {
-layerId = "574EE4B9-5C1A-4E7E-9985-C08FACB65BD8";
+layerId = m002;
 shapes = (
 {
 alignment = -1;
@@ -12,7 +12,27 @@ ref = one.numr;
 },
 {
 alignment = -1;
-ref = fraction;
+ref = _part.fraction;
+},
+{
+alignment = -1;
+pos = (134,0);
+ref = four.dnom;
+}
+);
+width = 605;
+},
+{
+layerId = m003;
+shapes = (
+{
+alignment = -1;
+pos = (-173,0);
+ref = one.numr;
+},
+{
+alignment = -1;
+ref = _part.fraction;
 },
 {
 alignment = -1;

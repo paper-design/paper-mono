@@ -1,0 +1,34 @@
+{
+glyphname = ldot;
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+ref = l;
+},
+{
+alignment = -1;
+pos = (305,-307);
+ref = dotaccentcomb;
+}
+);
+width = 605;
+},
+{
+layerId = m003;
+shapes = (
+{
+ref = l;
+},
+{
+alignment = -1;
+pos = (304,-281);
+ref = dotaccentcomb;
+}
+);
+width = 605;
+}
+);
+unicode = 320;
+}

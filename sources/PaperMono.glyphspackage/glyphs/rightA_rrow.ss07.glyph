@@ -1,9 +1,9 @@
 {
-color = 9;
+color = 4;
 glyphname = rightArrow.ss07;
 layers = (
 {
-layerId = "574EE4B9-5C1A-4E7E-9985-C08FACB65BD8";
+layerId = m002;
 shapes = (
 {
 closed = 1;
@@ -20,6 +20,29 @@ nodes = (
 (514,377,l),
 (24,377,l),
 (24,302,l)
+);
+}
+);
+width = 605;
+},
+{
+layerId = m003;
+shapes = (
+{
+closed = 1;
+nodes = (
+(595,340,l),
+(363,540,l),
+(363,140,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(404,270,l),
+(404,410,l),
+(10,410,l),
+(10,270,l)
 );
 }
 );

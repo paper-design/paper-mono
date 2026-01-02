@@ -1,5 +1,5 @@
 {
-color = 9;
+color = 4;
 glyphname = commaaccentcomb;
 layers = (
 {
@@ -13,7 +13,7 @@ name = bottom;
 pos = (318,-250);
 }
 );
-layerId = "574EE4B9-5C1A-4E7E-9985-C08FACB65BD8";
+layerId = m002;
 shapes = (
 {
 closed = 1;
@@ -22,6 +22,31 @@ nodes = (
 (368,-58,l),
 (276,-58,l),
 (237,-250,l)
+);
+}
+);
+width = 605;
+},
+{
+anchors = (
+{
+name = _bottom;
+pos = (319,0);
+},
+{
+name = bottom;
+pos = (318,-250);
+}
+);
+layerId = m003;
+shapes = (
+{
+closed = 1;
+nodes = (
+(338,-250,l),
+(401,-58,l),
+(243,-58,l),
+(204,-250,l)
 );
 }
 );

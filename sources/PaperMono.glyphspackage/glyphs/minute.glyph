@@ -1,9 +1,9 @@
 {
-color = 1;
+color = 4;
 glyphname = minute;
 layers = (
 {
-layerId = "574EE4B9-5C1A-4E7E-9985-C08FACB65BD8";
+layerId = m002;
 shapes = (
 {
 closed = 1;
@@ -12,6 +12,21 @@ nodes = (
 (370,710,l),
 (285,710,l),
 (235,453,l)
+);
+}
+);
+width = 605;
+},
+{
+layerId = m003;
+shapes = (
+{
+closed = 1;
+nodes = (
+(348,453,l),
+(410,710,l),
+(245,710,l),
+(195,453,l)
 );
 }
 );

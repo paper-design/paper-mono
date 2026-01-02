@@ -2,7 +2,7 @@
 glyphname = iogonek;
 layers = (
 {
-layerId = "574EE4B9-5C1A-4E7E-9985-C08FACB65BD8";
+layerId = m002;
 shapes = (
 {
 ref = idotless;
@@ -13,6 +13,23 @@ ref = dotaccentcomb;
 },
 {
 pos = (164,0);
+ref = ogonekcomb;
+}
+);
+width = 605;
+},
+{
+layerId = m003;
+shapes = (
+{
+ref = idotless;
+},
+{
+pos = (7,0);
+ref = dotaccentcomb;
+},
+{
+pos = (138,0);
 ref = ogonekcomb;
 }
 );

@@ -1,9 +1,9 @@
 {
-color = 1;
+color = 4;
 glyphname = dittomark;
 layers = (
 {
-layerId = "574EE4B9-5C1A-4E7E-9985-C08FACB65BD8";
+layerId = m002;
 shapes = (
 {
 closed = 1;
@@ -21,6 +21,52 @@ nodes = (
 (301,499,l),
 (210,499,l),
 (149,259,l)
+);
+}
+);
+width = 605;
+},
+{
+background = {
+shapes = (
+{
+closed = 1;
+nodes = (
+(439,259,l),
+(525,499,l),
+(365,499,l),
+(304,259,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(215,259,l),
+(302,499,l),
+(141,499,l),
+(80,259,l)
+);
+}
+);
+};
+layerId = m003;
+shapes = (
+{
+closed = 1;
+nodes = (
+(441,249,l),
+(535,509,l),
+(369,509,l),
+(300,249,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(211,249,l),
+(305,509,l),
+(139,509,l),
+(70,249,l)
 );
 }
 );

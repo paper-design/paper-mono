@@ -1,9 +1,9 @@
 {
-color = 9;
+color = 4;
 glyphname = sevensuperior;
 layers = (
 {
-layerId = "574EE4B9-5C1A-4E7E-9985-C08FACB65BD8";
+layerId = m002;
 shapes = (
 {
 closed = 1;
@@ -16,6 +16,25 @@ nodes = (
 (408,691,l),
 (379,726,l),
 (224,374,l)
+);
+}
+);
+width = 605;
+},
+{
+layerId = m003;
+shapes = (
+{
+closed = 1;
+nodes = (
+(316,374,l),
+(445,657,l),
+(445,747,l),
+(160,747,l),
+(160,651,l),
+(408,651,l),
+(358,726,l),
+(192,374,l)
 );
 }
 );

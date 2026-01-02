@@ -2,7 +2,20 @@
 glyphname = uring;
 layers = (
 {
-layerId = "574EE4B9-5C1A-4E7E-9985-C08FACB65BD8";
+layerId = m002;
+shapes = (
+{
+ref = u;
+},
+{
+pos = (-1,0);
+ref = ringcomb;
+}
+);
+width = 605;
+},
+{
+layerId = m003;
 shapes = (
 {
 ref = u;

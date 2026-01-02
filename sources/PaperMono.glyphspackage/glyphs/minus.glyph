@@ -1,9 +1,9 @@
 {
-color = 1;
+color = 4;
 glyphname = minus;
 layers = (
 {
-layerId = "574EE4B9-5C1A-4E7E-9985-C08FACB65BD8";
+layerId = m002;
 shapes = (
 {
 closed = 1;
@@ -12,6 +12,21 @@ nodes = (
 (514,327,l),
 (91,327,l),
 (91,252,l)
+);
+}
+);
+width = 605;
+},
+{
+layerId = m003;
+shapes = (
+{
+closed = 1;
+nodes = (
+(525,207,l),
+(525,367,l),
+(80,367,l),
+(80,207,l)
 );
 }
 );

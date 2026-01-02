@@ -1,5 +1,5 @@
 {
-color = 1;
+color = 4;
 glyphname = caroncomb.alt;
 layers = (
 {
@@ -9,7 +9,7 @@ name = _topright;
 pos = (229,509);
 }
 );
-layerId = "574EE4B9-5C1A-4E7E-9985-C08FACB65BD8";
+layerId = m002;
 shapes = (
 {
 closed = 1;
@@ -18,6 +18,27 @@ nodes = (
 (360,747,l),
 (278,747,l),
 (245,509,l)
+);
+}
+);
+width = 605;
+},
+{
+anchors = (
+{
+name = _topright;
+pos = (229,509);
+}
+);
+layerId = m003;
+shapes = (
+{
+closed = 1;
+nodes = (
+(359,509,l),
+(414,747,l),
+(258,747,l),
+(225,509,l)
 );
 }
 );

@@ -1,5 +1,5 @@
 {
-color = 9;
+color = 4;
 glyphname = fraction;
 layers = (
 {
@@ -9,24 +9,30 @@ angle = 55.742;
 pos = (25,0);
 }
 );
-layerId = "574EE4B9-5C1A-4E7E-9985-C08FACB65BD8";
+layerId = m002;
 shapes = (
 {
 closed = 1;
 nodes = (
-(412,463,l),
+(97,0,l),
 (581,710,l),
-(508,710,l),
-(339,463,l)
+(492,710,l),
+(24,0,l)
 );
+}
+);
+width = 605;
 },
+{
+layerId = m003;
+shapes = (
 {
 closed = 1;
 nodes = (
-(193,248,l),
-(24,0,l),
-(97,0,l),
-(266,248,l)
+(122,0,l),
+(605,710,l),
+(483,710,l),
+(0,0,l)
 );
 }
 );

@@ -1,15 +1,28 @@
 {
-color = 1;
+color = 4;
 glyphname = j;
 layers = (
 {
-layerId = "574EE4B9-5C1A-4E7E-9985-C08FACB65BD8";
+layerId = m002;
 shapes = (
 {
 ref = jdotless;
 },
 {
 pos = (103,0);
+ref = dotaccentcomb;
+}
+);
+width = 605;
+},
+{
+layerId = m003;
+shapes = (
+{
+ref = jdotless;
+},
+{
+pos = (83,0);
 ref = dotaccentcomb;
 }
 );

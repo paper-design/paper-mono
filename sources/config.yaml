@@ -2,5 +2,5 @@ sources:
   - PaperMono.glyphspackage
 familyName: "Paper Mono"
 buildStatic: true
-buildVariable: false
+buildVariable: true
 autohintOTF: true
