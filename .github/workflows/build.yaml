@@ -14,7 +14,9 @@ jobs:
       with:
         python-version: "3.11"
     - name: Setup fontspector
-      uses: fonttools/setup-fontspector@main
+      uses: fonttools/setup-fontspector@v1
+      with:
+        version: "1.5.1"
       env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
     - name: Install toolset
