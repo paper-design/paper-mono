@@ -1,6 +1,7 @@
 name: Build font and specimen
 
 on: [push, pull_request, workflow_dispatch]
+permissions: write-all
 
 jobs:
   build:
@@ -8,10 +9,10 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v4
-    - name: Set up Python 3.13
-      uses: actions/setup-python@v5
+    - name: Set up Python 3.11
+      uses: actions/setup-python@v6
       with:
-        python-version: "3.13"
+        python-version: "3.11"
     - name: Setup fontspector
       uses: fonttools/setup-fontspector@main
       env:
@@ -107,8 +108,6 @@ jobs:
         with:
           name: ${{ env.ZIP_NAME }}
           path: ${{ env.ZIP_NAME }}
-      - name: Copy DESCRIPTION.en_us.html to release directory
-        run: cp documentation/DESCRIPTION.en_us.html ${{ env.ZIP_NAME }}/DESCRIPTION.en_us.html
       - name: Copy ARTICLE.en_us.html to release directory
         run: cp documentation/ARTICLE.en_us.html ${{ env.ZIP_NAME }}/ARTICLE.en_us.html
         continue-on-error: true
