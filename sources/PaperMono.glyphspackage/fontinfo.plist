@@ -675,11 +675,15 @@ value = (
 {
 data = Latn;
 tag = dlng;
+},
+{
+data = Latn;
+tag = slng;
 }
 );
 }
 );
-date = "2026-01-02 13:53:05 +0000";
+date = "2026-01-29 18:22:40 +0000";
 familyName = "Paper Mono";
 featurePrefixes = (
 {
@@ -1012,11 +1016,11 @@ axesValues = (
 customParameters = (
 {
 name = hheaAscender;
-value = 931;
+value = 955;
 },
 {
 name = hheaDescender;
-value = -221;
+value = -245;
 },
 {
 name = hheaLineGap;
@@ -1024,11 +1028,11 @@ value = 0;
 },
 {
 name = typoAscender;
-value = 931;
+value = 955;
 },
 {
 name = typoDescender;
-value = -221;
+value = -245;
 },
 {
 name = typoLineGap;
@@ -1091,11 +1095,11 @@ axesValues = (
 customParameters = (
 {
 name = hheaAscender;
-value = 931;
+value = 955;
 },
 {
 name = hheaDescender;
-value = -221;
+value = -245;
 },
 {
 name = hheaLineGap;
@@ -1103,11 +1107,11 @@ value = 0;
 },
 {
 name = typoAscender;
-value = 931;
+value = 955;
 },
 {
 name = typoDescender;
-value = -221;
+value = -245;
 },
 {
 name = typoLineGap;
@@ -1188,7 +1192,29 @@ name = Regular;
 },
 {
 axesValues = (
-138
+94
+);
+instanceInterpolations = {
+m002 = 0.825;
+m003 = 0.175;
+};
+name = Medium;
+weightClass = 500;
+},
+{
+axesValues = (
+110
+);
+instanceInterpolations = {
+m002 = 0.625;
+m003 = 0.375;
+};
+name = SemiBold;
+weightClass = 600;
+},
+{
+axesValues = (
+126
 );
 customParameters = (
 {
@@ -1202,8 +1228,8 @@ Location = 700;
 }
 );
 instanceInterpolations = {
-m002 = 0.275;
-m003 = 0.725;
+m002 = 0.425;
+m003 = 0.575;
 };
 isBold = 1;
 name = Bold;

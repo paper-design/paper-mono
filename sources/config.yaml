@@ -4,3 +4,27 @@ familyName: "Paper Mono"
 buildStatic: true
 buildVariable: true
 autohintOTF: true
+stat:
+  PaperMono[wght].ttf:
+  - name: Weight
+    tag: wght
+    values:
+    - name: Regular
+      value: 400
+      linkedValue: 700
+      flags: 2
+    - name: Medium
+      value: 500
+    - name: SemiBold
+      value: 600  
+    - name: Bold
+      value: 700
+    - name: ExtraBold
+      value: 800
+  - name: Italic
+    tag: ital
+    values:
+    - name: Roman
+      value: 0
+      linkedValue: 1
+      flags: 2
