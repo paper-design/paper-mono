@@ -1,5 +1,5 @@
 {
-color = 1;
+color = 4;
 glyphname = brokenbar;
 layers = (
 {
@@ -11,7 +11,7 @@ pos = (161,-110);
 pos = (161,750);
 }
 );
-layerId = "574EE4B9-5C1A-4E7E-9985-C08FACB65BD8";
+layerId = m002;
 shapes = (
 {
 closed = 1;
@@ -29,6 +29,38 @@ nodes = (
 (341,202,l),
 (264,202,l),
 (264,-182,l)
+);
+}
+);
+width = 605;
+},
+{
+guides = (
+{
+pos = (161,-110);
+},
+{
+pos = (161,750);
+}
+);
+layerId = m003;
+shapes = (
+{
+closed = 1;
+nodes = (
+(385,363,l),
+(385,747,l),
+(220,747,l),
+(220,363,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(385,-182,l),
+(385,202,l),
+(220,202,l),
+(220,-182,l)
 );
 }
 );

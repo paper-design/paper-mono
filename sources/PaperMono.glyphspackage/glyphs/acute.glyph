@@ -1,17 +1,32 @@
 {
-color = 1;
+color = 4;
 glyphname = acute;
 layers = (
 {
-layerId = "574EE4B9-5C1A-4E7E-9985-C08FACB65BD8";
+layerId = m002;
 shapes = (
 {
 closed = 1;
 nodes = (
+(305,492,l),
 (399,710,l),
 (278,710,l),
-(207,492,l),
-(305,492,l)
+(207,492,l)
+);
+}
+);
+width = 605;
+},
+{
+layerId = m003;
+shapes = (
+{
+closed = 1;
+nodes = (
+(335,482,l),
+(429,710,l),
+(247,710,l),
+(176,482,l)
 );
 }
 );

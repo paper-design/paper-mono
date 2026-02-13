@@ -1,5 +1,5 @@
 {
-color = 1;
+color = 4;
 glyphname = dotaccentcomb.case;
 layers = (
 {
@@ -13,7 +13,7 @@ name = top;
 pos = (303,895);
 }
 );
-layerId = "574EE4B9-5C1A-4E7E-9985-C08FACB65BD8";
+layerId = m002;
 shapes = (
 {
 closed = 1;
@@ -30,6 +30,39 @@ nodes = (
 (239,791,o),
 (264,768,o),
 (303,768,cs)
+);
+}
+);
+width = 605;
+},
+{
+anchors = (
+{
+name = _top;
+pos = (303,710);
+},
+{
+name = top;
+pos = (303,920);
+}
+);
+layerId = m003;
+shapes = (
+{
+closed = 1;
+nodes = (
+(360,745,o),
+(395,777,o),
+(395,832,cs),
+(395,888,o),
+(360,920,o),
+(303,920,cs),
+(245,920,o),
+(210,888,o),
+(210,832,cs),
+(210,777,o),
+(245,745,o),
+(303,745,cs)
 );
 }
 );

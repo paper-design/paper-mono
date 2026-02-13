@@ -1,15 +1,27 @@
 {
-color = 9;
 glyphname = aacute.ss02;
 layers = (
 {
-layerId = "574EE4B9-5C1A-4E7E-9985-C08FACB65BD8";
+layerId = m002;
 shapes = (
 {
 ref = a.ss02;
 },
 {
-pos = (13,0);
+pos = (14,0);
+ref = acutecomb;
+}
+);
+width = 605;
+},
+{
+layerId = m003;
+shapes = (
+{
+ref = a.ss02;
+},
+{
+pos = (61,0);
 ref = acutecomb;
 }
 );

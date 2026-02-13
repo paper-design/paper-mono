@@ -1,5 +1,5 @@
 {
-color = 1;
+color = 4;
 glyphname = acutecomb;
 layers = (
 {
@@ -13,7 +13,7 @@ name = top;
 pos = (262,747);
 }
 );
-layerId = "574EE4B9-5C1A-4E7E-9985-C08FACB65BD8";
+layerId = m002;
 shapes = (
 {
 closed = 1;
@@ -22,6 +22,44 @@ nodes = (
 (383,747,l),
 (293,747,l),
 (222,595,l)
+);
+}
+);
+width = 605;
+},
+{
+anchors = (
+{
+name = _top;
+pos = (254,509);
+},
+{
+name = top;
+pos = (254,747);
+}
+);
+background = {
+shapes = (
+{
+closed = 1;
+nodes = (
+(289,595,l),
+(383,747,l),
+(293,747,l),
+(222,595,l)
+);
+}
+);
+};
+layerId = m003;
+shapes = (
+{
+closed = 1;
+nodes = (
+(314,565,l),
+(421,747,l),
+(245,747,l),
+(174,565,l)
 );
 }
 );

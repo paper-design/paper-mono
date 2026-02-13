@@ -2,13 +2,26 @@
 glyphname = Tbar;
 layers = (
 {
-layerId = "574EE4B9-5C1A-4E7E-9985-C08FACB65BD8";
+layerId = m002;
 shapes = (
 {
 ref = T;
 },
 {
 pos = (0,25);
+ref = strokeshortcomb.case;
+}
+);
+width = 605;
+},
+{
+layerId = m003;
+shapes = (
+{
+ref = T;
+},
+{
+pos = (1,15);
 ref = strokeshortcomb.case;
 }
 );

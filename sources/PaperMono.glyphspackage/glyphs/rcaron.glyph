@@ -2,7 +2,20 @@
 glyphname = rcaron;
 layers = (
 {
-layerId = "574EE4B9-5C1A-4E7E-9985-C08FACB65BD8";
+layerId = m002;
+shapes = (
+{
+ref = r;
+},
+{
+pos = (14,0);
+ref = caroncomb;
+}
+);
+width = 605;
+},
+{
+layerId = m003;
 shapes = (
 {
 ref = r;

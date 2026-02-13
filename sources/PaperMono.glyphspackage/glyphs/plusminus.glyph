@@ -1,9 +1,9 @@
 {
-color = 1;
+color = 4;
 glyphname = plusminus;
 layers = (
 {
-layerId = "574EE4B9-5C1A-4E7E-9985-C08FACB65BD8";
+layerId = m002;
 shapes = (
 {
 closed = 1;
@@ -30,6 +30,39 @@ nodes = (
 (552,417,l),
 (53,417,l),
 (53,342,l)
+);
+}
+);
+width = 605;
+},
+{
+layerId = m003;
+shapes = (
+{
+closed = 1;
+nodes = (
+(565,0,l),
+(565,150,l),
+(40,150,l),
+(40,0,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(380,180,l),
+(380,630,l),
+(226,630,l),
+(226,180,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(565,330,l),
+(565,480,l),
+(40,480,l),
+(40,330,l)
 );
 }
 );

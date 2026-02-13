@@ -2,54 +2,27 @@
 glyphname = idotaccent;
 layers = (
 {
-anchors = (
-{
-name = bottom;
-pos = (325,0);
-},
-{
-name = ogonek;
-pos = (541,0);
-},
-{
-name = top;
-pos = (325,731);
-}
-);
-layerId = "574EE4B9-5C1A-4E7E-9985-C08FACB65BD8";
+layerId = m002;
 shapes = (
 {
-closed = 1;
-nodes = (
-(541,0,l),
-(541,69,l),
-(365,69,l),
-(365,509,l),
-(89,509,l),
-(89,440,l),
-(324,440,l),
-(284,477,l),
-(284,69,l),
-(80,69,l),
-(80,0,l)
-);
+ref = idotless;
 },
 {
-closed = 1;
-nodes = (
-(363,604,o),
-(388,627,o),
-(388,667,cs),
-(388,708,o),
-(363,731,o),
-(325,731,cs),
-(286,731,o),
-(261,708,o),
-(261,667,cs),
-(261,627,o),
-(286,604,o),
-(325,604,cs)
+pos = (22,0);
+ref = dotaccentcomb;
+}
 );
+width = 605;
+},
+{
+layerId = m003;
+shapes = (
+{
+ref = idotless;
+},
+{
+pos = (7,0);
+ref = dotaccentcomb;
 }
 );
 width = 605;

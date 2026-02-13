@@ -2,13 +2,26 @@
 glyphname = Gcircumflex;
 layers = (
 {
-layerId = "574EE4B9-5C1A-4E7E-9985-C08FACB65BD8";
+layerId = m002;
 shapes = (
 {
 ref = G;
 },
 {
 pos = (7,0);
+ref = circumflexcomb.case;
+}
+);
+width = 605;
+},
+{
+layerId = m003;
+shapes = (
+{
+ref = G;
+},
+{
+pos = (3,0);
 ref = circumflexcomb.case;
 }
 );

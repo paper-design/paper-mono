@@ -1,10 +1,16 @@
 {
-.appVersion = "3434";
+.appVersion = "3436";
 .formatVersion = 3;
+axes = (
+{
+name = Weight;
+tag = wght;
+}
+);
 classes = (
 {
 automatic = 1;
-code = "A Aacute Abreve Acaron Acircumflex Adieresis Agrave Amacron Aogonek Aring Atilde AE B C Cacute Ccaron Ccedilla Ccircumflex Cdotaccent D Dcaron Dcroat Eth E Eacute Ecaron Ecircumflex Edieresis Edotaccent Egrave Emacron Eogonek Etilde Schwa F G Gbreve Gcircumflex Gcommaaccent Gdotaccent Gmacron Gstroke H Hbar Hcircumflex I IJ Iacute Icircumflex Idieresis Idotaccent Igrave Imacron Iogonek Itilde J Jacute Jcircumflex K Kcaron Kcommaaccent L Lacute Lcaron Lcommaaccent Lslash M N Nacute Ncaron Ncommaaccent Ntilde Eng O Oacute Ocircumflex Odieresis Ograve Ohungarumlaut Omacron Oslash Otilde OE P Thorn Q R Racute Rcaron Rcommaaccent S Sacute Scaron Scedilla Scircumflex Scommaaccent Germandbls T Tbar Tcaron Tcedilla Tcommaaccent U Uacute Ubreve Ucircumflex Udieresis Ugrave Uhungarumlaut Umacron Uogonek Uring Utilde V W Wacute Wcircumflex Wdieresis Wgrave X Y Yacute Ycircumflex Ydieresis Ygrave Ytilde Z Zacute Zcaron Zdotaccent Saltillo Lcommaaccent.loclMAH Ncommaaccent.loclMAH Lambda Omega";
+code = "A Aacute Abreve Acaron Acircumflex Adieresis Agrave Amacron Aogonek Aring Atilde AE B C Cacute Ccaron Ccedilla Ccircumflex Cdotaccent D Dcaron Dcroat Eth E Eacute Ecaron Ecircumflex Edieresis Edotaccent Egrave Emacron Eogonek Etilde Schwa F G Gbreve Gcaron Gcircumflex Gcommaaccent Gdotaccent Gmacron Gstroke H Hbar Hcircumflex I IJ Iacute Icircumflex Idieresis Idotaccent Igrave Imacron Iogonek Itilde J Jacute Jcircumflex K Kcaron Kcommaaccent L Lacute Lcaron Lcommaaccent Lslash M N Nacute Ncaron Ncommaaccent Ntilde Eng O Oacute Ocircumflex Odieresis Ograve Ohungarumlaut Omacron Oslash Otilde OE P Thorn Q R Racute Rcaron Rcommaaccent S Sacute Scaron Scedilla Scircumflex Scommaaccent Germandbls T Tbar Tcaron Tcedilla Tcommaaccent U Uacute Ubreve Ucircumflex Udieresis Ugrave Uhungarumlaut Umacron Uogonek Uring Utilde V W Wacute Wcircumflex Wdieresis Wgrave X Y Yacute Ycircumflex Ydieresis Ygrave Ytilde Z Zacute Zcaron Zdotaccent Saltillo Lcommaaccent.loclMAH Ncommaaccent.loclMAH Lambda Omega Ldot";
 name = Uppercase;
 },
 {
@@ -669,11 +675,15 @@ value = (
 {
 data = Latn;
 tag = dlng;
+},
+{
+data = Latn;
+tag = slng;
 }
 );
 }
 );
-date = "2025-11-04 02:29:52 +0000";
+date = "2026-01-29 18:22:40 +0000";
 familyName = "Paper Mono";
 featurePrefixes = (
 {
@@ -689,6 +699,7 @@ languagesystem latn TRK;
 languagesystem latn ROM;
 languagesystem latn MOL;
 languagesystem latn MAH;
+languagesystem latn CAT;
 languagesystem latn NLD;
 ";
 name = Languagesystems;
@@ -709,7 +720,7 @@ feature case;
 feature ss01;
 feature ss02;
 feature ss07;
-feature ss09;
+feature zero;
 ";
 tag = aalt;
 },
@@ -785,11 +796,18 @@ lookup locl_latn_2 {
 } locl_latn_2;
 
 script latn;
-language NLD;
+language CAT;
 lookup locl_latn_3 {
+	sub  l' periodcentered' l by ldot;
+	sub  L' periodcentered' L by Ldot;
+} locl_latn_3;
+
+script latn;
+language NLD;
+lookup locl_latn_4 {
 	sub iacute j' by jacute;
 	sub Iacute J' by Jacute;
-} locl_latn_3;
+} locl_latn_4;
 ";
 tag = locl;
 },
@@ -878,7 +896,8 @@ sub one [fraction slash] five by onefifth;
 sub one [fraction slash] eight by oneeighth;
 sub three [fraction slash] eight by threeeighths;
 sub five [fraction slash] eight by fiveeighths;
-sub seven [fraction slash] eight by seveneighths;";
+sub seven [fraction slash] eight by seveneighths;
+";
 tag = frac;
 },
 {
@@ -991,14 +1010,17 @@ tag = zero;
 );
 fontMaster = (
 {
+axesValues = (
+80
+);
 customParameters = (
 {
 name = hheaAscender;
-value = 931;
+value = 955;
 },
 {
 name = hheaDescender;
-value = -221;
+value = -245;
 },
 {
 name = hheaLineGap;
@@ -1006,11 +1028,11 @@ value = 0;
 },
 {
 name = typoAscender;
-value = 931;
+value = 955;
 },
 {
 name = typoDescender;
-value = -221;
+value = -245;
 },
 {
 name = typoLineGap;
@@ -1023,9 +1045,18 @@ value = 960;
 {
 name = winDescent;
 value = 250;
+},
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 400;
 }
 );
-id = "574EE4B9-5C1A-4E7E-9985-C08FACB65BD8";
+}
+);
+id = m002;
 metricValues = (
 {
 over = 12;
@@ -1051,19 +1082,179 @@ pos = 747;
 );
 name = Regular;
 stemValues = (
-86,
-81,
-81,
-77
+80,
+71,
+83,
+81
+);
+},
+{
+axesValues = (
+160
+);
+customParameters = (
+{
+name = hheaAscender;
+value = 955;
+},
+{
+name = hheaDescender;
+value = -245;
+},
+{
+name = hheaLineGap;
+value = 0;
+},
+{
+name = typoAscender;
+value = 955;
+},
+{
+name = typoDescender;
+value = -245;
+},
+{
+name = typoLineGap;
+value = 0;
+},
+{
+name = winAscent;
+value = 960;
+},
+{
+name = winDescent;
+value = 250;
+},
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 800;
+}
+);
+}
+);
+iconName = Bold;
+id = m003;
+metricValues = (
+{
+over = 12;
+pos = 710;
+},
+{
+over = 12;
+pos = 509;
+},
+{
+over = -12;
+},
+{
+over = -12;
+pos = -182;
+},
+{
+},
+{
+over = 12;
+pos = 747;
+}
+);
+name = ExtraBold;
+stemValues = (
+157,
+154,
+164,
+160
 );
 }
 );
 instances = (
 {
+axesValues = (
+80
+);
+customParameters = (
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 400;
+}
+);
+}
+);
 instanceInterpolations = {
-"574EE4B9-5C1A-4E7E-9985-C08FACB65BD8" = 1;
+m002 = 1;
 };
 name = Regular;
+},
+{
+axesValues = (
+94
+);
+instanceInterpolations = {
+m002 = 0.825;
+m003 = 0.175;
+};
+name = Medium;
+weightClass = 500;
+},
+{
+axesValues = (
+110
+);
+instanceInterpolations = {
+m002 = 0.625;
+m003 = 0.375;
+};
+name = SemiBold;
+weightClass = 600;
+},
+{
+axesValues = (
+126
+);
+customParameters = (
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 700;
+}
+);
+}
+);
+instanceInterpolations = {
+m002 = 0.425;
+m003 = 0.575;
+};
+isBold = 1;
+name = Bold;
+weightClass = 700;
+},
+{
+axesValues = (
+160
+);
+customParameters = (
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 800;
+}
+);
+}
+);
+instanceInterpolations = {
+m003 = 1;
+};
+name = ExtraBold;
+weightClass = 800;
 }
 );
 metrics = (
@@ -1167,16 +1358,16 @@ oV = "174";
 tH = "130";
 };
 "574EE4B9-5C1A-4E7E-9985-C08FACB65BD8" = {
-HH = "80";
-HV = "86";
-OH = "84";
-OV = "90";
+HH = "30";
+HV = "33";
+OH = "29";
+OV = "33";
 cydeH = "74";
-nV = "84";
-nd = "74";
-oH = "73";
-oV = "85";
-tH = "72";
+nV = "30";
+nd = "28";
+oH = "29";
+oV = "31";
+tH = "28";
 };
 "58B1DC7A-69F8-4375-AD2E-AC5103CCF536" = {
 HH = "158";
@@ -1200,6 +1391,28 @@ nd = "30";
 oH = "30";
 oV = "32";
 tH = "28";
+};
+m002 = {
+HH = "77";
+HV = "83";
+OH = "81";
+OV = "86";
+nV = "81";
+nd = "71";
+oH = "73";
+oV = "85";
+tH = "69";
+};
+m003 = {
+HH = "156";
+HV = "165";
+OH = "153";
+OV = "168";
+nV = "160";
+nd = "154";
+oH = "138";
+oV = "164";
+tH = "150";
 };
 m01 = {
 HH = "86";

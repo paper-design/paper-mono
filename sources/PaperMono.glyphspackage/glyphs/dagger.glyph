@@ -1,9 +1,9 @@
 {
-color = 1;
+color = 4;
 glyphname = dagger;
 layers = (
 {
-layerId = "574EE4B9-5C1A-4E7E-9985-C08FACB65BD8";
+layerId = m002;
 shapes = (
 {
 closed = 1;
@@ -21,6 +21,30 @@ nodes = (
 (504,538,l),
 (101,538,l),
 (101,465,l)
+);
+}
+);
+width = 605;
+},
+{
+layerId = m003;
+shapes = (
+{
+closed = 1;
+nodes = (
+(385,58,l),
+(385,710,l),
+(220,710,l),
+(220,58,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(525,418,l),
+(525,574,l),
+(80,574,l),
+(80,418,l)
 );
 }
 );

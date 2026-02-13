@@ -1,5 +1,5 @@
 {
-color = 1;
+color = 4;
 glyphname = K;
 layers = (
 {
@@ -13,7 +13,7 @@ name = top;
 pos = (281,710);
 }
 );
-layerId = "574EE4B9-5C1A-4E7E-9985-C08FACB65BD8";
+layerId = m002;
 shapes = (
 {
 closed = 1;
@@ -40,6 +40,49 @@ nodes = (
 (270,424,l),
 (212,365,l),
 (450,0,l)
+);
+}
+);
+width = 605;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (287,0);
+},
+{
+name = top;
+pos = (281,710);
+}
+);
+layerId = m003;
+shapes = (
+{
+closed = 1;
+nodes = (
+(569,710,l),
+(377,710,l),
+(171,377,l),
+(191,159,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(215,0,l),
+(215,710,l),
+(50,710,l),
+(50,0,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(568,0,l),
+(344,460,l),
+(228,345,l),
+(380,0,l)
 );
 }
 );

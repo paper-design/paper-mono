@@ -1,5 +1,5 @@
 {
-color = 1;
+color = 4;
 glyphname = T;
 layers = (
 {
@@ -17,7 +17,7 @@ name = top;
 pos = (303,710);
 }
 );
-layerId = "574EE4B9-5C1A-4E7E-9985-C08FACB65BD8";
+layerId = m002;
 shapes = (
 {
 closed = 1;
@@ -30,6 +30,39 @@ nodes = (
 (53,634,l),
 (261,634,l),
 (261,0,l)
+);
+}
+);
+width = 605;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (304,0);
+},
+{
+name = center;
+pos = (304,349);
+},
+{
+name = top;
+pos = (304,710);
+}
+);
+layerId = m003;
+shapes = (
+{
+closed = 1;
+nodes = (
+(385,0,l),
+(385,554,l),
+(555,554,l),
+(555,710,l),
+(50,710,l),
+(50,554,l),
+(220,554,l),
+(220,0,l)
 );
 }
 );

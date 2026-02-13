@@ -1,5 +1,5 @@
 {
-color = 1;
+color = 5;
 glyphname = strokelongcomb;
 layers = (
 {
@@ -9,7 +9,7 @@ name = _center;
 pos = (303,549);
 }
 );
-layerId = "574EE4B9-5C1A-4E7E-9985-C08FACB65BD8";
+layerId = m002;
 shapes = (
 {
 closed = 1;
@@ -18,6 +18,27 @@ nodes = (
 (581,588,l),
 (24,588,l),
 (24,513,l)
+);
+}
+);
+width = 605;
+},
+{
+anchors = (
+{
+name = _center;
+pos = (303,549);
+}
+);
+layerId = m003;
+shapes = (
+{
+closed = 1;
+nodes = (
+(595,501,l),
+(595,631,l),
+(10,631,l),
+(10,501,l)
 );
 }
 );

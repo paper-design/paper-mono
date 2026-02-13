@@ -1,13 +1,24 @@
 {
-color = 1;
+color = 4;
 glyphname = periodcentered;
 layers = (
 {
-layerId = "574EE4B9-5C1A-4E7E-9985-C08FACB65BD8";
+layerId = m002;
 shapes = (
 {
 alignment = -1;
 pos = (0,233);
+ref = period;
+}
+);
+width = 605;
+},
+{
+layerId = m003;
+shapes = (
+{
+alignment = -1;
+pos = (0,203);
 ref = period;
 }
 );

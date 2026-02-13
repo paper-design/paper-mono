@@ -1,9 +1,9 @@
 {
-color = 1;
+color = 4;
 glyphname = guillemetleft;
 layers = (
 {
-layerId = "574EE4B9-5C1A-4E7E-9985-C08FACB65BD8";
+layerId = m002;
 shapes = (
 {
 alignment = -1;
@@ -13,6 +13,22 @@ ref = guilsinglleft;
 {
 alignment = -1;
 pos = (95,0);
+ref = guilsinglleft;
+}
+);
+width = 605;
+},
+{
+layerId = m003;
+shapes = (
+{
+alignment = -1;
+pos = (-120,0);
+ref = guilsinglleft;
+},
+{
+alignment = -1;
+pos = (119,0);
 ref = guilsinglleft;
 }
 );

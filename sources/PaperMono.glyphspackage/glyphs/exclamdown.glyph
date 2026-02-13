@@ -1,9 +1,22 @@
 {
-color = 9;
+color = 4;
 glyphname = exclamdown;
 layers = (
 {
-layerId = "574EE4B9-5C1A-4E7E-9985-C08FACB65BD8";
+layerId = m002;
+name = Regular;
+shapes = (
+{
+alignment = -1;
+pos = (0,526);
+ref = exclam;
+scale = (1,-1);
+}
+);
+width = 605;
+},
+{
+layerId = m003;
 name = Regular;
 shapes = (
 {

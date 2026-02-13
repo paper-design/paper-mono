@@ -1,9 +1,9 @@
 {
-color = 1;
+color = 4;
 glyphname = Saltillo;
 layers = (
 {
-layerId = "574EE4B9-5C1A-4E7E-9985-C08FACB65BD8";
+layerId = m002;
 shapes = (
 {
 closed = 1;
@@ -14,6 +14,23 @@ nodes = (
 (260,710,l),
 (260,576,l),
 (270,365,l)
+);
+}
+);
+width = 605;
+},
+{
+layerId = m003;
+shapes = (
+{
+closed = 1;
+nodes = (
+(375,345,l),
+(385,566,l),
+(385,710,l),
+(220,710,l),
+(220,566,l),
+(230,345,l)
 );
 }
 );
