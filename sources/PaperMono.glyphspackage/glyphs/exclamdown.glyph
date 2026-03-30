@@ -1,5 +1,5 @@
 {
-color = 4;
+color = 8;
 glyphname = exclamdown;
 layers = (
 {
@@ -8,7 +8,7 @@ name = Regular;
 shapes = (
 {
 alignment = -1;
-pos = (0,526);
+pos = (0,528);
 ref = exclam;
 scale = (1,-1);
 }
@@ -21,7 +21,25 @@ name = Regular;
 shapes = (
 {
 alignment = -1;
-pos = (0,526);
+pos = (0,528);
+ref = exclam;
+scale = (1,-1);
+}
+);
+width = 605;
+},
+{
+guides = (
+{
+pos = (316,316);
+}
+);
+layerId = "742FEEFA-C05E-41BB-8475-8B252540AEF7";
+name = Regular;
+shapes = (
+{
+alignment = -1;
+pos = (0,528);
 ref = exclam;
 scale = (1,-1);
 }

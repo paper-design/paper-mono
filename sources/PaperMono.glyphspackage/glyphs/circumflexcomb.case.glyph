@@ -1,5 +1,5 @@
 {
-color = 4;
+color = 8;
 glyphname = circumflexcomb.case;
 layers = (
 {
@@ -55,6 +55,35 @@ nodes = (
 (377,891,l),
 (228,891,l),
 (129,748,l)
+);
+}
+);
+width = 605;
+},
+{
+anchors = (
+{
+name = _top;
+pos = (303,710);
+},
+{
+name = top;
+pos = (303,892);
+}
+);
+layerId = "742FEEFA-C05E-41BB-8475-8B252540AEF7";
+shapes = (
+{
+closed = 1;
+nodes = (
+(208,764,l),
+(308,872,l),
+(297,872,l),
+(398,764,l),
+(428,764,l),
+(314,892,l),
+(291,892,l),
+(178,764,l)
 );
 }
 );

@@ -1,5 +1,5 @@
 {
-color = 5;
+color = 8;
 glyphname = gstroke;
 layers = (
 {
@@ -36,6 +36,26 @@ nodes = (
 {
 alignment = -1;
 pos = (-12,0);
+ref = g;
+}
+);
+width = 605;
+},
+{
+layerId = "742FEEFA-C05E-41BB-8475-8B252540AEF7";
+shapes = (
+{
+closed = 1;
+nodes = (
+(571,255,l),
+(571,281,l),
+(300,281,l),
+(300,255,l)
+);
+},
+{
+alignment = -1;
+pos = (4,0);
 ref = g;
 }
 );

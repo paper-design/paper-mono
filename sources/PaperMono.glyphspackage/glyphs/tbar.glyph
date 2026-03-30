@@ -28,6 +28,20 @@ scale = (1.2,1);
 }
 );
 width = 605;
+},
+{
+layerId = "742FEEFA-C05E-41BB-8475-8B252540AEF7";
+shapes = (
+{
+ref = t;
+},
+{
+pos = (-84,-16);
+ref = strokeshortcomb;
+scale = (1.2,1);
+}
+);
+width = 605;
 }
 );
 unicode = 359;

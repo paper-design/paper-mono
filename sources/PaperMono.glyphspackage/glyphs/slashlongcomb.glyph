@@ -1,5 +1,5 @@
 {
-color = 5;
+color = 8;
 glyphname = slashlongcomb;
 layers = (
 {
@@ -39,6 +39,27 @@ nodes = (
 (521,540,l),
 (389,540,l),
 (84,-31,l)
+);
+}
+);
+width = 605;
+},
+{
+anchors = (
+{
+name = _center;
+pos = (303,252);
+}
+);
+layerId = "742FEEFA-C05E-41BB-8475-8B252540AEF7";
+shapes = (
+{
+closed = 1;
+nodes = (
+(120,-15,l),
+(521,524,l),
+(485,524,l),
+(84,-15,l)
 );
 }
 );

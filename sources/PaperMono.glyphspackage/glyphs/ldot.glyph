@@ -1,4 +1,5 @@
 {
+color = 8;
 glyphname = ldot;
 layers = (
 {
@@ -24,6 +25,20 @@ ref = l;
 {
 alignment = -1;
 pos = (304,-281);
+ref = dotaccentcomb;
+}
+);
+width = 605;
+},
+{
+layerId = "742FEEFA-C05E-41BB-8475-8B252540AEF7";
+shapes = (
+{
+ref = l;
+},
+{
+alignment = -1;
+pos = (306,-323);
 ref = dotaccentcomb;
 }
 );

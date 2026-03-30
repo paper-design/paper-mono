@@ -1,5 +1,5 @@
 {
-color = 4;
+color = 8;
 glyphname = northEastArrow.ss07;
 layers = (
 {
@@ -21,6 +21,18 @@ shapes = (
 alignment = -1;
 angle = -45;
 pos = (-129,336);
+ref = upArrow.ss07;
+}
+);
+width = 605;
+},
+{
+layerId = "742FEEFA-C05E-41BB-8475-8B252540AEF7";
+shapes = (
+{
+alignment = -1;
+angle = -45;
+pos = (-149,336);
 ref = upArrow.ss07;
 }
 );
