@@ -3,22 +3,6 @@ color = 8;
 glyphname = guillemetleft;
 layers = (
 {
-layerId = m002;
-shapes = (
-{
-alignment = -1;
-pos = (-104,0);
-ref = guilsinglleft;
-},
-{
-alignment = -1;
-pos = (104,0);
-ref = guilsinglleft;
-}
-);
-width = 605;
-},
-{
 layerId = m003;
 shapes = (
 {
@@ -45,6 +29,22 @@ ref = guilsinglleft;
 {
 alignment = -1;
 pos = (94,0);
+ref = guilsinglleft;
+}
+);
+width = 605;
+},
+{
+layerId = "2B4B7FDD-7E66-4143-AA8B-CAF759C636CA";
+shapes = (
+{
+alignment = -1;
+pos = (-105,0);
+ref = guilsinglleft;
+},
+{
+alignment = -1;
+pos = (105,0);
 ref = guilsinglleft;
 }
 );

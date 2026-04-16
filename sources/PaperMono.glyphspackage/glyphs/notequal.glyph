@@ -3,25 +3,6 @@ color = 8;
 glyphname = notequal;
 layers = (
 {
-layerId = m002;
-shapes = (
-{
-closed = 1;
-nodes = (
-(264,36,l),
-(412,539,l),
-(341,539,l),
-(193,36,l)
-);
-},
-{
-alignment = -1;
-ref = equal;
-}
-);
-width = 605;
-},
-{
 layerId = m003;
 shapes = (
 {
@@ -50,6 +31,25 @@ nodes = (
 (391,517,l),
 (362,517,l),
 (214,55,l)
+);
+},
+{
+alignment = -1;
+ref = equal;
+}
+);
+width = 605;
+},
+{
+layerId = "2B4B7FDD-7E66-4143-AA8B-CAF759C636CA";
+shapes = (
+{
+closed = 1;
+nodes = (
+(268,34,l),
+(416,542,l),
+(337,542,l),
+(189,34,l)
 );
 },
 {

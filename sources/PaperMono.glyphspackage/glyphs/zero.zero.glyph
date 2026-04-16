@@ -3,24 +3,6 @@ color = 8;
 glyphname = zero.zero;
 layers = (
 {
-layerId = m002;
-shapes = (
-{
-closed = 1;
-nodes = (
-(498,443,l),
-(460,500,l),
-(108,268,l),
-(146,210,l)
-);
-},
-{
-ref = zero;
-}
-);
-width = 605;
-},
-{
 layerId = m003;
 shapes = (
 {
@@ -48,6 +30,24 @@ nodes = (
 (493,494,l),
 (99,244,l),
 (111,218,l)
+);
+},
+{
+ref = zero;
+}
+);
+width = 605;
+},
+{
+layerId = "2B4B7FDD-7E66-4143-AA8B-CAF759C636CA";
+shapes = (
+{
+closed = 1;
+nodes = (
+(498,440,l),
+(460,503,l),
+(108,271,l),
+(146,207,l)
 );
 },
 {

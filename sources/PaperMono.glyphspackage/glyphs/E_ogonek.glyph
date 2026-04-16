@@ -2,19 +2,6 @@
 glyphname = Eogonek;
 layers = (
 {
-layerId = m002;
-shapes = (
-{
-ref = E;
-},
-{
-pos = (137,0);
-ref = ogonekcomb;
-}
-);
-width = 605;
-},
-{
 layerId = m003;
 shapes = (
 {
@@ -35,6 +22,19 @@ ref = E;
 },
 {
 pos = (153,0);
+ref = ogonekcomb;
+}
+);
+width = 605;
+},
+{
+layerId = "2B4B7FDD-7E66-4143-AA8B-CAF759C636CA";
+shapes = (
+{
+ref = E;
+},
+{
+pos = (135,0);
 ref = ogonekcomb;
 }
 );

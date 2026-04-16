@@ -683,7 +683,7 @@ tag = slng;
 );
 }
 );
-date = "2026-03-30 16:57:14 +0000";
+date = "2026-04-16 15:10:13 +0000";
 familyName = "Paper Mono";
 featurePrefixes = (
 {
@@ -1108,7 +1108,7 @@ stemValues = (
 },
 {
 axesValues = (
-80
+86
 );
 customParameters = (
 {
@@ -1153,7 +1153,7 @@ Location = 400;
 );
 }
 );
-id = m002;
+id = "2B4B7FDD-7E66-4143-AA8B-CAF759C636CA";
 metricValues = (
 {
 over = 12;
@@ -1179,10 +1179,10 @@ pos = 747;
 );
 name = Regular;
 stemValues = (
-80,
-71,
-83,
-81
+86,
+77,
+89,
+87
 );
 },
 {
@@ -1290,7 +1290,7 @@ weightClass = 100;
 },
 {
 axesValues = (
-40
+50
 );
 customParameters = (
 {
@@ -1304,15 +1304,15 @@ Location = 200;
 }
 );
 instanceInterpolations = {
-"742FEEFA-C05E-41BB-8475-8B252540AEF7" = 0.8;
-m002 = 0.2;
+"2B4B7FDD-7E66-4143-AA8B-CAF759C636CA" = 0.35714;
+"742FEEFA-C05E-41BB-8475-8B252540AEF7" = 0.64286;
 };
 name = ExtraLight;
 weightClass = 200;
 },
 {
 axesValues = (
-56
+66
 );
 customParameters = (
 {
@@ -1326,15 +1326,15 @@ Location = 300;
 }
 );
 instanceInterpolations = {
-"742FEEFA-C05E-41BB-8475-8B252540AEF7" = 0.48;
-m002 = 0.52;
+"2B4B7FDD-7E66-4143-AA8B-CAF759C636CA" = 0.64286;
+"742FEEFA-C05E-41BB-8475-8B252540AEF7" = 0.35714;
 };
 name = Light;
 weightClass = 300;
 },
 {
 axesValues = (
-80
+86
 );
 customParameters = (
 {
@@ -1348,7 +1348,7 @@ Location = 400;
 }
 );
 instanceInterpolations = {
-m002 = 1;
+"2B4B7FDD-7E66-4143-AA8B-CAF759C636CA" = 1;
 };
 name = Regular;
 },
@@ -1368,8 +1368,8 @@ Location = 500;
 }
 );
 instanceInterpolations = {
-m002 = 0.825;
-m003 = 0.175;
+"2B4B7FDD-7E66-4143-AA8B-CAF759C636CA" = 0.89189;
+m003 = 0.10811;
 };
 name = Medium;
 weightClass = 500;
@@ -1390,8 +1390,8 @@ Location = 600;
 }
 );
 instanceInterpolations = {
-m002 = 0.625;
-m003 = 0.375;
+"2B4B7FDD-7E66-4143-AA8B-CAF759C636CA" = 0.67568;
+m003 = 0.32432;
 };
 name = SemiBold;
 weightClass = 600;
@@ -1412,8 +1412,8 @@ Location = 700;
 }
 );
 instanceInterpolations = {
-m002 = 0.425;
-m003 = 0.575;
+"2B4B7FDD-7E66-4143-AA8B-CAF759C636CA" = 0.45946;
+m003 = 0.54054;
 };
 isBold = 1;
 name = Bold;

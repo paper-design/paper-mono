@@ -3,23 +3,6 @@ color = 8;
 glyphname = guilsinglright;
 layers = (
 {
-layerId = m002;
-shapes = (
-{
-closed = 1;
-nodes = (
-(441,265,l),
-(260,457,l),
-(164,457,l),
-(347,265,l),
-(164,73,l),
-(260,73,l)
-);
-}
-);
-width = 605;
-},
-{
 layerId = m003;
 shapes = (
 {
@@ -48,6 +31,23 @@ nodes = (
 (381,265,l),
 (184,73,l),
 (224,73,l)
+);
+}
+);
+width = 605;
+},
+{
+layerId = "2B4B7FDD-7E66-4143-AA8B-CAF759C636CA";
+shapes = (
+{
+closed = 1;
+nodes = (
+(444,265,l),
+(263,457,l),
+(161,457,l),
+(344,265,l),
+(161,73,l),
+(263,73,l)
 );
 }
 );

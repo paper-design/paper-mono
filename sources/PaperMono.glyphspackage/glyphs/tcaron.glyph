@@ -2,19 +2,6 @@
 glyphname = tcaron;
 layers = (
 {
-layerId = m002;
-shapes = (
-{
-ref = t;
-},
-{
-pos = (162,38);
-ref = caroncomb.alt;
-}
-);
-width = 605;
-},
-{
 layerId = m003;
 shapes = (
 {
@@ -35,6 +22,19 @@ ref = t;
 },
 {
 pos = (153,38);
+ref = caroncomb.alt;
+}
+);
+width = 605;
+},
+{
+layerId = "2B4B7FDD-7E66-4143-AA8B-CAF759C636CA";
+shapes = (
+{
+ref = t;
+},
+{
+pos = (161,38);
 ref = caroncomb.alt;
 }
 );

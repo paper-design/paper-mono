@@ -3,26 +3,6 @@ color = 8;
 glyphname = one.circled;
 layers = (
 {
-layerId = m002;
-shapes = (
-{
-alignment = -1;
-ref = blackCircledStroke;
-},
-{
-alignment = -1;
-pos = (-19,-205);
-ref = onesuperior;
-}
-);
-userData = {
-assembly = "NPUSHB[ ]	/* 72 values pushed */
-37 36 33 3 5 4 1 76 0 4 2 5 2 4 5 128 0 5 3 2 5 3 126 0 0 0 2 4 0 2 105 7 1 3 1 1 3 89 7 1 3 3 1 97 6 1 1 3 1 81 16 16 0 0 43 42 41 40 16 31 16 30 24 22 0 15 0 14 38 8 6 23 
-CALL[ ]	/* CallFunction */";
-};
-width = 605;
-},
-{
 layerId = m003;
 shapes = (
 {
@@ -52,6 +32,26 @@ ref = blackCircledStroke;
 {
 alignment = -1;
 pos = (-20,-205);
+ref = onesuperior;
+}
+);
+userData = {
+assembly = "NPUSHB[ ]	/* 72 values pushed */
+37 36 33 3 5 4 1 76 0 4 2 5 2 4 5 128 0 5 3 2 5 3 126 0 0 0 2 4 0 2 105 7 1 3 1 1 3 89 7 1 3 3 1 97 6 1 1 3 1 81 16 16 0 0 43 42 41 40 16 31 16 30 24 22 0 15 0 14 38 8 6 23 
+CALL[ ]	/* CallFunction */";
+};
+width = 605;
+},
+{
+layerId = "2B4B7FDD-7E66-4143-AA8B-CAF759C636CA";
+shapes = (
+{
+alignment = -1;
+ref = blackCircledStroke;
+},
+{
+alignment = -1;
+pos = (-19,-205);
 ref = onesuperior;
 }
 );

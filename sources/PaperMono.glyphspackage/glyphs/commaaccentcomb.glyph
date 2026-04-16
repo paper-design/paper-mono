@@ -13,31 +13,6 @@ name = bottom;
 pos = (318,-250);
 }
 );
-layerId = m002;
-shapes = (
-{
-closed = 1;
-nodes = (
-(305,-250,l),
-(368,-58,l),
-(276,-58,l),
-(237,-250,l)
-);
-}
-);
-width = 605;
-},
-{
-anchors = (
-{
-name = _bottom;
-pos = (319,0);
-},
-{
-name = bottom;
-pos = (318,-250);
-}
-);
 layerId = m003;
 shapes = (
 {
@@ -72,6 +47,31 @@ nodes = (
 (345,-58,l),
 (307,-58,l),
 (260,-238,l)
+);
+}
+);
+width = 605;
+},
+{
+anchors = (
+{
+name = _bottom;
+pos = (319,0);
+},
+{
+name = bottom;
+pos = (318,-250);
+}
+);
+layerId = "2B4B7FDD-7E66-4143-AA8B-CAF759C636CA";
+shapes = (
+{
+closed = 1;
+nodes = (
+(307,-250,l),
+(370,-58,l),
+(274,-58,l),
+(235,-250,l)
 );
 }
 );

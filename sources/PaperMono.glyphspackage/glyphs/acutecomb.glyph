@@ -6,31 +6,6 @@ layers = (
 anchors = (
 {
 name = _top;
-pos = (262,509);
-},
-{
-name = top;
-pos = (262,747);
-}
-);
-layerId = m002;
-shapes = (
-{
-closed = 1;
-nodes = (
-(289,595,l),
-(383,747,l),
-(293,747,l),
-(222,595,l)
-);
-}
-);
-width = 605;
-},
-{
-anchors = (
-{
-name = _top;
 pos = (254,509);
 },
 {
@@ -85,6 +60,31 @@ nodes = (
 (357,747,l),
 (321,747,l),
 (248,614,l)
+);
+}
+);
+width = 605;
+},
+{
+anchors = (
+{
+name = _top;
+pos = (261,509);
+},
+{
+name = top;
+pos = (261,747);
+}
+);
+layerId = "2B4B7FDD-7E66-4143-AA8B-CAF759C636CA";
+shapes = (
+{
+closed = 1;
+nodes = (
+(291,593,l),
+(386,747,l),
+(289,747,l),
+(218,593,l)
 );
 }
 );

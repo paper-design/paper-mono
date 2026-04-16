@@ -2,19 +2,6 @@
 glyphname = Eacute;
 layers = (
 {
-layerId = m002;
-shapes = (
-{
-ref = E;
-},
-{
-pos = (41,0);
-ref = acutecomb.case;
-}
-);
-width = 605;
-},
-{
 layerId = m003;
 shapes = (
 {
@@ -35,6 +22,19 @@ ref = E;
 },
 {
 pos = (35,0);
+ref = acutecomb.case;
+}
+);
+width = 605;
+},
+{
+layerId = "2B4B7FDD-7E66-4143-AA8B-CAF759C636CA";
+shapes = (
+{
+ref = E;
+},
+{
+pos = (42,0);
 ref = acutecomb.case;
 }
 );

@@ -6,32 +6,6 @@ layers = (
 anchors = (
 {
 name = _top;
-pos = (262,509);
-},
-{
-name = top;
-pos = (262,745);
-}
-);
-layerId = m002;
-shapes = (
-{
-alignment = -1;
-pos = (-67,-2);
-ref = acutecomb;
-},
-{
-alignment = -1;
-pos = (67,-2);
-ref = acutecomb;
-}
-);
-width = 605;
-},
-{
-anchors = (
-{
-name = _top;
 pos = (264,509);
 },
 {
@@ -75,6 +49,32 @@ ref = acutecomb;
 {
 alignment = -1;
 pos = (48,-2);
+ref = acutecomb;
+}
+);
+width = 605;
+},
+{
+anchors = (
+{
+name = _top;
+pos = (262,509);
+},
+{
+name = top;
+pos = (262,745);
+}
+);
+layerId = "2B4B7FDD-7E66-4143-AA8B-CAF759C636CA";
+shapes = (
+{
+alignment = -1;
+pos = (-69,-2);
+ref = acutecomb;
+},
+{
+alignment = -1;
+pos = (70,-2);
 ref = acutecomb;
 }
 );

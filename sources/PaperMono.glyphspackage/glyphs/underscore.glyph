@@ -3,21 +3,6 @@ color = 8;
 glyphname = underscore;
 layers = (
 {
-layerId = m002;
-shapes = (
-{
-closed = 1;
-nodes = (
-(581,-75,l),
-(581,0,l),
-(24,0,l),
-(24,-75,l)
-);
-}
-);
-width = 605;
-},
-{
 layerId = m003;
 shapes = (
 {
@@ -42,6 +27,21 @@ nodes = (
 (581,0,l),
 (24,0,l),
 (24,-28,l)
+);
+}
+);
+width = 605;
+},
+{
+layerId = "2B4B7FDD-7E66-4143-AA8B-CAF759C636CA";
+shapes = (
+{
+closed = 1;
+nodes = (
+(581,-80,l),
+(581,0,l),
+(24,0,l),
+(24,-80,l)
 );
 }
 );

@@ -3,21 +3,6 @@ color = 8;
 glyphname = minute;
 layers = (
 {
-layerId = m002;
-shapes = (
-{
-closed = 1;
-nodes = (
-(308,453,l),
-(370,710,l),
-(285,710,l),
-(235,453,l)
-);
-}
-);
-width = 605;
-},
-{
 layerId = m003;
 shapes = (
 {
@@ -42,6 +27,21 @@ nodes = (
 (345,710,l),
 (309,710,l),
 (260,453,l)
+);
+}
+);
+width = 605;
+},
+{
+layerId = "2B4B7FDD-7E66-4143-AA8B-CAF759C636CA";
+shapes = (
+{
+closed = 1;
+nodes = (
+(311,453,l),
+(373,710,l),
+(282,710,l),
+(232,453,l)
 );
 }
 );

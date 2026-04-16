@@ -3,21 +3,6 @@ color = 8;
 glyphname = slash;
 layers = (
 {
-layerId = m002;
-shapes = (
-{
-closed = 1;
-nodes = (
-(187,-79,l),
-(495,747,l),
-(418,747,l),
-(111,-79,l)
-);
-}
-);
-width = 605;
-},
-{
 layerId = m003;
 shapes = (
 {
@@ -42,6 +27,21 @@ nodes = (
 (467,747,l),
 (439,747,l),
 (138,-79,l)
+);
+}
+);
+width = 605;
+},
+{
+layerId = "2B4B7FDD-7E66-4143-AA8B-CAF759C636CA";
+shapes = (
+{
+closed = 1;
+nodes = (
+(190,-79,l),
+(498,747,l),
+(415,747,l),
+(108,-79,l)
 );
 }
 );

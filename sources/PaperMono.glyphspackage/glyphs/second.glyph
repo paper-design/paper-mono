@@ -3,22 +3,6 @@ color = 8;
 glyphname = second;
 layers = (
 {
-layerId = m002;
-shapes = (
-{
-alignment = -1;
-pos = (-87,0);
-ref = minute;
-},
-{
-alignment = -1;
-pos = (87,0);
-ref = minute;
-}
-);
-width = 605;
-},
-{
 layerId = m003;
 shapes = (
 {
@@ -45,6 +29,22 @@ ref = minute;
 {
 alignment = -1;
 pos = (72,0);
+ref = minute;
+}
+);
+width = 605;
+},
+{
+layerId = "2B4B7FDD-7E66-4143-AA8B-CAF759C636CA";
+shapes = (
+{
+alignment = -1;
+pos = (-90,0);
+ref = minute;
+},
+{
+alignment = -1;
+pos = (90,0);
 ref = minute;
 }
 );
