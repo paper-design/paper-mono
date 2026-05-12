@@ -1,5 +1,4 @@
 {
-color = 4;
 glyphname = Aogonek;
 layers = (
 {
@@ -52,6 +51,19 @@ ref = A;
 },
 {
 pos = (172,0);
+ref = ogonekcomb;
+}
+);
+width = 605;
+},
+{
+layerId = "742FEEFA-C05E-41BB-8475-8B252540AEF7";
+shapes = (
+{
+ref = A;
+},
+{
+pos = (209,0);
 ref = ogonekcomb;
 }
 );

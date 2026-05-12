@@ -1,5 +1,5 @@
 {
-color = 4;
+color = 8;
 glyphname = notequal;
 layers = (
 {
@@ -31,6 +31,25 @@ nodes = (
 (462,575,l),
 (292,575,l),
 (144,5,l)
+);
+},
+{
+alignment = -1;
+ref = equal;
+}
+);
+width = 605;
+},
+{
+layerId = "742FEEFA-C05E-41BB-8475-8B252540AEF7";
+shapes = (
+{
+closed = 1;
+nodes = (
+(243,55,l),
+(391,517,l),
+(362,517,l),
+(214,55,l)
 );
 },
 {

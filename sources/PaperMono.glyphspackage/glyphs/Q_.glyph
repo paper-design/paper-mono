@@ -1,5 +1,5 @@
 {
-color = 1;
+color = 8;
 glyphname = Q;
 layers = (
 {
@@ -159,6 +159,34 @@ nodes = (
 (408,64,l),
 (331,64,l),
 (413,-134,l)
+);
+},
+{
+ref = O;
+}
+);
+width = 605;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (298,0);
+},
+{
+name = top;
+pos = (298,710);
+}
+);
+layerId = "742FEEFA-C05E-41BB-8475-8B252540AEF7";
+shapes = (
+{
+closed = 1;
+nodes = (
+(490,-134,l),
+(306,210,l),
+(276,210,l),
+(462,-134,l)
 );
 },
 {

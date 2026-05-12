@@ -1,5 +1,5 @@
 {
-color = 5;
+color = 8;
 glyphname = strokeshortcomb;
 layers = (
 {
@@ -39,6 +39,27 @@ nodes = (
 (471,392,l),
 (134,392,l),
 (134,282,l)
+);
+}
+);
+width = 605;
+},
+{
+anchors = (
+{
+name = _center;
+pos = (303,337);
+}
+);
+layerId = "742FEEFA-C05E-41BB-8475-8B252540AEF7";
+shapes = (
+{
+closed = 1;
+nodes = (
+(463,323,l),
+(463,351,l),
+(142,351,l),
+(142,323,l)
 );
 }
 );

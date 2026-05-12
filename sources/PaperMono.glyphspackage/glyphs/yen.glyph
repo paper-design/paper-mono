@@ -1,5 +1,5 @@
 {
-color = 4;
+color = 8;
 glyphname = yen;
 layers = (
 {
@@ -53,6 +53,34 @@ nodes = (
 (527,427,l),
 (79,427,l),
 (79,287,l)
+);
+}
+);
+width = 605;
+},
+{
+layerId = "742FEEFA-C05E-41BB-8475-8B252540AEF7";
+shapes = (
+{
+alignment = -1;
+ref = Y;
+},
+{
+closed = 1;
+nodes = (
+(511,160,l),
+(511,186,l),
+(95,186,l),
+(95,160,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(511,320,l),
+(511,346,l),
+(95,346,l),
+(95,320,l)
 );
 }
 );

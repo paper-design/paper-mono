@@ -1,5 +1,5 @@
 {
-color = 4;
+color = 8;
 glyphname = seveninferior;
 layers = (
 {
@@ -14,6 +14,16 @@ width = 605;
 },
 {
 layerId = m003;
+shapes = (
+{
+pos = (0,-480);
+ref = sevensuperior;
+}
+);
+width = 605;
+},
+{
+layerId = "742FEEFA-C05E-41BB-8475-8B252540AEF7";
 shapes = (
 {
 pos = (0,-480);

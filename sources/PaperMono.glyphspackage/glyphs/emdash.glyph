@@ -1,5 +1,5 @@
 {
-color = 4;
+color = 8;
 glyphname = emdash;
 layers = (
 {
@@ -27,6 +27,21 @@ nodes = (
 (600,367,l),
 (5,367,l),
 (5,207,l)
+);
+}
+);
+width = 605;
+},
+{
+layerId = "742FEEFA-C05E-41BB-8475-8B252540AEF7";
+shapes = (
+{
+closed = 1;
+nodes = (
+(600,268,l),
+(600,294,l),
+(5,294,l),
+(5,268,l)
 );
 }
 );

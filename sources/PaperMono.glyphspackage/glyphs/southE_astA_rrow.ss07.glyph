@@ -25,6 +25,18 @@ ref = upArrow.ss07;
 }
 );
 width = 605;
+},
+{
+layerId = "742FEEFA-C05E-41BB-8475-8B252540AEF7";
+shapes = (
+{
+alignment = -1;
+angle = -135;
+pos = (281,753);
+ref = upArrow.ss07;
+}
+);
+width = 605;
 }
 );
 }

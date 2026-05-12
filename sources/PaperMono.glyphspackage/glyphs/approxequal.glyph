@@ -1,5 +1,5 @@
 {
-color = 4;
+color = 8;
 glyphname = approxequal;
 layers = (
 {
@@ -29,6 +29,22 @@ ref = asciitilde;
 {
 alignment = -1;
 pos = (0,151);
+ref = asciitilde;
+}
+);
+width = 605;
+},
+{
+layerId = "742FEEFA-C05E-41BB-8475-8B252540AEF7";
+shapes = (
+{
+alignment = -1;
+pos = (0,-95);
+ref = asciitilde;
+},
+{
+alignment = -1;
+pos = (0,86);
 ref = asciitilde;
 }
 );

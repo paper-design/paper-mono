@@ -25,6 +25,18 @@ ref = upArrow;
 }
 );
 width = 605;
+},
+{
+layerId = "742FEEFA-C05E-41BB-8475-8B252540AEF7";
+shapes = (
+{
+alignment = -1;
+angle = -45;
+pos = (-139,316);
+ref = upArrow;
+}
+);
+width = 605;
 }
 );
 unicode = 8599;

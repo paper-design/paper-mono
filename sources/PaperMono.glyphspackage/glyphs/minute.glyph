@@ -1,5 +1,5 @@
 {
-color = 4;
+color = 8;
 glyphname = minute;
 layers = (
 {
@@ -27,6 +27,21 @@ nodes = (
 (410,710,l),
 (245,710,l),
 (195,453,l)
+);
+}
+);
+width = 605;
+},
+{
+layerId = "742FEEFA-C05E-41BB-8475-8B252540AEF7";
+shapes = (
+{
+closed = 1;
+nodes = (
+(284,453,l),
+(345,710,l),
+(309,710,l),
+(260,453,l)
 );
 }
 );

@@ -1,5 +1,5 @@
 {
-color = 4;
+color = 8;
 glyphname = commaturnedabovecomb;
 layers = (
 {
@@ -47,6 +47,31 @@ nodes = (
 (401,777,l),
 (268,777,l),
 (204,585,l)
+);
+}
+);
+width = 605;
+},
+{
+anchors = (
+{
+name = _top;
+pos = (280,509);
+},
+{
+name = top;
+pos = (280,763);
+}
+);
+layerId = "742FEEFA-C05E-41BB-8475-8B252540AEF7";
+shapes = (
+{
+closed = 1;
+nodes = (
+(298,585,l),
+(345,765,l),
+(319,765,l),
+(260,585,l)
 );
 }
 );

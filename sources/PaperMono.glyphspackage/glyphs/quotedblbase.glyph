@@ -1,5 +1,5 @@
 {
-color = 4;
+color = 8;
 glyphname = quotedblbase;
 layers = (
 {
@@ -29,6 +29,22 @@ ref = quotesinglbase;
 {
 alignment = -1;
 pos = (106,0);
+ref = quotesinglbase;
+}
+);
+width = 605;
+},
+{
+layerId = "742FEEFA-C05E-41BB-8475-8B252540AEF7";
+shapes = (
+{
+alignment = -1;
+pos = (-100,0);
+ref = quotesinglbase;
+},
+{
+alignment = -1;
+pos = (100,0);
 ref = quotesinglbase;
 }
 );

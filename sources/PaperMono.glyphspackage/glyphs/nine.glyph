@@ -1,5 +1,5 @@
 {
-color = 4;
+color = 8;
 glyphname = nine;
 layers = (
 {
@@ -15,6 +15,17 @@ width = 605;
 },
 {
 layerId = m003;
+shapes = (
+{
+angle = 180;
+pos = (605,710);
+ref = six;
+}
+);
+width = 605;
+},
+{
+layerId = "742FEEFA-C05E-41BB-8475-8B252540AEF7";
 shapes = (
 {
 angle = 180;

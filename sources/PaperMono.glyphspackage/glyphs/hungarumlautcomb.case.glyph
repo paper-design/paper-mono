@@ -1,5 +1,5 @@
 {
-color = 4;
+color = 8;
 glyphname = hungarumlautcomb.case;
 layers = (
 {
@@ -49,6 +49,32 @@ ref = acutecomb.case;
 {
 alignment = -1;
 pos = (106,-2);
+ref = acutecomb.case;
+}
+);
+width = 605;
+},
+{
+anchors = (
+{
+name = _top;
+pos = (262,710);
+},
+{
+name = top;
+pos = (262,899);
+}
+);
+layerId = "742FEEFA-C05E-41BB-8475-8B252540AEF7";
+shapes = (
+{
+alignment = -1;
+pos = (-48,-2);
+ref = acutecomb.case;
+},
+{
+alignment = -1;
+pos = (48,-2);
 ref = acutecomb.case;
 }
 );

@@ -1,5 +1,5 @@
 {
-color = 4;
+color = 8;
 glyphname = grave;
 layers = (
 {
@@ -27,6 +27,21 @@ nodes = (
 (358,710,l),
 (176,710,l),
 (270,482,l)
+);
+}
+);
+width = 605;
+},
+{
+layerId = "742FEEFA-C05E-41BB-8475-8B252540AEF7";
+shapes = (
+{
+closed = 1;
+nodes = (
+(380,498,l),
+(309,710,l),
+(226,710,l),
+(320,498,l)
 );
 }
 );

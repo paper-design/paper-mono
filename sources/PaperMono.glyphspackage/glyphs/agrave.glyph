@@ -26,6 +26,19 @@ ref = gravecomb;
 }
 );
 width = 605;
+},
+{
+layerId = "742FEEFA-C05E-41BB-8475-8B252540AEF7";
+shapes = (
+{
+ref = a;
+},
+{
+pos = (-31,0);
+ref = gravecomb;
+}
+);
+width = 605;
 }
 );
 unicode = 224;

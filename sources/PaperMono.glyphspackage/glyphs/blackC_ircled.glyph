@@ -1,5 +1,5 @@
 {
-color = 4;
+color = 8;
 glyphname = blackCircled;
 layers = (
 {
@@ -27,6 +27,29 @@ width = 605;
 },
 {
 layerId = m003;
+shapes = (
+{
+closed = 1;
+nodes = (
+(474,-12,o),
+(581,116,o),
+(581,355,cs),
+(581,594,o),
+(474,722,o),
+(303,722,cs),
+(130,722,o),
+(24,594,o),
+(24,355,cs),
+(24,116,o),
+(130,-12,o),
+(303,-12,cs)
+);
+}
+);
+width = 605;
+},
+{
+layerId = "742FEEFA-C05E-41BB-8475-8B252540AEF7";
 shapes = (
 {
 closed = 1;

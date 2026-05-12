@@ -1,5 +1,5 @@
 {
-color = 5;
+color = 8;
 glyphname = macroncomb;
 layers = (
 {
@@ -47,6 +47,31 @@ nodes = (
 (457,702,l),
 (149,702,l),
 (149,572,l)
+);
+}
+);
+width = 605;
+},
+{
+anchors = (
+{
+name = _top;
+pos = (303,509);
+},
+{
+name = top;
+pos = (303,710);
+}
+);
+layerId = "742FEEFA-C05E-41BB-8475-8B252540AEF7";
+shapes = (
+{
+closed = 1;
+nodes = (
+(441,670,l),
+(441,698,l),
+(165,698,l),
+(165,670,l)
 );
 }
 );

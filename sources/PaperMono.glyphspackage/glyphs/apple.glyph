@@ -1,5 +1,5 @@
 {
-color = 4;
+color = 8;
 glyphname = apple;
 layers = (
 {
@@ -38,6 +38,40 @@ width = 605;
 },
 {
 layerId = m003;
+shapes = (
+{
+attr = {
+fillColor = (129,173,236,255);
+};
+closed = 1;
+nodes = (
+(585,218,l),
+(585,564,l),
+(108,564,l),
+(108,477,l),
+(367,477,l),
+(367,218,l)
+);
+},
+{
+attr = {
+fillColor = (129,173,236,255);
+};
+closed = 1;
+nodes = (
+(367,0,l),
+(367,218,l),
+(108,218,l),
+(108,477,l),
+(20,477,l),
+(20,0,l)
+);
+}
+);
+width = 605;
+},
+{
+layerId = "742FEEFA-C05E-41BB-8475-8B252540AEF7";
 shapes = (
 {
 attr = {

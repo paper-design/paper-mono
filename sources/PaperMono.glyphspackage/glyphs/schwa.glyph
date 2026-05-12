@@ -1,5 +1,5 @@
 {
-color = 4;
+color = 8;
 glyphname = schwa;
 layers = (
 {
@@ -35,6 +35,27 @@ pos = (298,509);
 }
 );
 layerId = m003;
+shapes = (
+{
+angle = 180;
+pos = (605,509);
+ref = e;
+}
+);
+width = 605;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (298,0);
+},
+{
+name = top;
+pos = (298,509);
+}
+);
+layerId = "742FEEFA-C05E-41BB-8475-8B252540AEF7";
 shapes = (
 {
 angle = 180;

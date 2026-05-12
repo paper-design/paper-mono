@@ -26,6 +26,19 @@ ref = strokeshortcomb;
 }
 );
 width = 605;
+},
+{
+layerId = "742FEEFA-C05E-41BB-8475-8B252540AEF7";
+shapes = (
+{
+ref = d;
+},
+{
+pos = (115,277);
+ref = strokeshortcomb;
+}
+);
+width = 605;
 }
 );
 unicode = 273;
