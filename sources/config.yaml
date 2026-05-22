@@ -10,7 +10,7 @@ stat:
     tag: wght
     values:
     - name: Thin
-      value: 200    
+      value: 100    
     - name: ExtraLight
       value: 200    
     - name: Light
