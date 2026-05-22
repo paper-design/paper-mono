@@ -2,19 +2,6 @@
 glyphname = tcedilla;
 layers = (
 {
-layerId = m002;
-shapes = (
-{
-ref = t;
-},
-{
-pos = (87,0);
-ref = cedillacomb;
-}
-);
-width = 605;
-},
-{
 layerId = m003;
 shapes = (
 {
@@ -22,6 +9,32 @@ ref = t;
 },
 {
 pos = (77,0);
+ref = cedillacomb;
+}
+);
+width = 605;
+},
+{
+layerId = "742FEEFA-C05E-41BB-8475-8B252540AEF7";
+shapes = (
+{
+ref = t;
+},
+{
+pos = (94,0);
+ref = cedillacomb;
+}
+);
+width = 605;
+},
+{
+layerId = "2B4B7FDD-7E66-4143-AA8B-CAF759C636CA";
+shapes = (
+{
+ref = t;
+},
+{
+pos = (86,0);
 ref = cedillacomb;
 }
 );

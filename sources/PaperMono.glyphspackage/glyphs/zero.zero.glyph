@@ -1,17 +1,17 @@
 {
-color = 4;
+color = 8;
 glyphname = zero.zero;
 layers = (
 {
-layerId = m002;
+layerId = m003;
 shapes = (
 {
 closed = 1;
 nodes = (
-(146,210,l),
-(498,443,l),
-(460,500,l),
-(108,268,l)
+(498,403,l),
+(460,540,l),
+(108,308,l),
+(146,170,l)
 );
 },
 {
@@ -21,15 +21,33 @@ ref = zero;
 width = 605;
 },
 {
-layerId = m003;
+layerId = "742FEEFA-C05E-41BB-8475-8B252540AEF7";
 shapes = (
 {
 closed = 1;
 nodes = (
-(146,170,l),
-(498,403,l),
-(460,540,l),
-(108,308,l)
+(505,468,l),
+(493,494,l),
+(99,244,l),
+(111,218,l)
+);
+},
+{
+ref = zero;
+}
+);
+width = 605;
+},
+{
+layerId = "2B4B7FDD-7E66-4143-AA8B-CAF759C636CA";
+shapes = (
+{
+closed = 1;
+nodes = (
+(498,440,l),
+(460,503,l),
+(108,271,l),
+(146,207,l)
 );
 },
 {

@@ -1,28 +1,7 @@
 {
-color = 5;
+color = 8;
 glyphname = strokeshortcomb.case;
 layers = (
-{
-anchors = (
-{
-name = _center;
-pos = (303,334);
-}
-);
-layerId = m002;
-shapes = (
-{
-closed = 1;
-nodes = (
-(474,301,l),
-(474,367,l),
-(130,367,l),
-(130,301,l)
-);
-}
-);
-width = 605;
-},
 {
 anchors = (
 {
@@ -39,6 +18,48 @@ nodes = (
 (481,402,l),
 (124,402,l),
 (124,266,l)
+);
+}
+);
+width = 605;
+},
+{
+anchors = (
+{
+name = _center;
+pos = (303,334);
+}
+);
+layerId = "742FEEFA-C05E-41BB-8475-8B252540AEF7";
+shapes = (
+{
+closed = 1;
+nodes = (
+(470,323,l),
+(470,353,l),
+(135,353,l),
+(135,323,l)
+);
+}
+);
+width = 605;
+},
+{
+anchors = (
+{
+name = _center;
+pos = (303,334);
+}
+);
+layerId = "2B4B7FDD-7E66-4143-AA8B-CAF759C636CA";
+shapes = (
+{
+closed = 1;
+nodes = (
+(475,298,l),
+(475,370,l),
+(130,370,l),
+(130,298,l)
 );
 }
 );

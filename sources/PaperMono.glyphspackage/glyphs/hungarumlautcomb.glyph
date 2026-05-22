@@ -1,33 +1,7 @@
 {
-color = 4;
+color = 8;
 glyphname = hungarumlautcomb;
 layers = (
-{
-anchors = (
-{
-name = _top;
-pos = (262,509);
-},
-{
-name = top;
-pos = (262,745);
-}
-);
-layerId = m002;
-shapes = (
-{
-alignment = -1;
-pos = (-67,-2);
-ref = acutecomb;
-},
-{
-alignment = -1;
-pos = (67,-2);
-ref = acutecomb;
-}
-);
-width = 605;
-},
 {
 anchors = (
 {
@@ -49,6 +23,58 @@ ref = acutecomb;
 {
 alignment = -1;
 pos = (110,-2);
+ref = acutecomb;
+}
+);
+width = 605;
+},
+{
+anchors = (
+{
+name = _top;
+pos = (272,509);
+},
+{
+name = top;
+pos = (272,745);
+}
+);
+layerId = "742FEEFA-C05E-41BB-8475-8B252540AEF7";
+shapes = (
+{
+alignment = -1;
+pos = (-48,-2);
+ref = acutecomb;
+},
+{
+alignment = -1;
+pos = (48,-2);
+ref = acutecomb;
+}
+);
+width = 605;
+},
+{
+anchors = (
+{
+name = _top;
+pos = (262,509);
+},
+{
+name = top;
+pos = (262,745);
+}
+);
+layerId = "2B4B7FDD-7E66-4143-AA8B-CAF759C636CA";
+shapes = (
+{
+alignment = -1;
+pos = (-69,-2);
+ref = acutecomb;
+},
+{
+alignment = -1;
+pos = (70,-2);
 ref = acutecomb;
 }
 );

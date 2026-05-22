@@ -1,30 +1,7 @@
 {
-color = 4;
+color = 8;
 glyphname = upArrow.ss07;
 layers = (
-{
-layerId = m002;
-shapes = (
-{
-closed = 1;
-nodes = (
-(457,481,l),
-(303,666,l),
-(148,481,l)
-);
-},
-{
-closed = 1;
-nodes = (
-(340,17,l),
-(340,599,l),
-(265,599,l),
-(265,17,l)
-);
-}
-);
-width = 605;
-},
 {
 background = {
 shapes = (
@@ -64,6 +41,52 @@ nodes = (
 (373,485,l),
 (233,485,l),
 (233,10,l)
+);
+}
+);
+width = 605;
+},
+{
+layerId = "742FEEFA-C05E-41BB-8475-8B252540AEF7";
+shapes = (
+{
+closed = 1;
+nodes = (
+(429,504,l),
+(302,668,l),
+(175,504,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(317,21,l),
+(317,600,l),
+(287,600,l),
+(287,21,l)
+);
+}
+);
+width = 605;
+},
+{
+layerId = "2B4B7FDD-7E66-4143-AA8B-CAF759C636CA";
+shapes = (
+{
+closed = 1;
+nodes = (
+(460,478,l),
+(303,667,l),
+(145,478,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(342,16,l),
+(342,590,l),
+(263,590,l),
+(263,16,l)
 );
 }
 );

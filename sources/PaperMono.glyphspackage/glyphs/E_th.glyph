@@ -2,19 +2,6 @@
 glyphname = Eth;
 layers = (
 {
-layerId = m002;
-shapes = (
-{
-ref = D;
-},
-{
-pos = (-116,25);
-ref = strokeshortcomb.case;
-}
-);
-width = 605;
-},
-{
 layerId = m003;
 shapes = (
 {
@@ -22,6 +9,32 @@ ref = D;
 },
 {
 pos = (-124,29);
+ref = strokeshortcomb.case;
+}
+);
+width = 605;
+},
+{
+layerId = "742FEEFA-C05E-41BB-8475-8B252540AEF7";
+shapes = (
+{
+ref = D;
+},
+{
+pos = (-111,23);
+ref = strokeshortcomb.case;
+}
+);
+width = 605;
+},
+{
+layerId = "2B4B7FDD-7E66-4143-AA8B-CAF759C636CA";
+shapes = (
+{
+ref = D;
+},
+{
+pos = (-117,25);
 ref = strokeshortcomb.case;
 }
 );

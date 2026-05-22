@@ -1,22 +1,7 @@
 {
-color = 4;
+color = 8;
 glyphname = grave;
 layers = (
-{
-layerId = m002;
-shapes = (
-{
-closed = 1;
-nodes = (
-(399,492,l),
-(328,710,l),
-(207,710,l),
-(301,492,l)
-);
-}
-);
-width = 605;
-},
 {
 layerId = m003;
 shapes = (
@@ -27,6 +12,36 @@ nodes = (
 (358,710,l),
 (176,710,l),
 (270,482,l)
+);
+}
+);
+width = 605;
+},
+{
+layerId = "742FEEFA-C05E-41BB-8475-8B252540AEF7";
+shapes = (
+{
+closed = 1;
+nodes = (
+(380,498,l),
+(309,710,l),
+(226,710,l),
+(320,498,l)
+);
+}
+);
+width = 605;
+},
+{
+layerId = "2B4B7FDD-7E66-4143-AA8B-CAF759C636CA";
+shapes = (
+{
+closed = 1;
+nodes = (
+(401,491,l),
+(330,710,l),
+(205,710,l),
+(299,491,l)
 );
 }
 );

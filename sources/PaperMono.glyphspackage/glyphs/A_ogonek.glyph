@@ -1,49 +1,6 @@
 {
-color = 4;
 glyphname = Aogonek;
 layers = (
-{
-background = {
-shapes = (
-{
-closed = 1;
-nodes = (
-(541,-194,o),
-(559,-192,o),
-(571,-188,c),
-(571,-121,l),
-(560,-124,o),
-(549,-125,o),
-(539,-125,cs),
-(515,-125,o),
-(498,-114,o),
-(498,-92,cs),
-(498,-61,o),
-(516,-36,o),
-(571,0,c),
-(483,0,l),
-(447,-34,o),
-(422,-72,o),
-(422,-113,cs),
-(422,-170,o),
-(465,-194,o),
-(523,-194,cs)
-);
-}
-);
-};
-layerId = m002;
-shapes = (
-{
-ref = A;
-},
-{
-pos = (194,0);
-ref = ogonekcomb;
-}
-);
-width = 605;
-},
 {
 layerId = m003;
 shapes = (
@@ -52,6 +9,32 @@ ref = A;
 },
 {
 pos = (172,0);
+ref = ogonekcomb;
+}
+);
+width = 605;
+},
+{
+layerId = "742FEEFA-C05E-41BB-8475-8B252540AEF7";
+shapes = (
+{
+ref = A;
+},
+{
+pos = (209,0);
+ref = ogonekcomb;
+}
+);
+width = 605;
+},
+{
+layerId = "2B4B7FDD-7E66-4143-AA8B-CAF759C636CA";
+shapes = (
+{
+ref = A;
+},
+{
+pos = (192,0);
 ref = ogonekcomb;
 }
 );

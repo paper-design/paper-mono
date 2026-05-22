@@ -1,33 +1,7 @@
 {
-color = 4;
+color = 8;
 glyphname = one.blackCircled;
 layers = (
-{
-layerId = m002;
-shapes = (
-{
-ref = blackCircled;
-},
-{
-closed = 1;
-nodes = (
-(301,470,l),
-(173,394,l),
-(173,459,l),
-(309,541,l),
-(365,541,l),
-(365,169,l),
-(301,169,l)
-);
-}
-);
-userData = {
-assembly = "NPUSHB[ ]	/* 47 values pushed */
-21 20 17 3 3 2 1 76 0 0 0 2 3 0 2 103 0 3 1 1 3 87 0 3 3 1 97 4 1 1 3 1 81 0 0 27 26 25 24 0 15 0 14 38 5 6 23 
-CALL[ ]	/* CallFunction */";
-};
-width = 605;
-},
 {
 layerId = m003;
 shapes = (
@@ -44,6 +18,58 @@ nodes = (
 (395,542,l),
 (395,169,l),
 (269,169,l)
+);
+}
+);
+userData = {
+assembly = "NPUSHB[ ]	/* 47 values pushed */
+21 20 17 3 3 2 1 76 0 0 0 2 3 0 2 103 0 3 1 1 3 87 0 3 3 1 97 4 1 1 3 1 81 0 0 27 26 25 24 0 15 0 14 38 5 6 23 
+CALL[ ]	/* CallFunction */";
+};
+width = 605;
+},
+{
+layerId = "742FEEFA-C05E-41BB-8475-8B252540AEF7";
+shapes = (
+{
+ref = blackCircled;
+},
+{
+closed = 1;
+nodes = (
+(335,512,l),
+(180,425,l),
+(180,453,l),
+(338,542,l),
+(363,542,l),
+(363,169,l),
+(335,169,l)
+);
+}
+);
+userData = {
+assembly = "NPUSHB[ ]	/* 47 values pushed */
+21 20 17 3 3 2 1 76 0 0 0 2 3 0 2 103 0 3 1 1 3 87 0 3 3 1 97 4 1 1 3 1 81 0 0 27 26 25 24 0 15 0 14 38 5 6 23 
+CALL[ ]	/* CallFunction */";
+};
+width = 605;
+},
+{
+layerId = "2B4B7FDD-7E66-4143-AA8B-CAF759C636CA";
+shapes = (
+{
+ref = blackCircled;
+},
+{
+closed = 1;
+nodes = (
+(299,466,l),
+(173,390,l),
+(173,459,l),
+(307,541,l),
+(367,541,l),
+(367,169,l),
+(299,169,l)
 );
 }
 );

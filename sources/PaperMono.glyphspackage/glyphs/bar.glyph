@@ -1,30 +1,7 @@
 {
-color = 4;
+color = 8;
 glyphname = bar;
 layers = (
-{
-guides = (
-{
-pos = (161,750);
-},
-{
-pos = (161,-110);
-}
-);
-layerId = m002;
-shapes = (
-{
-closed = 1;
-nodes = (
-(342,-92,l),
-(342,803,l),
-(263,803,l),
-(263,-92,l)
-);
-}
-);
-width = 605;
-},
 {
 guides = (
 {
@@ -43,6 +20,36 @@ nodes = (
 (385,803,l),
 (220,803,l),
 (220,-92,l)
+);
+}
+);
+width = 605;
+},
+{
+layerId = "742FEEFA-C05E-41BB-8475-8B252540AEF7";
+shapes = (
+{
+closed = 1;
+nodes = (
+(317,-92,l),
+(317,803,l),
+(288,803,l),
+(288,-92,l)
+);
+}
+);
+width = 605;
+},
+{
+layerId = "2B4B7FDD-7E66-4143-AA8B-CAF759C636CA";
+shapes = (
+{
+closed = 1;
+nodes = (
+(345,-92,l),
+(345,803,l),
+(260,803,l),
+(260,-92,l)
 );
 }
 );

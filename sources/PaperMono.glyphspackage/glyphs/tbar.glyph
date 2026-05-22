@@ -2,20 +2,6 @@
 glyphname = tbar;
 layers = (
 {
-layerId = m002;
-shapes = (
-{
-ref = t;
-},
-{
-pos = (-90,-39);
-ref = strokeshortcomb;
-scale = (1.2,1);
-}
-);
-width = 605;
-},
-{
 layerId = m003;
 shapes = (
 {
@@ -23,6 +9,34 @@ ref = t;
 },
 {
 pos = (-100,-75);
+ref = strokeshortcomb;
+scale = (1.2,1);
+}
+);
+width = 605;
+},
+{
+layerId = "742FEEFA-C05E-41BB-8475-8B252540AEF7";
+shapes = (
+{
+ref = t;
+},
+{
+pos = (-84,-16);
+ref = strokeshortcomb;
+scale = (1.2,1);
+}
+);
+width = 605;
+},
+{
+layerId = "2B4B7FDD-7E66-4143-AA8B-CAF759C636CA";
+shapes = (
+{
+ref = t;
+},
+{
+pos = (-91,-42);
 ref = strokeshortcomb;
 scale = (1.2,1);
 }
