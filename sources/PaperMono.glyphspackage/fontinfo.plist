@@ -683,7 +683,7 @@ tag = slng;
 );
 }
 );
-date = "2026-04-16 15:10:13 +0000";
+date = "2026-06-01 15:19:07 +0000";
 familyName = "Paper Mono";
 featurePrefixes = (
 {
@@ -3823,5 +3823,5 @@ O,
 };
 };
 versionMajor = 0;
-versionMinor = 300;
+versionMinor = 310;
 }
