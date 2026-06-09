@@ -1003,6 +1003,26 @@ tag = ss07;
 },
 {
 automatic = 1;
+code = "sub AE by AE.ss03;
+sub M by M.ss03;
+sub OE by OE.ss03;
+sub W by W.ss03;
+sub ae by ae.ss03;
+sub m by m.ss03;
+sub oe by oe.ss03;
+sub w by w.ss03;
+sub space by space.ss03;
+";
+labels = (
+{
+language = dflt;
+value = "Duospace glyphs";
+}
+);
+tag = ss03;
+},
+{
+automatic = 1;
 code = "sub zero by zero.zero;
 ";
 tag = zero;
