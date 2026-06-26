@@ -683,7 +683,7 @@ tag = slng;
 );
 }
 );
-date = "2026-04-16 15:10:13 +0000";
+date = "2026-06-01 15:19:07 +0000";
 familyName = "Paper Mono";
 featurePrefixes = (
 {
@@ -1000,6 +1000,26 @@ value = "Alt arrows";
 }
 );
 tag = ss07;
+},
+{
+automatic = 1;
+code = "sub AE by AE.ss03;
+sub M by M.ss03;
+sub OE by OE.ss03;
+sub W by W.ss03;
+sub ae by ae.ss03;
+sub m by m.ss03;
+sub oe by oe.ss03;
+sub w by w.ss03;
+sub space by space.ss03;
+";
+labels = (
+{
+language = dflt;
+value = "Duospace glyphs";
+}
+);
+tag = ss03;
 },
 {
 automatic = 1;
@@ -3823,5 +3843,5 @@ O,
 };
 };
 versionMajor = 0;
-versionMinor = 300;
+versionMinor = 310;
 }
