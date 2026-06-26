@@ -13,7 +13,7 @@ ref = exclam;
 scale = (1,-1);
 }
 );
-width = 605;
+width = 606;
 },
 {
 guides = (
@@ -31,7 +31,7 @@ ref = exclam;
 scale = (1,-1);
 }
 );
-width = 605;
+width = 606;
 },
 {
 layerId = "2B4B7FDD-7E66-4143-AA8B-CAF759C636CA";
@@ -44,7 +44,7 @@ ref = exclam;
 scale = (1,-1);
 }
 );
-width = 605;
+width = 606;
 }
 );
 unicode = 161;

@@ -1,0 +1,63 @@
+{
+color = 4;
+glyphname = period_period_less.liga;
+layers = (
+{
+layerId = "742FEEFA-C05E-41BB-8475-8B252540AEF7";
+shapes = (
+{
+pos = (532,0);
+ref = greater;
+scale = (-1,1);
+},
+{
+pos = (-1205,24);
+ref = periodcentered;
+},
+{
+pos = (-686,24);
+ref = periodcentered;
+}
+);
+width = 606;
+},
+{
+layerId = "2B4B7FDD-7E66-4143-AA8B-CAF759C636CA";
+shapes = (
+{
+pos = (536,0);
+ref = greater;
+scale = (-1,1);
+},
+{
+pos = (-1182,0);
+ref = periodcentered;
+},
+{
+pos = (-685,0);
+ref = periodcentered;
+}
+);
+width = 606;
+},
+{
+layerId = m003;
+shapes = (
+{
+pos = (536,0);
+ref = greater;
+scale = (-1,1);
+},
+{
+pos = (-1187,11);
+ref = periodcentered;
+},
+{
+pos = (-685,11);
+ref = periodcentered;
+}
+);
+width = 606;
+}
+);
+}

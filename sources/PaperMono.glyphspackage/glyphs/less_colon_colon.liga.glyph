@@ -1,0 +1,63 @@
+{
+color = 4;
+glyphname = less_colon_colon.liga;
+layers = (
+{
+layerId = "742FEEFA-C05E-41BB-8475-8B252540AEF7";
+shapes = (
+{
+pos = (-606,60);
+ref = colon;
+},
+{
+pos = (-572,0);
+ref = greater;
+scale = (-1,1);
+},
+{
+pos = (-7,60);
+ref = colon;
+}
+);
+width = 606;
+},
+{
+layerId = "2B4B7FDD-7E66-4143-AA8B-CAF759C636CA";
+shapes = (
+{
+pos = (-605,46);
+ref = colon;
+},
+{
+pos = (-576,0);
+ref = greater;
+scale = (-1,1);
+},
+{
+pos = (-28,46);
+ref = colon;
+}
+);
+width = 606;
+},
+{
+layerId = m003;
+shapes = (
+{
+pos = (-605,53);
+ref = colon;
+},
+{
+pos = (-576,0);
+ref = greater;
+scale = (-1,1);
+},
+{
+pos = (-27,53);
+ref = colon;
+}
+);
+width = 606;
+}
+);
+}

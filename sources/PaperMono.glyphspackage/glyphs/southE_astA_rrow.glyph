@@ -8,11 +8,11 @@ shapes = (
 {
 alignment = -1;
 angle = -135;
-pos = (289,773);
+pos = (296,773);
 ref = upArrow;
 }
 );
-width = 605;
+width = 606;
 },
 {
 layerId = "742FEEFA-C05E-41BB-8475-8B252540AEF7";
@@ -20,11 +20,11 @@ shapes = (
 {
 alignment = -1;
 angle = -135;
-pos = (287,773);
+pos = (283,773);
 ref = upArrow;
 }
 );
-width = 605;
+width = 606;
 },
 {
 layerId = "2B4B7FDD-7E66-4143-AA8B-CAF759C636CA";
@@ -36,7 +36,7 @@ pos = (288,773);
 ref = upArrow;
 }
 );
-width = 605;
+width = 606;
 }
 );
 unicode = 8600;

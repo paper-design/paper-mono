@@ -11,7 +11,7 @@ ref = H;
 ref = circumflexcomb.case;
 }
 );
-width = 605;
+width = 606;
 },
 {
 layerId = "742FEEFA-C05E-41BB-8475-8B252540AEF7";
@@ -23,7 +23,7 @@ ref = H;
 ref = circumflexcomb.case;
 }
 );
-width = 605;
+width = 606;
 },
 {
 layerId = "2B4B7FDD-7E66-4143-AA8B-CAF759C636CA";
@@ -35,7 +35,7 @@ ref = H;
 ref = circumflexcomb.case;
 }
 );
-width = 605;
+width = 606;
 }
 );
 unicode = 292;

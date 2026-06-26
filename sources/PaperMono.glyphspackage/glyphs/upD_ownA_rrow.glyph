@@ -48,7 +48,7 @@ nodes = (
 );
 }
 );
-width = 605;
+width = 606;
 },
 {
 background = {
@@ -96,7 +96,7 @@ nodes = (
 );
 }
 );
-width = 605;
+width = 606;
 },
 {
 layerId = "2B4B7FDD-7E66-4143-AA8B-CAF759C636CA";
@@ -121,7 +121,7 @@ nodes = (
 );
 }
 );
-width = 605;
+width = 606;
 }
 );
 unicode = 8597;

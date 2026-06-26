@@ -1,0 +1,62 @@
+{
+color = 0;
+glyphname = bar_bar_greater.liga;
+layers = (
+{
+layerId = "742FEEFA-C05E-41BB-8475-8B252540AEF7";
+shapes = (
+{
+alignment = -1;
+pos = (469,0);
+ref = bar_greater.liga;
+},
+{
+alignment = -1;
+pos = (-580,91);
+ref = bar;
+scale = (1,0.8256);
+}
+);
+width = 606;
+},
+{
+guides = (
+{
+pos = (-443,0);
+}
+);
+layerId = "2B4B7FDD-7E66-4143-AA8B-CAF759C636CA";
+shapes = (
+{
+alignment = -1;
+pos = (179,0);
+ref = bar_greater.liga;
+},
+{
+alignment = -1;
+pos = (-870,91);
+ref = bar;
+scale = (1,0.8256);
+}
+);
+width = 606;
+},
+{
+layerId = m003;
+shapes = (
+{
+alignment = -1;
+pos = (193,0);
+ref = bar_greater.liga;
+},
+{
+alignment = -1;
+pos = (-856,91);
+ref = bar;
+scale = (1,0.8256);
+}
+);
+width = 606;
+}
+);
+}

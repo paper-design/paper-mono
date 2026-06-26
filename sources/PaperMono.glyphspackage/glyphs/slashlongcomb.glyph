@@ -14,14 +14,14 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(216,-31,l),
+(217,-31,l),
 (521,540,l),
 (389,540,l),
-(84,-31,l)
+(85,-31,l)
 );
 }
 );
-width = 605;
+width = 606;
 },
 {
 anchors = (
@@ -42,7 +42,7 @@ nodes = (
 );
 }
 );
-width = 605;
+width = 606;
 },
 {
 anchors = (
@@ -63,7 +63,7 @@ nodes = (
 );
 }
 );
-width = 605;
+width = 606;
 }
 );
 unicode = 824;

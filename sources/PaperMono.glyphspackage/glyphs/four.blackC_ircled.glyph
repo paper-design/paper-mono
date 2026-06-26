@@ -47,7 +47,7 @@ NPUSHB[ ]	/* 26 values pushed */
 27 27 0 0 27 35 27 34 26 25 24 23 22 21 19 18 17 16 0 15 0 14 38 10 6 23 
 CALL[ ]	/* CallFunction */";
 };
-width = 605;
+width = 606;
 },
 {
 layerId = "742FEEFA-C05E-41BB-8475-8B252540AEF7";
@@ -94,7 +94,7 @@ NPUSHB[ ]	/* 26 values pushed */
 27 27 0 0 27 35 27 34 26 25 24 23 22 21 19 18 17 16 0 15 0 14 38 10 6 23 
 CALL[ ]	/* CallFunction */";
 };
-width = 605;
+width = 606;
 },
 {
 layerId = "2B4B7FDD-7E66-4143-AA8B-CAF759C636CA";
@@ -141,7 +141,7 @@ NPUSHB[ ]	/* 26 values pushed */
 27 27 0 0 27 35 27 34 26 25 24 23 22 21 19 18 17 16 0 15 0 14 38 10 6 23 
 CALL[ ]	/* CallFunction */";
 };
-width = 605;
+width = 606;
 }
 );
 metricWidth = blackCircled;

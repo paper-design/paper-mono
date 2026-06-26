@@ -28,7 +28,7 @@ nodes = (
 ref = O;
 }
 );
-width = 605;
+width = 606;
 },
 {
 anchors = (
@@ -78,7 +78,7 @@ nodes = (
 ref = O;
 }
 );
-width = 605;
+width = 606;
 },
 {
 anchors = (
@@ -106,7 +106,7 @@ nodes = (
 ref = O;
 }
 );
-width = 605;
+width = 606;
 },
 {
 anchors = (
@@ -134,7 +134,7 @@ nodes = (
 ref = O;
 }
 );
-width = 605;
+width = 606;
 }
 );
 unicode = 81;
