@@ -1805,11 +1805,11 @@ value = 0;
 },
 {
 name = winAscent;
-value = 960;
+value = 975;
 },
 {
 name = winDescent;
-value = 250;
+value = 265;
 },
 {
 name = "Axis Location";
@@ -1819,6 +1819,14 @@ Axis = Weight;
 Location = 100;
 }
 );
+}
+);
+guides = (
+{
+pos = (0,868);
+},
+{
+pos = (0,-158);
 }
 );
 iconName = Light;
@@ -1853,6 +1861,9 @@ stemValues = (
 32,
 30
 );
+userData = {
+GSCornerRadius = 10;
+};
 },
 {
 axesValues = (
@@ -1885,11 +1896,11 @@ value = 0;
 },
 {
 name = winAscent;
-value = 960;
+value = 975;
 },
 {
 name = winDescent;
-value = 250;
+value = 265;
 },
 {
 name = "Axis Location";
@@ -1964,11 +1975,11 @@ value = 0;
 },
 {
 name = winAscent;
-value = 960;
+value = 975;
 },
 {
 name = winDescent;
-value = 250;
+value = 265;
 },
 {
 name = "Axis Location";
