@@ -1,17 +1,17 @@
 {
-color = 0;
-glyphname = bar_bar_equal.liga;
+color = 7;
+glyphname = colon_equal.liga;
 layers = (
 {
 layerId = "742FEEFA-C05E-41BB-8475-8B252540AEF7";
 shapes = (
 {
-pos = (-499,0);
-ref = bar;
+pos = (-599,100);
+ref = colon;
 },
 {
-pos = (512,0);
-ref = bar_equal.liga;
+pos = (-60,0);
+ref = equal;
 }
 );
 width = 606;
@@ -20,12 +20,12 @@ width = 606;
 layerId = "2B4B7FDD-7E66-4143-AA8B-CAF759C636CA";
 shapes = (
 {
-pos = (-497,0);
-ref = bar;
+pos = (-599,100);
+ref = colon;
 },
 {
-pos = (514,0);
-ref = bar_equal.liga;
+pos = (-70,0);
+ref = equal;
 }
 );
 width = 606;
@@ -34,12 +34,12 @@ width = 606;
 layerId = m003;
 shapes = (
 {
-pos = (-490,0);
-ref = bar;
+pos = (-581,100);
+ref = colon;
 },
 {
-pos = (521,0);
-ref = bar_equal.liga;
+pos = (-80,0);
+ref = equal;
 }
 );
 width = 606;

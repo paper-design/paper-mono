@@ -688,7 +688,7 @@ tag = slng;
 );
 }
 );
-date = "2026-06-01 15:19:07 +0000";
+date = "2026-07-22 18:18:45 +0000";
 familyName = "Paper Mono";
 featurePrefixes = (
 {
@@ -935,102 +935,65 @@ sub slashlongcomb by slashlongcomb.case;
 tag = case;
 },
 {
+code = "sub apple P a' p e r by a.ss02;
+sub apple space P a' p e r by a.ss02;";
+tag = calt;
+},
+{
 automatic = 1;
 code = "lookupflag IgnoreMarks;
-sub bar bar bar greater by bar_bar_bar_greater.liga;
-sub hyphen hyphen hyphen greater by hyphen_hyphen_hyphen_greater.liga;
-sub less bar bar bar by less_bar_bar_bar.liga;
-sub less equal equal greater by less_equal_equal_greater.liga;
 sub less exclam hyphen hyphen by less_exclam_hyphen_hyphen.liga;
 sub less hyphen hyphen greater by less_hyphen_hyphen_greater.liga;
 sub asciitilde asciitilde greater by asciitilde_asciitilde_greater.liga;
-sub bar bar equal by bar_bar_equal.liga;
-sub bar bar greater by bar_bar_greater.liga;
-sub bar hyphen greater by bar_hyphen_greater.liga;
 sub colon colon colon by colon_colon_colon.liga;
 sub colon colon greater by colon_colon_greater.liga;
 sub colon greater colon by colon_greater_colon.liga;
 sub colon less colon by colon_less_colon.liga;
 sub equal colon equal by equal_colon_equal.liga;
 sub equal equal equal by equal_equal_equal.liga;
-sub equal equal greater by equal_equal_greater.liga;
 sub equal exclam equal by equal_exclam_equal.liga;
 sub equal greater greater by equal_greater_greater.liga;
 sub equal less less by equal_less_less.liga;
 sub equal slash equal by equal_slash_equal.liga;
 sub exclam equal equal by exclam_equal_equal.liga;
-sub greater equal greater by greater_equal_greater.liga;
 sub greater greater equal by greater_greater_equal.liga;
-sub greater greater hyphen by greater_greater_hyphen.liga;
-sub greater hyphen greater by greater_hyphen_greater.liga;
 sub hyphen colon hyphen by hyphen_colon_hyphen.liga;
-sub hyphen greater greater by hyphen_greater_greater.liga;
 sub hyphen hyphen greater by hyphen_hyphen_greater.liga;
-sub hyphen hyphen hyphen by hyphen_hyphen_hyphen.liga;
-sub hyphen less less by hyphen_less_less.liga;
 sub less asciitilde asciitilde by less_asciitilde_asciitilde.liga;
 sub less asciitilde greater by less_asciitilde_greater.liga;
-sub less bar bar by less_bar_bar.liga;
-sub less bar greater by less_bar_greater.liga;
 sub less colon colon by less_colon_colon.liga;
-sub less equal equal by less_equal_equal.liga;
 sub less equal greater by less_equal_greater.liga;
-sub less equal less by less_equal_less.liga;
 sub less hyphen greater by less_hyphen_greater.liga;
 sub less hyphen hyphen by less_hyphen_hyphen.liga;
-sub less hyphen less by less_hyphen_less.liga;
 sub less less equal by less_less_equal.liga;
-sub less less hyphen by less_less_hyphen.liga;
 sub less slash greater by less_slash_greater.liga;
-sub numbersign exclam bracketleft by numbersign_exclam_bracketleft.liga;
 sub period period equal by period_period_equal.liga;
 sub period period hyphen by period_period_hyphen.liga;
 sub period period less by period_period_less.liga;
 sub period period period by period_period_period.liga;
-sub question question question by question_question_question.liga;
 sub slash equal equal by slash_equal_equal.liga;
-sub ampersand equal by ampersand_equal.liga;
 sub asciitilde asciitilde by asciitilde_asciitilde.liga;
-sub asciitilde at by asciitilde_at.liga;
-sub asciitilde equal by asciitilde_equal.liga;
 sub asciitilde greater by asciitilde_greater.liga;
 sub asciitilde hyphen by asciitilde_hyphen.liga;
-sub backslash slash by backslash_slash.liga;
-sub bar braceright by bar_braceright.liga;
-sub bar bracketright by bar_bracketright.liga;
-sub bar equal by bar_equal.liga;
-sub bar greater by bar_greater.liga;
-sub braceleft bar by braceleft_bar.liga;
-sub bracketleft bar by bracketleft_bar.liga;
 sub colon colon by colon_colon.liga;
 sub equal asciitilde by equal_asciitilde.liga;
 sub equal equal by equal_equal.liga;
 sub equal greater by equal_greater.liga;
 sub exclam asciitilde by exclam_asciitilde.liga;
 sub exclam equal by exclam_equal.liga;
-sub exclam question by exclam_question.liga;
 sub greater equal by greater_equal.liga;
 sub greater greater by greater_greater.liga;
-sub greater hyphen by greater_hyphen.liga;
 sub hyphen asciitilde by hyphen_asciitilde.liga;
 sub hyphen greater by hyphen_greater.liga;
-sub hyphen hyphen by hyphen_hyphen.liga;
-sub hyphen less by hyphen_less.liga;
 sub less asciitilde by less_asciitilde.liga;
-sub less bar by less_bar.liga;
 sub less equal by less_equal.liga;
 sub less greater by less_greater.liga;
 sub less hyphen by less_hyphen.liga;
 sub less less by less_less.liga;
 sub less slash by less_slash.liga;
-sub numbersign bracketleft by numbersign_bracketleft.liga;
 sub numbersign equal by numbersign_equal.liga;
-sub numbersign parenleft by numbersign_parenleft.liga;
-sub percent percent by percent_percent.liga;
 sub period equal by period_equal.liga;
 sub period hyphen by period_hyphen.liga;
-sub question question by question_question.liga;
-sub slash backslash by slash_backslash.liga;
 sub slash equal by slash_equal.liga;
 sub slash greater by slash_greater.liga;
 sub f i by fi;
@@ -1168,8 +1131,6 @@ lookup numbersign_equal.liga {
 	sub numbersign' equal by SPC;
 } numbersign_equal.liga;
 
-
-
 # ==
 lookup equal_equal.liga {
 ignore sub equal equal' equal;
@@ -1181,7 +1142,6 @@ ignore sub exclam equal' equal;
 sub SPC equal' by equal_equal.liga;
 sub equal' equal by SPC;
 } equal_equal.liga;
-
 
 # !=
 lookup exclam_equal.liga {
@@ -1236,10 +1196,10 @@ lookup hyphen_asciitilde.liga {
 } hyphen_asciitilde.liga;
 
 # &=
-lookup ampersand_equal.liga {
-	sub SPC equal' by ampersand_equal.liga;
-	sub ampersand' equal by SPC;
-} ampersand_equal.liga;
+#lookup ampersand_equal.liga {
+#	sub SPC equal' by ampersand_equal.liga;
+#	sub ampersand' equal by SPC;
+#} ampersand_equal.liga;
 
 
 
@@ -1429,103 +1389,11 @@ lookup less_greater.liga {
 	sub less' greater by SPC;
 } less_greater.liga;
 
-#==========
-# SS05
-# [|
-lookup bracketleft_bar.liga {
-	sub SPC bar' by bracketleft_bar.liga;	
-	sub bracketleft' bar by SPC;
-} bracketleft_bar.liga;
-
-# |]
-lookup bar_bracketright.liga {
-	sub SPC bracketright' by bar_bracketright.liga;	
-	sub bar' bracketright by SPC;
-} bar_bracketright.liga;
-
-# /\\
-lookup slash_backslash.liga {
-sub SPC backslash' by slash_backslash.liga;
-sub slash' backslash by SPC;
-} slash_backslash.liga;
-
-# \\/
-lookup backslash_slash.liga {
-sub SPC slash' by backslash_slash.liga;
-sub backslash' slash by SPC;
-} backslash_slash.liga;
-
-# |>
-lookup bar_greater.liga {
-ignore sub less bar' greater;
-sub SPC greater' by bar_greater.liga;
-sub bar' greater by SPC;
-} bar_greater.liga;
-
-# <|
-lookup less_bar.liga {
-ignore sub less' bar greater;
-sub SPC bar' by less_bar.liga;
-sub less' bar by SPC;
-} less_bar.liga;
-
-# <|>
-lookup less_bar_greater.liga {
-sub SPC SPC greater' by less_bar_greater.liga;
-sub SPC bar' greater by SPC;
-sub less' bar greater by SPC;
-} less_bar_greater.liga;
-
-# {|
-lookup braceleft_bar.liga {
-sub SPC bar' by braceleft_bar.liga;
-sub braceleft' bar by SPC;
-} braceleft_bar.liga;
-
-# |}
-lookup bar_braceright.liga {
-sub SPC braceright' by bar_braceright.liga;
-sub bar' braceright by SPC;
-} bar_braceright.liga;
-
-
-
-#==========
-# SS06
-@NUMBERSIGN = [numbersign numbersign.init numbersign.medi numbersign.fina];
-lookup INITIAL {
-    ignore sub @NUMBERSIGN @NUMBERSIGN';
-    sub @NUMBERSIGN' @NUMBERSIGN by numbersign.init;
-} INITIAL;
-
-lookup FINAL {
-	ignore sub @NUMBERSIGN' @NUMBERSIGN;
-	sub @NUMBERSIGN @NUMBERSIGN' by numbersign.fina;
-} FINAL;
-
-lookup MEDIAL {
-    # Contextual substitution for '###'.
-    sub @NUMBERSIGN @NUMBERSIGN' @NUMBERSIGN by numbersign.medi;
-} MEDIAL;
-
-@PLUS = [plus plus.init plus.medi plus.fina];
-lookup INITIAL_PLUS {
-    ignore sub @PLUS @PLUS';
-    sub @PLUS' @PLUS by plus.init;
-} INITIAL_PLUS;
-
-lookup FINAL_PLUS {
-	ignore sub @PLUS' @PLUS;
-	sub @PLUS @PLUS' by plus.fina;
-} FINAL_PLUS;
-
-lookup MEDIAL_PLUS {
-    # Contextual substitution for '+++'.
-    sub @PLUS @PLUS' @PLUS by plus.medi;
-} MEDIAL_PLUS;
 
 #==========
 # SS07: Centered colon
+
+
 
 # -:-
 lookup hyphen_colon_hyphen.liga {
@@ -1534,12 +1402,20 @@ sub SPC colon' hyphen by SPC;
 sub hyphen' colon hyphen by SPC;
 } hyphen_colon_hyphen.liga;
 
+
 # =:=
 lookup equal_colon_equal.liga {
 sub SPC SPC equal' by equal_colon_equal.liga;
 sub SPC colon' equal by SPC;
 sub equal' colon equal by SPC;
 } equal_colon_equal.liga;
+
+# :=
+lookup colon_equal.liga {
+sub SPC equal' by colon_equal.liga;
+sub colon' equal by SPC;
+} colon_equal.liga;
+
 
 # :>:
 lookup colon_greater_colon.liga {
@@ -1690,60 +1566,14 @@ sub greater' greater by SPC;
 } greater_greater.liga;
 
 
-#==========
-# SS10: Other tags
-
-# #[
-lookup numbersign_bracketleft.liga {
-sub SPC bracketleft' by numbersign_bracketleft.liga;
-sub numbersign' bracketleft by SPC;
-} numbersign_bracketleft.liga;
-
-# #(
-lookup numbersign_parenleft.liga {
-sub SPC parenleft' by numbersign_parenleft.liga;
-sub numbersign' parenleft by SPC;
-} numbersign_parenleft.liga;
-
-# #![
-lookup numbersign_exclam_bracketleft.liga {
-sub SPC SPC bracketleft' by numbersign_exclam_bracketleft.liga;
-sub SPC exclam' bracketleft by SPC;
-sub numbersign' exclam bracketleft by SPC;
-} numbersign_exclam_bracketleft.liga;
-
 ";
 labels = (
 {
 language = dflt;
-value = "New Coding ligatures";
+value = "Coding ligatures";
 }
 );
 tag = ss04;
-},
-{
-automatic = 1;
-code = "sub numbersign by numbersign.init;
-sub plus by plus.init;
-";
-disabled = 1;
-tag = init;
-},
-{
-automatic = 1;
-code = "sub numbersign by numbersign.medi;
-sub plus by plus.medi;
-";
-disabled = 1;
-tag = medi;
-},
-{
-automatic = 1;
-code = "sub numbersign by numbersign.fina;
-sub plus by plus.fina;
-";
-disabled = 1;
-tag = fina;
 },
 {
 automatic = 1;
@@ -1821,14 +1651,6 @@ Location = 100;
 );
 }
 );
-guides = (
-{
-pos = (0,868);
-},
-{
-pos = (0,-158);
-}
-);
 iconName = Light;
 id = "742FEEFA-C05E-41BB-8475-8B252540AEF7";
 metricValues = (
@@ -1862,7 +1684,7 @@ stemValues = (
 30
 );
 userData = {
-GSCornerRadius = 10;
+GSCornerRadius = 44;
 };
 },
 {
@@ -1912,6 +1734,24 @@ Location = 400;
 );
 }
 );
+guides = (
+{
+angle = 45;
+pos = (303,700);
+},
+{
+angle = -45;
+pos = (-20,300);
+},
+{
+angle = 45;
+pos = (626,300);
+},
+{
+angle = -45;
+pos = (303,700);
+}
+);
 id = "2B4B7FDD-7E66-4143-AA8B-CAF759C636CA";
 metricValues = (
 {
@@ -1943,6 +1783,9 @@ stemValues = (
 89,
 87
 );
+userData = {
+GSCornerRadius = 100;
+};
 },
 {
 axesValues = (
@@ -1991,6 +1834,24 @@ Location = 800;
 );
 }
 );
+guides = (
+{
+angle = 45;
+pos = (186,565);
+},
+{
+angle = -45;
+pos = (10,407);
+},
+{
+angle = 45;
+pos = (516,457);
+},
+{
+angle = -45;
+pos = (186,565);
+}
+);
 iconName = Bold;
 id = m003;
 metricValues = (
@@ -2023,6 +1884,9 @@ stemValues = (
 164,
 160
 );
+userData = {
+GSCornerRadius = 30;
+};
 }
 );
 instances = (
@@ -4582,5 +4446,5 @@ O,
 };
 };
 versionMajor = 0;
-versionMinor = 310;
+versionMinor = 320;
 }

@@ -1,5 +1,5 @@
 {
-color = 8;
+color = 5;
 glyphname = northEastArrow;
 layers = (
 {
@@ -8,7 +8,7 @@ shapes = (
 {
 alignment = -1;
 angle = -45;
-pos = (-132,316);
+pos = (-142,320);
 ref = upArrow;
 }
 );
@@ -20,7 +20,7 @@ shapes = (
 {
 alignment = -1;
 angle = -45;
-pos = (-145,316);
+pos = (-168,320);
 ref = upArrow;
 }
 );
@@ -32,7 +32,7 @@ shapes = (
 {
 alignment = -1;
 angle = -45;
-pos = (-141,316);
+pos = (-155,320);
 ref = upArrow;
 }
 );

@@ -1,5 +1,5 @@
 {
-color = 4;
+color = 7;
 glyphname = equal_colon_equal.liga;
 layers = (
 {
@@ -10,7 +10,7 @@ pos = (-1152,0);
 ref = equal;
 },
 {
-pos = (-605,74);
+pos = (-605,100);
 ref = colon;
 },
 {
@@ -102,7 +102,7 @@ pos = (-1142,0);
 ref = equal;
 },
 {
-pos = (-605,58);
+pos = (-605,100);
 ref = colon;
 },
 {
@@ -194,7 +194,7 @@ pos = (-1132,0);
 ref = equal;
 },
 {
-pos = (-605,60);
+pos = (-605,100);
 ref = colon;
 },
 {

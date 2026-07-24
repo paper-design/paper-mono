@@ -1,5 +1,5 @@
 {
-color = 4;
+color = 7;
 glyphname = greater_greater.liga;
 layers = (
 {
@@ -34,11 +34,11 @@ width = 606;
 layerId = m003;
 shapes = (
 {
-pos = (-30,2);
+pos = (-30,0);
 ref = greater;
 },
 {
-pos = (-576,2);
+pos = (-576,0);
 ref = greater;
 }
 );

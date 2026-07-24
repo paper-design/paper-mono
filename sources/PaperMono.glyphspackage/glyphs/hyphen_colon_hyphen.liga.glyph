@@ -1,5 +1,5 @@
 {
-color = 4;
+color = 7;
 glyphname = hyphen_colon_hyphen.liga;
 layers = (
 {
@@ -10,7 +10,7 @@ pos = (-1152,0);
 ref = hyphen;
 },
 {
-pos = (-606,60);
+pos = (-606,100);
 ref = colon;
 },
 {
@@ -28,7 +28,7 @@ pos = (-1152,0);
 ref = hyphen;
 },
 {
-pos = (-605,46);
+pos = (-605,100);
 ref = colon;
 },
 {
@@ -46,7 +46,7 @@ pos = (-1152,0);
 ref = hyphen;
 },
 {
-pos = (-605,55);
+pos = (-605,100);
 ref = colon;
 },
 {

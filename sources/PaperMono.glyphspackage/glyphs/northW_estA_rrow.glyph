@@ -1,5 +1,5 @@
 {
-color = 8;
+color = 5;
 glyphname = northWestArrow;
 layers = (
 {
@@ -7,7 +7,7 @@ layerId = m003;
 shapes = (
 {
 alignment = -1;
-pos = (600,0);
+pos = (606,0);
 ref = northEastArrow;
 scale = (-1,1);
 }
@@ -19,7 +19,7 @@ layerId = "742FEEFA-C05E-41BB-8475-8B252540AEF7";
 shapes = (
 {
 alignment = -1;
-pos = (613,0);
+pos = (606,0);
 ref = northEastArrow;
 scale = (-1,1);
 }
@@ -31,7 +31,7 @@ layerId = "2B4B7FDD-7E66-4143-AA8B-CAF759C636CA";
 shapes = (
 {
 alignment = -1;
-pos = (608,0);
+pos = (606,0);
 ref = northEastArrow;
 scale = (-1,1);
 }

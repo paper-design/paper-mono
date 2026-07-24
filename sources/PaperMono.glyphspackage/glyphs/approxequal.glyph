@@ -1,5 +1,5 @@
 {
-color = 8;
+color = 7;
 glyphname = approxequal;
 layers = (
 {
@@ -7,12 +7,12 @@ layerId = m003;
 shapes = (
 {
 alignment = -1;
-pos = (0,-128);
+pos = (0,-145);
 ref = asciitilde;
 },
 {
 alignment = -1;
-pos = (0,151);
+pos = (0,145);
 ref = asciitilde;
 }
 );
@@ -23,12 +23,12 @@ layerId = "742FEEFA-C05E-41BB-8475-8B252540AEF7";
 shapes = (
 {
 alignment = -1;
-pos = (0,-95);
+pos = (0,-93);
 ref = asciitilde;
 },
 {
 alignment = -1;
-pos = (0,86);
+pos = (0,93);
 ref = asciitilde;
 }
 );
@@ -39,12 +39,12 @@ layerId = "2B4B7FDD-7E66-4143-AA8B-CAF759C636CA";
 shapes = (
 {
 alignment = -1;
-pos = (0,-109);
+pos = (0,-112);
 ref = asciitilde;
 },
 {
 alignment = -1;
-pos = (0,114);
+pos = (0,112);
 ref = asciitilde;
 }
 );

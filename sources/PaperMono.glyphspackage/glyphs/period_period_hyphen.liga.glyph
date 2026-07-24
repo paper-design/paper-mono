@@ -1,5 +1,5 @@
 {
-color = 4;
+color = 7;
 glyphname = period_period_hyphen.liga;
 layers = (
 {
@@ -10,11 +10,11 @@ pos = (-60,0);
 ref = hyphen;
 },
 {
-pos = (-1205,24);
+pos = (-1205,65);
 ref = periodcentered;
 },
 {
-pos = (-686,24);
+pos = (-686,65);
 ref = periodcentered;
 }
 );
@@ -28,11 +28,11 @@ pos = (-60,0);
 ref = hyphen;
 },
 {
-pos = (-1182,0);
+pos = (-1182,56);
 ref = periodcentered;
 },
 {
-pos = (-685,0);
+pos = (-685,56);
 ref = periodcentered;
 }
 );
@@ -46,11 +46,11 @@ pos = (-60,0);
 ref = hyphen;
 },
 {
-pos = (-1187,13);
+pos = (-1187,58);
 ref = periodcentered;
 },
 {
-pos = (-685,13);
+pos = (-685,58);
 ref = periodcentered;
 }
 );

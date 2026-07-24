@@ -1,20 +1,20 @@
 {
-color = 4;
+color = 7;
 glyphname = colon_colon_colon.liga;
 layers = (
 {
 layerId = "742FEEFA-C05E-41BB-8475-8B252540AEF7";
 shapes = (
 {
-pos = (-606,74);
+pos = (-1205,100);
 ref = colon;
 },
 {
-pos = (-7,74);
+pos = (-606,100);
 ref = colon;
 },
 {
-pos = (-1205,74);
+pos = (-7,100);
 ref = colon;
 }
 );
@@ -130,15 +130,15 @@ nodes = (
 layerId = "2B4B7FDD-7E66-4143-AA8B-CAF759C636CA";
 shapes = (
 {
-pos = (-28,58);
+pos = (-1183,100);
 ref = colon;
 },
 {
-pos = (-605,58);
+pos = (-605,100);
 ref = colon;
 },
 {
-pos = (-1183,58);
+pos = (-28,100);
 ref = colon;
 }
 );
@@ -148,15 +148,15 @@ width = 606;
 layerId = m003;
 shapes = (
 {
-pos = (-27,55);
+pos = (-1184,100);
 ref = colon;
 },
 {
-pos = (-605,55);
+pos = (-605,100);
 ref = colon;
 },
 {
-pos = (-1184,55);
+pos = (-27,100);
 ref = colon;
 }
 );

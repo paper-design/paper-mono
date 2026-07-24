@@ -1,16 +1,16 @@
 {
-color = 4;
+color = 7;
 glyphname = colon_colon.liga;
 layers = (
 {
 layerId = "742FEEFA-C05E-41BB-8475-8B252540AEF7";
 shapes = (
 {
-pos = (-7,74);
+pos = (-7,100);
 ref = colon;
 },
 {
-pos = (-599,74);
+pos = (-599,100);
 ref = colon;
 }
 );
@@ -20,11 +20,11 @@ width = 606;
 layerId = "2B4B7FDD-7E66-4143-AA8B-CAF759C636CA";
 shapes = (
 {
-pos = (-577,58);
+pos = (-577,100);
 ref = colon;
 },
 {
-pos = (-28,58);
+pos = (-28,100);
 ref = colon;
 }
 );
@@ -34,11 +34,11 @@ width = 606;
 layerId = m003;
 shapes = (
 {
-pos = (-578,55);
+pos = (-578,100);
 ref = colon;
 },
 {
-pos = (-27,55);
+pos = (-27,100);
 ref = colon;
 }
 );
