@@ -1,0 +1,45 @@
+{
+color = 8;
+glyphname = wacute.ss03;
+layers = (
+{
+layerId = "742FEEFA-C05E-41BB-8475-8B252540AEF7";
+shapes = (
+{
+ref = w.ss03;
+},
+{
+pos = (115,0);
+ref = acutecomb;
+}
+);
+width = 758;
+},
+{
+layerId = "2B4B7FDD-7E66-4143-AA8B-CAF759C636CA";
+shapes = (
+{
+ref = w.ss03;
+},
+{
+pos = (118,0);
+ref = acutecomb;
+}
+);
+width = 758;
+},
+{
+layerId = m003;
+shapes = (
+{
+ref = w.ss03;
+},
+{
+pos = (125,0);
+ref = acutecomb;
+}
+);
+width = 758;
+}
+);
+}

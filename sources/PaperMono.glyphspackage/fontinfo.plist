@@ -1,5 +1,5 @@
 {
-.appVersion = "3436";
+.appVersion = "3531";
 .formatVersion = 3;
 axes = (
 {
@@ -1052,11 +1052,18 @@ code = "sub AE by AE.ss03;
 sub M by M.ss03;
 sub OE by OE.ss03;
 sub W by W.ss03;
+sub Wacute by Wacute.ss03;
+sub Wcircumflex by Wcircumflex.ss03;
+sub Wdieresis by Wdieresis.ss03;
+sub Wgrave by Wgrave.ss03;
 sub ae by ae.ss03;
 sub m by m.ss03;
 sub oe by oe.ss03;
 sub w by w.ss03;
-sub space by space.ss03;
+sub wacute by wacute.ss03;
+sub wcircumflex by wcircumflex.ss03;
+sub wdieresis by wdieresis.ss03;
+sub wgrave by wgrave.ss03;
 ";
 labels = (
 {
@@ -1356,39 +1363,6 @@ lookup asciitilde_greater.liga {
 	sub asciitilde' greater by SPC;
 } asciitilde_greater.liga;
 
-#==========
-# SS04
-
-# </
-lookup less_slash.liga {
-	ignore sub less' slash greater;
-	sub SPC slash' by less_slash.liga;
-	sub less' slash by SPC;
-} less_slash.liga;
-
-# />
-lookup slash_greater.liga {
-	ignore sub less slash' greater;
-	sub SPC greater' by slash_greater.liga;
-	sub slash' greater by SPC;
-} slash_greater.liga;
-
-# </>
-lookup less_slash_greater.liga {
-sub SPC SPC greater' by less_slash_greater.liga;
-sub SPC slash' greater by SPC;
-sub less' slash greater by SPC;
-} less_slash_greater.liga;
-
-
-# <>
-lookup less_greater.liga {
-	ignore sub less less' greater;
-	ignore sub less' greater greater;
-	sub SPC greater' by less_greater.liga;
-	sub less' greater by SPC;
-} less_greater.liga;
-
 
 #==========
 # SS07: Centered colon
@@ -1574,6 +1548,16 @@ value = "Coding ligatures";
 }
 );
 tag = ss04;
+},
+{
+code = "sub space by space.ss05;";
+labels = (
+{
+language = dflt;
+value = "Narrow space";
+}
+);
+tag = ss05;
 },
 {
 automatic = 1;
