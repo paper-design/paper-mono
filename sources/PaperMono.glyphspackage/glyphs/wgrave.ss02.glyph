@@ -1,12 +1,12 @@
 {
 color = 8;
-glyphname = wgrave.ss03;
+glyphname = wgrave.ss02;
 layers = (
 {
 layerId = "742FEEFA-C05E-41BB-8475-8B252540AEF7";
 shapes = (
 {
-ref = w.ss03;
+ref = w.ss02;
 },
 {
 pos = (37,0);
@@ -19,7 +19,7 @@ width = 758;
 layerId = "2B4B7FDD-7E66-4143-AA8B-CAF759C636CA";
 shapes = (
 {
-ref = w.ss03;
+ref = w.ss02;
 },
 {
 pos = (35,0);
@@ -32,7 +32,7 @@ width = 758;
 layerId = m003;
 shapes = (
 {
-ref = w.ss03;
+ref = w.ss02;
 },
 {
 pos = (35,0);

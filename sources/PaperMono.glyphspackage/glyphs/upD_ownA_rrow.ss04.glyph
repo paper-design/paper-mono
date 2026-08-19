@@ -1,6 +1,6 @@
 {
-color = 11;
-glyphname = upDownArrow.ss07;
+color = 5;
+glyphname = upDownArrow.ss04;
 layers = (
 {
 background = {

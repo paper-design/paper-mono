@@ -1,15 +1,15 @@
 {
-color = 11;
-glyphname = southEastArrow.ss07;
+color = 5;
+glyphname = southWestArrow.ss04;
 layers = (
 {
 layerId = m003;
 shapes = (
 {
 alignment = -1;
-angle = -135;
-pos = (299,753);
-ref = upArrow.ss07;
+pos = (605,0);
+ref = southEastArrow.ss04;
+scale = (-1,1);
 }
 );
 width = 606;
@@ -19,9 +19,9 @@ layerId = "742FEEFA-C05E-41BB-8475-8B252540AEF7";
 shapes = (
 {
 alignment = -1;
-angle = -135;
-pos = (278,753);
-ref = upArrow.ss07;
+pos = (590,0);
+ref = southEastArrow.ss04;
+scale = (-1,1);
 }
 );
 width = 606;
@@ -31,9 +31,9 @@ layerId = "2B4B7FDD-7E66-4143-AA8B-CAF759C636CA";
 shapes = (
 {
 alignment = -1;
-angle = -135;
-pos = (289,753);
-ref = upArrow.ss07;
+pos = (597,0);
+ref = southEastArrow.ss04;
+scale = (-1,1);
 }
 );
 width = 606;

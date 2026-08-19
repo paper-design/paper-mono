@@ -1,15 +1,22 @@
 {
-color = 7;
+color = 8;
 glyphname = less;
 layers = (
 {
 layerId = m003;
 shapes = (
 {
-alignment = 1;
-pos = (606,0);
-ref = greater;
-scale = (-1,1);
+closed = 1;
+nodes = (
+(536,175,l),
+(122,363,l),
+(122,245,l),
+(536,433,l),
+(536,601,l),
+(70,373,l),
+(70,235,l),
+(536,7,l)
+);
 }
 );
 width = 606;
@@ -18,10 +25,17 @@ width = 606;
 layerId = "742FEEFA-C05E-41BB-8475-8B252540AEF7";
 shapes = (
 {
-alignment = 1;
-pos = (606,0);
-ref = greater;
-scale = (-1,1);
+closed = 1;
+nodes = (
+(520,71,l),
+(114,308,l),
+(114,300,l),
+(520,537,l),
+(520,569,l),
+(86,315,l),
+(86,293,l),
+(520,39,l)
+);
 }
 );
 width = 606;
@@ -30,10 +44,17 @@ width = 606;
 layerId = "2B4B7FDD-7E66-4143-AA8B-CAF759C636CA";
 shapes = (
 {
-alignment = 1;
-pos = (606,0);
-ref = greater;
-scale = (-1,1);
+closed = 1;
+nodes = (
+(526,111,l),
+(132,326,l),
+(132,282,l),
+(526,497,l),
+(526,582,l),
+(80,336,l),
+(80,272,l),
+(526,26,l)
+);
 }
 );
 width = 606;

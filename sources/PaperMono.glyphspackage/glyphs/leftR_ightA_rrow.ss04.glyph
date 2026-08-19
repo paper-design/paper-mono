@@ -1,6 +1,6 @@
 {
-color = 11;
-glyphname = leftRightArrow.ss07;
+color = 5;
+glyphname = leftRightArrow.ss04;
 layers = (
 {
 background = {
