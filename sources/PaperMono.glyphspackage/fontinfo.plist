@@ -1290,6 +1290,29 @@ lookup asciitilde_greater.liga {
 	sub asciitilde' greater by SPC;
 } asciitilde_greater.liga;
 
+#==========
+# SS05: F# operators
+
+# |>
+lookup bar_greater.liga {
+ignore sub less bar' greater;
+sub SPC greater' by bar_greater.liga;
+sub bar' greater by SPC;
+} bar_greater.liga;
+
+# <|
+lookup less_bar.liga {
+ignore sub less' bar greater;
+sub SPC bar' by less_bar.liga;
+sub less' bar by SPC;
+} less_bar.liga;
+
+# <|>
+lookup less_bar_greater.liga {
+sub SPC SPC greater' by less_bar_greater.liga;
+sub SPC bar' greater by SPC;
+sub less' bar greater by SPC;
+} less_bar_greater.liga;
 
 #==========
 # SS07: Centered colon
