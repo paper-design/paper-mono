@@ -1,4 +1,5 @@
 {
+export = 0;
 glyphname = darkshade.002;
 layers = (
 {
@@ -7,625 +8,625 @@ shapes = (
 {
 alignment = -1;
 pos = (581,-13);
-ref = _part.module.smnall;
+ref = _part.module.small;
 },
 {
 alignment = -1;
 pos = (278,-13);
-ref = _part.module.smnall;
+ref = _part.module.small;
 },
 {
 alignment = -1;
 pos = (379,-13);
-ref = _part.module.smnall;
+ref = _part.module.small;
 },
 {
 alignment = -1;
 pos = (178,-13);
-ref = _part.module.smnall;
+ref = _part.module.small;
 },
 {
 alignment = -1;
 pos = (479,-13);
-ref = _part.module.smnall;
+ref = _part.module.small;
 },
 {
 alignment = -1;
 pos = (77,-13);
-ref = _part.module.smnall;
+ref = _part.module.small;
 },
 {
 alignment = -1;
 pos = (128,100);
-ref = _part.module.smnall;
+ref = _part.module.small;
 scale = (1.5,1.5);
 },
 {
 alignment = -1;
 pos = (581,95);
-ref = _part.module.smnall;
+ref = _part.module.small;
 },
 {
 alignment = -1;
 pos = (278,95);
-ref = _part.module.smnall;
+ref = _part.module.small;
 },
 {
 alignment = -1;
 pos = (379,95);
-ref = _part.module.smnall;
+ref = _part.module.small;
 },
 {
 alignment = -1;
 pos = (178,95);
-ref = _part.module.smnall;
+ref = _part.module.small;
 },
 {
 alignment = -1;
 pos = (479,95);
-ref = _part.module.smnall;
+ref = _part.module.small;
 },
 {
 alignment = -1;
 pos = (77,95);
-ref = _part.module.smnall;
+ref = _part.module.small;
 },
 {
 alignment = -1;
 pos = (581,203);
-ref = _part.module.smnall;
+ref = _part.module.small;
 },
 {
 alignment = -1;
 pos = (278,203);
-ref = _part.module.smnall;
+ref = _part.module.small;
 },
 {
 alignment = -1;
 pos = (379,203);
-ref = _part.module.smnall;
+ref = _part.module.small;
 },
 {
 alignment = -1;
 pos = (178,203);
-ref = _part.module.smnall;
+ref = _part.module.small;
 },
 {
 alignment = -1;
 pos = (479,203);
-ref = _part.module.smnall;
+ref = _part.module.small;
 },
 {
 alignment = -1;
 pos = (77,203);
-ref = _part.module.smnall;
+ref = _part.module.small;
 },
 {
 alignment = -1;
 pos = (581,311);
-ref = _part.module.smnall;
+ref = _part.module.small;
 },
 {
 alignment = -1;
 pos = (278,311);
-ref = _part.module.smnall;
+ref = _part.module.small;
 },
 {
 alignment = -1;
 pos = (379,311);
-ref = _part.module.smnall;
+ref = _part.module.small;
 },
 {
 alignment = -1;
 pos = (178,311);
-ref = _part.module.smnall;
+ref = _part.module.small;
 },
 {
 alignment = -1;
 pos = (479,311);
-ref = _part.module.smnall;
+ref = _part.module.small;
 },
 {
 alignment = -1;
 pos = (77,311);
-ref = _part.module.smnall;
+ref = _part.module.small;
 },
 {
 alignment = -1;
 pos = (581,419);
-ref = _part.module.smnall;
+ref = _part.module.small;
 },
 {
 alignment = -1;
 pos = (278,419);
-ref = _part.module.smnall;
+ref = _part.module.small;
 },
 {
 alignment = -1;
 pos = (379,419);
-ref = _part.module.smnall;
+ref = _part.module.small;
 },
 {
 alignment = -1;
 pos = (178,419);
-ref = _part.module.smnall;
+ref = _part.module.small;
 },
 {
 alignment = -1;
 pos = (479,419);
-ref = _part.module.smnall;
+ref = _part.module.small;
 },
 {
 alignment = -1;
 pos = (77,419);
-ref = _part.module.smnall;
+ref = _part.module.small;
 },
 {
 alignment = -1;
 pos = (581,527);
-ref = _part.module.smnall;
+ref = _part.module.small;
 },
 {
 alignment = -1;
 pos = (278,527);
-ref = _part.module.smnall;
+ref = _part.module.small;
 },
 {
 alignment = -1;
 pos = (379,527);
-ref = _part.module.smnall;
+ref = _part.module.small;
 },
 {
 alignment = -1;
 pos = (178,527);
-ref = _part.module.smnall;
+ref = _part.module.small;
 },
 {
 alignment = -1;
 pos = (479,527);
-ref = _part.module.smnall;
+ref = _part.module.small;
 },
 {
 alignment = -1;
 pos = (77,527);
-ref = _part.module.smnall;
+ref = _part.module.small;
 },
 {
 alignment = -1;
 pos = (581,635);
-ref = _part.module.smnall;
+ref = _part.module.small;
 },
 {
 alignment = -1;
 pos = (278,635);
-ref = _part.module.smnall;
+ref = _part.module.small;
 },
 {
 alignment = -1;
 pos = (379,635);
-ref = _part.module.smnall;
+ref = _part.module.small;
 },
 {
 alignment = -1;
 pos = (178,635);
-ref = _part.module.smnall;
+ref = _part.module.small;
 },
 {
 alignment = -1;
 pos = (479,635);
-ref = _part.module.smnall;
+ref = _part.module.small;
 },
 {
 alignment = -1;
 pos = (77,635);
-ref = _part.module.smnall;
+ref = _part.module.small;
 },
 {
 alignment = -1;
 pos = (581,743);
-ref = _part.module.smnall;
+ref = _part.module.small;
 },
 {
 alignment = -1;
 pos = (278,743);
-ref = _part.module.smnall;
+ref = _part.module.small;
 },
 {
 alignment = -1;
 pos = (379,743);
-ref = _part.module.smnall;
+ref = _part.module.small;
 },
 {
 alignment = -1;
 pos = (178,743);
-ref = _part.module.smnall;
+ref = _part.module.small;
 },
 {
 alignment = -1;
 pos = (479,743);
-ref = _part.module.smnall;
+ref = _part.module.small;
 },
 {
 alignment = -1;
 pos = (77,743);
-ref = _part.module.smnall;
+ref = _part.module.small;
 },
 {
 alignment = -1;
 pos = (581,851);
-ref = _part.module.smnall;
+ref = _part.module.small;
 },
 {
 alignment = -1;
 pos = (278,851);
-ref = _part.module.smnall;
+ref = _part.module.small;
 },
 {
 alignment = -1;
 pos = (379,851);
-ref = _part.module.smnall;
+ref = _part.module.small;
 },
 {
 alignment = -1;
 pos = (178,851);
-ref = _part.module.smnall;
+ref = _part.module.small;
 },
 {
 alignment = -1;
 pos = (479,851);
-ref = _part.module.smnall;
+ref = _part.module.small;
 },
 {
 alignment = -1;
 pos = (77,851);
-ref = _part.module.smnall;
+ref = _part.module.small;
 },
 {
 alignment = -1;
 pos = (581,959);
-ref = _part.module.smnall;
+ref = _part.module.small;
 },
 {
 alignment = -1;
 pos = (278,959);
-ref = _part.module.smnall;
+ref = _part.module.small;
 },
 {
 alignment = -1;
 pos = (379,959);
-ref = _part.module.smnall;
+ref = _part.module.small;
 },
 {
 alignment = -1;
 pos = (178,959);
-ref = _part.module.smnall;
+ref = _part.module.small;
 },
 {
 alignment = -1;
 pos = (479,959);
-ref = _part.module.smnall;
+ref = _part.module.small;
 },
 {
 alignment = -1;
 pos = (77,959);
-ref = _part.module.smnall;
+ref = _part.module.small;
 },
 {
 alignment = -1;
 pos = (228,100);
-ref = _part.module.smnall;
+ref = _part.module.small;
 scale = (1.5,1.5);
 },
 {
 alignment = -1;
 pos = (26,100);
-ref = _part.module.smnall;
+ref = _part.module.small;
 scale = (1.5,1.5);
 },
 {
 alignment = -1;
 pos = (429,100);
-ref = _part.module.smnall;
+ref = _part.module.small;
 scale = (1.5,1.5);
 },
 {
 alignment = -1;
 pos = (530,100);
-ref = _part.module.smnall;
+ref = _part.module.small;
 scale = (1.5,1.5);
 },
 {
 alignment = -1;
 pos = (329,100);
-ref = _part.module.smnall;
+ref = _part.module.small;
 scale = (1.5,1.5);
 },
 {
 alignment = -1;
 pos = (128,208);
-ref = _part.module.smnall;
+ref = _part.module.small;
 scale = (1.5,1.5);
 },
 {
 alignment = -1;
 pos = (228,208);
-ref = _part.module.smnall;
+ref = _part.module.small;
 scale = (1.5,1.5);
 },
 {
 alignment = -1;
 pos = (26,208);
-ref = _part.module.smnall;
+ref = _part.module.small;
 scale = (1.5,1.5);
 },
 {
 alignment = -1;
 pos = (429,208);
-ref = _part.module.smnall;
+ref = _part.module.small;
 scale = (1.5,1.5);
 },
 {
 alignment = -1;
 pos = (530,208);
-ref = _part.module.smnall;
+ref = _part.module.small;
 scale = (1.5,1.5);
 },
 {
 alignment = -1;
 pos = (329,208);
-ref = _part.module.smnall;
+ref = _part.module.small;
 scale = (1.5,1.5);
 },
 {
 alignment = -1;
 pos = (128,316);
-ref = _part.module.smnall;
+ref = _part.module.small;
 scale = (1.5,1.5);
 },
 {
 alignment = -1;
 pos = (228,316);
-ref = _part.module.smnall;
+ref = _part.module.small;
 scale = (1.5,1.5);
 },
 {
 alignment = -1;
 pos = (26,316);
-ref = _part.module.smnall;
+ref = _part.module.small;
 scale = (1.5,1.5);
 },
 {
 alignment = -1;
 pos = (429,316);
-ref = _part.module.smnall;
+ref = _part.module.small;
 scale = (1.5,1.5);
 },
 {
 alignment = -1;
 pos = (530,316);
-ref = _part.module.smnall;
+ref = _part.module.small;
 scale = (1.5,1.5);
 },
 {
 alignment = -1;
 pos = (329,316);
-ref = _part.module.smnall;
+ref = _part.module.small;
 scale = (1.5,1.5);
 },
 {
 alignment = -1;
 pos = (128,424);
-ref = _part.module.smnall;
+ref = _part.module.small;
 scale = (1.5,1.5);
 },
 {
 alignment = -1;
 pos = (228,424);
-ref = _part.module.smnall;
+ref = _part.module.small;
 scale = (1.5,1.5);
 },
 {
 alignment = -1;
 pos = (26,424);
-ref = _part.module.smnall;
+ref = _part.module.small;
 scale = (1.5,1.5);
 },
 {
 alignment = -1;
 pos = (429,424);
-ref = _part.module.smnall;
+ref = _part.module.small;
 scale = (1.5,1.5);
 },
 {
 alignment = -1;
 pos = (530,424);
-ref = _part.module.smnall;
+ref = _part.module.small;
 scale = (1.5,1.5);
 },
 {
 alignment = -1;
 pos = (329,424);
-ref = _part.module.smnall;
+ref = _part.module.small;
 scale = (1.5,1.5);
 },
 {
 alignment = -1;
 pos = (128,532);
-ref = _part.module.smnall;
+ref = _part.module.small;
 scale = (1.5,1.5);
 },
 {
 alignment = -1;
 pos = (228,532);
-ref = _part.module.smnall;
+ref = _part.module.small;
 scale = (1.5,1.5);
 },
 {
 alignment = -1;
 pos = (26,532);
-ref = _part.module.smnall;
+ref = _part.module.small;
 scale = (1.5,1.5);
 },
 {
 alignment = -1;
 pos = (429,532);
-ref = _part.module.smnall;
+ref = _part.module.small;
 scale = (1.5,1.5);
 },
 {
 alignment = -1;
 pos = (530,532);
-ref = _part.module.smnall;
+ref = _part.module.small;
 scale = (1.5,1.5);
 },
 {
 alignment = -1;
 pos = (329,532);
-ref = _part.module.smnall;
+ref = _part.module.small;
 scale = (1.5,1.5);
 },
 {
 alignment = -1;
 pos = (128,640);
-ref = _part.module.smnall;
+ref = _part.module.small;
 scale = (1.5,1.5);
 },
 {
 alignment = -1;
 pos = (228,640);
-ref = _part.module.smnall;
+ref = _part.module.small;
 scale = (1.5,1.5);
 },
 {
 alignment = -1;
 pos = (26,640);
-ref = _part.module.smnall;
+ref = _part.module.small;
 scale = (1.5,1.5);
 },
 {
 alignment = -1;
 pos = (429,640);
-ref = _part.module.smnall;
+ref = _part.module.small;
 scale = (1.5,1.5);
 },
 {
 alignment = -1;
 pos = (530,640);
-ref = _part.module.smnall;
+ref = _part.module.small;
 scale = (1.5,1.5);
 },
 {
 alignment = -1;
 pos = (329,640);
-ref = _part.module.smnall;
+ref = _part.module.small;
 scale = (1.5,1.5);
 },
 {
 alignment = -1;
 pos = (128,748);
-ref = _part.module.smnall;
+ref = _part.module.small;
 scale = (1.5,1.5);
 },
 {
 alignment = -1;
 pos = (228,748);
-ref = _part.module.smnall;
+ref = _part.module.small;
 scale = (1.5,1.5);
 },
 {
 alignment = -1;
 pos = (26,748);
-ref = _part.module.smnall;
+ref = _part.module.small;
 scale = (1.5,1.5);
 },
 {
 alignment = -1;
 pos = (429,748);
-ref = _part.module.smnall;
+ref = _part.module.small;
 scale = (1.5,1.5);
 },
 {
 alignment = -1;
 pos = (530,748);
-ref = _part.module.smnall;
+ref = _part.module.small;
 scale = (1.5,1.5);
 },
 {
 alignment = -1;
 pos = (329,748);
-ref = _part.module.smnall;
+ref = _part.module.small;
 scale = (1.5,1.5);
 },
 {
 alignment = -1;
 pos = (128,856);
-ref = _part.module.smnall;
+ref = _part.module.small;
 scale = (1.5,1.5);
 },
 {
 alignment = -1;
 pos = (228,856);
-ref = _part.module.smnall;
+ref = _part.module.small;
 scale = (1.5,1.5);
 },
 {
 alignment = -1;
 pos = (26,856);
-ref = _part.module.smnall;
+ref = _part.module.small;
 scale = (1.5,1.5);
 },
 {
 alignment = -1;
 pos = (429,856);
-ref = _part.module.smnall;
+ref = _part.module.small;
 scale = (1.5,1.5);
 },
 {
 alignment = -1;
 pos = (530,856);
-ref = _part.module.smnall;
+ref = _part.module.small;
 scale = (1.5,1.5);
 },
 {
 alignment = -1;
 pos = (329,856);
-ref = _part.module.smnall;
+ref = _part.module.small;
 scale = (1.5,1.5);
 },
 {
 alignment = -1;
 pos = (128,964);
-ref = _part.module.smnall;
+ref = _part.module.small;
 scale = (1.5,1.5);
 },
 {
 alignment = -1;
 pos = (228,964);
-ref = _part.module.smnall;
+ref = _part.module.small;
 scale = (1.5,1.5);
 },
 {
 alignment = -1;
 pos = (26,964);
-ref = _part.module.smnall;
+ref = _part.module.small;
 scale = (1.5,1.5);
 },
 {
 alignment = -1;
 pos = (429,964);
-ref = _part.module.smnall;
+ref = _part.module.small;
 scale = (1.5,1.5);
 },
 {
 alignment = -1;
 pos = (530,964);
-ref = _part.module.smnall;
+ref = _part.module.small;
 scale = (1.5,1.5);
 },
 {
 alignment = -1;
 pos = (329,964);
-ref = _part.module.smnall;
+ref = _part.module.small;
 scale = (1.5,1.5);
 }
 );
@@ -637,625 +638,625 @@ shapes = (
 {
 alignment = -1;
 pos = (581,-13);
-ref = _part.module.smnall;
+ref = _part.module.small;
 },
 {
 alignment = -1;
 pos = (278,-13);
-ref = _part.module.smnall;
+ref = _part.module.small;
 },
 {
 alignment = -1;
 pos = (379,-13);
-ref = _part.module.smnall;
+ref = _part.module.small;
 },
 {
 alignment = -1;
 pos = (178,-13);
-ref = _part.module.smnall;
+ref = _part.module.small;
 },
 {
 alignment = -1;
 pos = (479,-13);
-ref = _part.module.smnall;
+ref = _part.module.small;
 },
 {
 alignment = -1;
 pos = (77,-13);
-ref = _part.module.smnall;
+ref = _part.module.small;
 },
 {
 alignment = -1;
 pos = (128,100);
-ref = _part.module.smnall;
+ref = _part.module.small;
 scale = (1.5,1.5);
 },
 {
 alignment = -1;
 pos = (581,95);
-ref = _part.module.smnall;
+ref = _part.module.small;
 },
 {
 alignment = -1;
 pos = (278,95);
-ref = _part.module.smnall;
+ref = _part.module.small;
 },
 {
 alignment = -1;
 pos = (379,95);
-ref = _part.module.smnall;
+ref = _part.module.small;
 },
 {
 alignment = -1;
 pos = (178,95);
-ref = _part.module.smnall;
+ref = _part.module.small;
 },
 {
 alignment = -1;
 pos = (479,95);
-ref = _part.module.smnall;
+ref = _part.module.small;
 },
 {
 alignment = -1;
 pos = (77,95);
-ref = _part.module.smnall;
+ref = _part.module.small;
 },
 {
 alignment = -1;
 pos = (581,203);
-ref = _part.module.smnall;
+ref = _part.module.small;
 },
 {
 alignment = -1;
 pos = (278,203);
-ref = _part.module.smnall;
+ref = _part.module.small;
 },
 {
 alignment = -1;
 pos = (379,203);
-ref = _part.module.smnall;
+ref = _part.module.small;
 },
 {
 alignment = -1;
 pos = (178,203);
-ref = _part.module.smnall;
+ref = _part.module.small;
 },
 {
 alignment = -1;
 pos = (479,203);
-ref = _part.module.smnall;
+ref = _part.module.small;
 },
 {
 alignment = -1;
 pos = (77,203);
-ref = _part.module.smnall;
+ref = _part.module.small;
 },
 {
 alignment = -1;
 pos = (581,311);
-ref = _part.module.smnall;
+ref = _part.module.small;
 },
 {
 alignment = -1;
 pos = (278,311);
-ref = _part.module.smnall;
+ref = _part.module.small;
 },
 {
 alignment = -1;
 pos = (379,311);
-ref = _part.module.smnall;
+ref = _part.module.small;
 },
 {
 alignment = -1;
 pos = (178,311);
-ref = _part.module.smnall;
+ref = _part.module.small;
 },
 {
 alignment = -1;
 pos = (479,311);
-ref = _part.module.smnall;
+ref = _part.module.small;
 },
 {
 alignment = -1;
 pos = (77,311);
-ref = _part.module.smnall;
+ref = _part.module.small;
 },
 {
 alignment = -1;
 pos = (581,419);
-ref = _part.module.smnall;
+ref = _part.module.small;
 },
 {
 alignment = -1;
 pos = (278,419);
-ref = _part.module.smnall;
+ref = _part.module.small;
 },
 {
 alignment = -1;
 pos = (379,419);
-ref = _part.module.smnall;
+ref = _part.module.small;
 },
 {
 alignment = -1;
 pos = (178,419);
-ref = _part.module.smnall;
+ref = _part.module.small;
 },
 {
 alignment = -1;
 pos = (479,419);
-ref = _part.module.smnall;
+ref = _part.module.small;
 },
 {
 alignment = -1;
 pos = (77,419);
-ref = _part.module.smnall;
+ref = _part.module.small;
 },
 {
 alignment = -1;
 pos = (581,527);
-ref = _part.module.smnall;
+ref = _part.module.small;
 },
 {
 alignment = -1;
 pos = (278,527);
-ref = _part.module.smnall;
+ref = _part.module.small;
 },
 {
 alignment = -1;
 pos = (379,527);
-ref = _part.module.smnall;
+ref = _part.module.small;
 },
 {
 alignment = -1;
 pos = (178,527);
-ref = _part.module.smnall;
+ref = _part.module.small;
 },
 {
 alignment = -1;
 pos = (479,527);
-ref = _part.module.smnall;
+ref = _part.module.small;
 },
 {
 alignment = -1;
 pos = (77,527);
-ref = _part.module.smnall;
+ref = _part.module.small;
 },
 {
 alignment = -1;
 pos = (581,635);
-ref = _part.module.smnall;
+ref = _part.module.small;
 },
 {
 alignment = -1;
 pos = (278,635);
-ref = _part.module.smnall;
+ref = _part.module.small;
 },
 {
 alignment = -1;
 pos = (379,635);
-ref = _part.module.smnall;
+ref = _part.module.small;
 },
 {
 alignment = -1;
 pos = (178,635);
-ref = _part.module.smnall;
+ref = _part.module.small;
 },
 {
 alignment = -1;
 pos = (479,635);
-ref = _part.module.smnall;
+ref = _part.module.small;
 },
 {
 alignment = -1;
 pos = (77,635);
-ref = _part.module.smnall;
+ref = _part.module.small;
 },
 {
 alignment = -1;
 pos = (581,743);
-ref = _part.module.smnall;
+ref = _part.module.small;
 },
 {
 alignment = -1;
 pos = (278,743);
-ref = _part.module.smnall;
+ref = _part.module.small;
 },
 {
 alignment = -1;
 pos = (379,743);
-ref = _part.module.smnall;
+ref = _part.module.small;
 },
 {
 alignment = -1;
 pos = (178,743);
-ref = _part.module.smnall;
+ref = _part.module.small;
 },
 {
 alignment = -1;
 pos = (479,743);
-ref = _part.module.smnall;
+ref = _part.module.small;
 },
 {
 alignment = -1;
 pos = (77,743);
-ref = _part.module.smnall;
+ref = _part.module.small;
 },
 {
 alignment = -1;
 pos = (581,851);
-ref = _part.module.smnall;
+ref = _part.module.small;
 },
 {
 alignment = -1;
 pos = (278,851);
-ref = _part.module.smnall;
+ref = _part.module.small;
 },
 {
 alignment = -1;
 pos = (379,851);
-ref = _part.module.smnall;
+ref = _part.module.small;
 },
 {
 alignment = -1;
 pos = (178,851);
-ref = _part.module.smnall;
+ref = _part.module.small;
 },
 {
 alignment = -1;
 pos = (479,851);
-ref = _part.module.smnall;
+ref = _part.module.small;
 },
 {
 alignment = -1;
 pos = (77,851);
-ref = _part.module.smnall;
+ref = _part.module.small;
 },
 {
 alignment = -1;
 pos = (581,959);
-ref = _part.module.smnall;
+ref = _part.module.small;
 },
 {
 alignment = -1;
 pos = (278,959);
-ref = _part.module.smnall;
+ref = _part.module.small;
 },
 {
 alignment = -1;
 pos = (379,959);
-ref = _part.module.smnall;
+ref = _part.module.small;
 },
 {
 alignment = -1;
 pos = (178,959);
-ref = _part.module.smnall;
+ref = _part.module.small;
 },
 {
 alignment = -1;
 pos = (479,959);
-ref = _part.module.smnall;
+ref = _part.module.small;
 },
 {
 alignment = -1;
 pos = (77,959);
-ref = _part.module.smnall;
+ref = _part.module.small;
 },
 {
 alignment = -1;
 pos = (228,100);
-ref = _part.module.smnall;
+ref = _part.module.small;
 scale = (1.5,1.5);
 },
 {
 alignment = -1;
 pos = (26,100);
-ref = _part.module.smnall;
+ref = _part.module.small;
 scale = (1.5,1.5);
 },
 {
 alignment = -1;
 pos = (429,100);
-ref = _part.module.smnall;
+ref = _part.module.small;
 scale = (1.5,1.5);
 },
 {
 alignment = -1;
 pos = (530,100);
-ref = _part.module.smnall;
+ref = _part.module.small;
 scale = (1.5,1.5);
 },
 {
 alignment = -1;
 pos = (329,100);
-ref = _part.module.smnall;
+ref = _part.module.small;
 scale = (1.5,1.5);
 },
 {
 alignment = -1;
 pos = (128,208);
-ref = _part.module.smnall;
+ref = _part.module.small;
 scale = (1.5,1.5);
 },
 {
 alignment = -1;
 pos = (228,208);
-ref = _part.module.smnall;
+ref = _part.module.small;
 scale = (1.5,1.5);
 },
 {
 alignment = -1;
 pos = (26,208);
-ref = _part.module.smnall;
+ref = _part.module.small;
 scale = (1.5,1.5);
 },
 {
 alignment = -1;
 pos = (429,208);
-ref = _part.module.smnall;
+ref = _part.module.small;
 scale = (1.5,1.5);
 },
 {
 alignment = -1;
 pos = (530,208);
-ref = _part.module.smnall;
+ref = _part.module.small;
 scale = (1.5,1.5);
 },
 {
 alignment = -1;
 pos = (329,208);
-ref = _part.module.smnall;
+ref = _part.module.small;
 scale = (1.5,1.5);
 },
 {
 alignment = -1;
 pos = (128,316);
-ref = _part.module.smnall;
+ref = _part.module.small;
 scale = (1.5,1.5);
 },
 {
 alignment = -1;
 pos = (228,316);
-ref = _part.module.smnall;
+ref = _part.module.small;
 scale = (1.5,1.5);
 },
 {
 alignment = -1;
 pos = (26,316);
-ref = _part.module.smnall;
+ref = _part.module.small;
 scale = (1.5,1.5);
 },
 {
 alignment = -1;
 pos = (429,316);
-ref = _part.module.smnall;
+ref = _part.module.small;
 scale = (1.5,1.5);
 },
 {
 alignment = -1;
 pos = (530,316);
-ref = _part.module.smnall;
+ref = _part.module.small;
 scale = (1.5,1.5);
 },
 {
 alignment = -1;
 pos = (329,316);
-ref = _part.module.smnall;
+ref = _part.module.small;
 scale = (1.5,1.5);
 },
 {
 alignment = -1;
 pos = (128,424);
-ref = _part.module.smnall;
+ref = _part.module.small;
 scale = (1.5,1.5);
 },
 {
 alignment = -1;
 pos = (228,424);
-ref = _part.module.smnall;
+ref = _part.module.small;
 scale = (1.5,1.5);
 },
 {
 alignment = -1;
 pos = (26,424);
-ref = _part.module.smnall;
+ref = _part.module.small;
 scale = (1.5,1.5);
 },
 {
 alignment = -1;
 pos = (429,424);
-ref = _part.module.smnall;
+ref = _part.module.small;
 scale = (1.5,1.5);
 },
 {
 alignment = -1;
 pos = (530,424);
-ref = _part.module.smnall;
+ref = _part.module.small;
 scale = (1.5,1.5);
 },
 {
 alignment = -1;
 pos = (329,424);
-ref = _part.module.smnall;
+ref = _part.module.small;
 scale = (1.5,1.5);
 },
 {
 alignment = -1;
 pos = (128,532);
-ref = _part.module.smnall;
+ref = _part.module.small;
 scale = (1.5,1.5);
 },
 {
 alignment = -1;
 pos = (228,532);
-ref = _part.module.smnall;
+ref = _part.module.small;
 scale = (1.5,1.5);
 },
 {
 alignment = -1;
 pos = (26,532);
-ref = _part.module.smnall;
+ref = _part.module.small;
 scale = (1.5,1.5);
 },
 {
 alignment = -1;
 pos = (429,532);
-ref = _part.module.smnall;
+ref = _part.module.small;
 scale = (1.5,1.5);
 },
 {
 alignment = -1;
 pos = (530,532);
-ref = _part.module.smnall;
+ref = _part.module.small;
 scale = (1.5,1.5);
 },
 {
 alignment = -1;
 pos = (329,532);
-ref = _part.module.smnall;
+ref = _part.module.small;
 scale = (1.5,1.5);
 },
 {
 alignment = -1;
 pos = (128,640);
-ref = _part.module.smnall;
+ref = _part.module.small;
 scale = (1.5,1.5);
 },
 {
 alignment = -1;
 pos = (228,640);
-ref = _part.module.smnall;
+ref = _part.module.small;
 scale = (1.5,1.5);
 },
 {
 alignment = -1;
 pos = (26,640);
-ref = _part.module.smnall;
+ref = _part.module.small;
 scale = (1.5,1.5);
 },
 {
 alignment = -1;
 pos = (429,640);
-ref = _part.module.smnall;
+ref = _part.module.small;
 scale = (1.5,1.5);
 },
 {
 alignment = -1;
 pos = (530,640);
-ref = _part.module.smnall;
+ref = _part.module.small;
 scale = (1.5,1.5);
 },
 {
 alignment = -1;
 pos = (329,640);
-ref = _part.module.smnall;
+ref = _part.module.small;
 scale = (1.5,1.5);
 },
 {
 alignment = -1;
 pos = (128,748);
-ref = _part.module.smnall;
+ref = _part.module.small;
 scale = (1.5,1.5);
 },
 {
 alignment = -1;
 pos = (228,748);
-ref = _part.module.smnall;
+ref = _part.module.small;
 scale = (1.5,1.5);
 },
 {
 alignment = -1;
 pos = (26,748);
-ref = _part.module.smnall;
+ref = _part.module.small;
 scale = (1.5,1.5);
 },
 {
 alignment = -1;
 pos = (429,748);
-ref = _part.module.smnall;
+ref = _part.module.small;
 scale = (1.5,1.5);
 },
 {
 alignment = -1;
 pos = (530,748);
-ref = _part.module.smnall;
+ref = _part.module.small;
 scale = (1.5,1.5);
 },
 {
 alignment = -1;
 pos = (329,748);
-ref = _part.module.smnall;
+ref = _part.module.small;
 scale = (1.5,1.5);
 },
 {
 alignment = -1;
 pos = (128,856);
-ref = _part.module.smnall;
+ref = _part.module.small;
 scale = (1.5,1.5);
 },
 {
 alignment = -1;
 pos = (228,856);
-ref = _part.module.smnall;
+ref = _part.module.small;
 scale = (1.5,1.5);
 },
 {
 alignment = -1;
 pos = (26,856);
-ref = _part.module.smnall;
+ref = _part.module.small;
 scale = (1.5,1.5);
 },
 {
 alignment = -1;
 pos = (429,856);
-ref = _part.module.smnall;
+ref = _part.module.small;
 scale = (1.5,1.5);
 },
 {
 alignment = -1;
 pos = (530,856);
-ref = _part.module.smnall;
+ref = _part.module.small;
 scale = (1.5,1.5);
 },
 {
 alignment = -1;
 pos = (329,856);
-ref = _part.module.smnall;
+ref = _part.module.small;
 scale = (1.5,1.5);
 },
 {
 alignment = -1;
 pos = (128,964);
-ref = _part.module.smnall;
+ref = _part.module.small;
 scale = (1.5,1.5);
 },
 {
 alignment = -1;
 pos = (228,964);
-ref = _part.module.smnall;
+ref = _part.module.small;
 scale = (1.5,1.5);
 },
 {
 alignment = -1;
 pos = (26,964);
-ref = _part.module.smnall;
+ref = _part.module.small;
 scale = (1.5,1.5);
 },
 {
 alignment = -1;
 pos = (429,964);
-ref = _part.module.smnall;
+ref = _part.module.small;
 scale = (1.5,1.5);
 },
 {
 alignment = -1;
 pos = (530,964);
-ref = _part.module.smnall;
+ref = _part.module.small;
 scale = (1.5,1.5);
 },
 {
 alignment = -1;
 pos = (329,964);
-ref = _part.module.smnall;
+ref = _part.module.small;
 scale = (1.5,1.5);
 }
 );
@@ -1267,625 +1268,625 @@ shapes = (
 {
 alignment = -1;
 pos = (581,-13);
-ref = _part.module.smnall;
+ref = _part.module.small;
 },
 {
 alignment = -1;
 pos = (278,-13);
-ref = _part.module.smnall;
+ref = _part.module.small;
 },
 {
 alignment = -1;
 pos = (379,-13);
-ref = _part.module.smnall;
+ref = _part.module.small;
 },
 {
 alignment = -1;
 pos = (178,-13);
-ref = _part.module.smnall;
+ref = _part.module.small;
 },
 {
 alignment = -1;
 pos = (479,-13);
-ref = _part.module.smnall;
+ref = _part.module.small;
 },
 {
 alignment = -1;
 pos = (77,-13);
-ref = _part.module.smnall;
+ref = _part.module.small;
 },
 {
 alignment = -1;
 pos = (128,100);
-ref = _part.module.smnall;
+ref = _part.module.small;
 scale = (1.5,1.5);
 },
 {
 alignment = -1;
 pos = (581,95);
-ref = _part.module.smnall;
+ref = _part.module.small;
 },
 {
 alignment = -1;
 pos = (278,95);
-ref = _part.module.smnall;
+ref = _part.module.small;
 },
 {
 alignment = -1;
 pos = (379,95);
-ref = _part.module.smnall;
+ref = _part.module.small;
 },
 {
 alignment = -1;
 pos = (178,95);
-ref = _part.module.smnall;
+ref = _part.module.small;
 },
 {
 alignment = -1;
 pos = (479,95);
-ref = _part.module.smnall;
+ref = _part.module.small;
 },
 {
 alignment = -1;
 pos = (77,95);
-ref = _part.module.smnall;
+ref = _part.module.small;
 },
 {
 alignment = -1;
 pos = (581,203);
-ref = _part.module.smnall;
+ref = _part.module.small;
 },
 {
 alignment = -1;
 pos = (278,203);
-ref = _part.module.smnall;
+ref = _part.module.small;
 },
 {
 alignment = -1;
 pos = (379,203);
-ref = _part.module.smnall;
+ref = _part.module.small;
 },
 {
 alignment = -1;
 pos = (178,203);
-ref = _part.module.smnall;
+ref = _part.module.small;
 },
 {
 alignment = -1;
 pos = (479,203);
-ref = _part.module.smnall;
+ref = _part.module.small;
 },
 {
 alignment = -1;
 pos = (77,203);
-ref = _part.module.smnall;
+ref = _part.module.small;
 },
 {
 alignment = -1;
 pos = (581,311);
-ref = _part.module.smnall;
+ref = _part.module.small;
 },
 {
 alignment = -1;
 pos = (278,311);
-ref = _part.module.smnall;
+ref = _part.module.small;
 },
 {
 alignment = -1;
 pos = (379,311);
-ref = _part.module.smnall;
+ref = _part.module.small;
 },
 {
 alignment = -1;
 pos = (178,311);
-ref = _part.module.smnall;
+ref = _part.module.small;
 },
 {
 alignment = -1;
 pos = (479,311);
-ref = _part.module.smnall;
+ref = _part.module.small;
 },
 {
 alignment = -1;
 pos = (77,311);
-ref = _part.module.smnall;
+ref = _part.module.small;
 },
 {
 alignment = -1;
 pos = (581,419);
-ref = _part.module.smnall;
+ref = _part.module.small;
 },
 {
 alignment = -1;
 pos = (278,419);
-ref = _part.module.smnall;
+ref = _part.module.small;
 },
 {
 alignment = -1;
 pos = (379,419);
-ref = _part.module.smnall;
+ref = _part.module.small;
 },
 {
 alignment = -1;
 pos = (178,419);
-ref = _part.module.smnall;
+ref = _part.module.small;
 },
 {
 alignment = -1;
 pos = (479,419);
-ref = _part.module.smnall;
+ref = _part.module.small;
 },
 {
 alignment = -1;
 pos = (77,419);
-ref = _part.module.smnall;
+ref = _part.module.small;
 },
 {
 alignment = -1;
 pos = (581,527);
-ref = _part.module.smnall;
+ref = _part.module.small;
 },
 {
 alignment = -1;
 pos = (278,527);
-ref = _part.module.smnall;
+ref = _part.module.small;
 },
 {
 alignment = -1;
 pos = (379,527);
-ref = _part.module.smnall;
+ref = _part.module.small;
 },
 {
 alignment = -1;
 pos = (178,527);
-ref = _part.module.smnall;
+ref = _part.module.small;
 },
 {
 alignment = -1;
 pos = (479,527);
-ref = _part.module.smnall;
+ref = _part.module.small;
 },
 {
 alignment = -1;
 pos = (77,527);
-ref = _part.module.smnall;
+ref = _part.module.small;
 },
 {
 alignment = -1;
 pos = (581,635);
-ref = _part.module.smnall;
+ref = _part.module.small;
 },
 {
 alignment = -1;
 pos = (278,635);
-ref = _part.module.smnall;
+ref = _part.module.small;
 },
 {
 alignment = -1;
 pos = (379,635);
-ref = _part.module.smnall;
+ref = _part.module.small;
 },
 {
 alignment = -1;
 pos = (178,635);
-ref = _part.module.smnall;
+ref = _part.module.small;
 },
 {
 alignment = -1;
 pos = (479,635);
-ref = _part.module.smnall;
+ref = _part.module.small;
 },
 {
 alignment = -1;
 pos = (77,635);
-ref = _part.module.smnall;
+ref = _part.module.small;
 },
 {
 alignment = -1;
 pos = (581,743);
-ref = _part.module.smnall;
+ref = _part.module.small;
 },
 {
 alignment = -1;
 pos = (278,743);
-ref = _part.module.smnall;
+ref = _part.module.small;
 },
 {
 alignment = -1;
 pos = (379,743);
-ref = _part.module.smnall;
+ref = _part.module.small;
 },
 {
 alignment = -1;
 pos = (178,743);
-ref = _part.module.smnall;
+ref = _part.module.small;
 },
 {
 alignment = -1;
 pos = (479,743);
-ref = _part.module.smnall;
+ref = _part.module.small;
 },
 {
 alignment = -1;
 pos = (77,743);
-ref = _part.module.smnall;
+ref = _part.module.small;
 },
 {
 alignment = -1;
 pos = (581,851);
-ref = _part.module.smnall;
+ref = _part.module.small;
 },
 {
 alignment = -1;
 pos = (278,851);
-ref = _part.module.smnall;
+ref = _part.module.small;
 },
 {
 alignment = -1;
 pos = (379,851);
-ref = _part.module.smnall;
+ref = _part.module.small;
 },
 {
 alignment = -1;
 pos = (178,851);
-ref = _part.module.smnall;
+ref = _part.module.small;
 },
 {
 alignment = -1;
 pos = (479,851);
-ref = _part.module.smnall;
+ref = _part.module.small;
 },
 {
 alignment = -1;
 pos = (77,851);
-ref = _part.module.smnall;
+ref = _part.module.small;
 },
 {
 alignment = -1;
 pos = (581,959);
-ref = _part.module.smnall;
+ref = _part.module.small;
 },
 {
 alignment = -1;
 pos = (278,959);
-ref = _part.module.smnall;
+ref = _part.module.small;
 },
 {
 alignment = -1;
 pos = (379,959);
-ref = _part.module.smnall;
+ref = _part.module.small;
 },
 {
 alignment = -1;
 pos = (178,959);
-ref = _part.module.smnall;
+ref = _part.module.small;
 },
 {
 alignment = -1;
 pos = (479,959);
-ref = _part.module.smnall;
+ref = _part.module.small;
 },
 {
 alignment = -1;
 pos = (77,959);
-ref = _part.module.smnall;
+ref = _part.module.small;
 },
 {
 alignment = -1;
 pos = (228,100);
-ref = _part.module.smnall;
+ref = _part.module.small;
 scale = (1.5,1.5);
 },
 {
 alignment = -1;
 pos = (26,100);
-ref = _part.module.smnall;
+ref = _part.module.small;
 scale = (1.5,1.5);
 },
 {
 alignment = -1;
 pos = (429,100);
-ref = _part.module.smnall;
+ref = _part.module.small;
 scale = (1.5,1.5);
 },
 {
 alignment = -1;
 pos = (530,100);
-ref = _part.module.smnall;
+ref = _part.module.small;
 scale = (1.5,1.5);
 },
 {
 alignment = -1;
 pos = (329,100);
-ref = _part.module.smnall;
+ref = _part.module.small;
 scale = (1.5,1.5);
 },
 {
 alignment = -1;
 pos = (128,208);
-ref = _part.module.smnall;
+ref = _part.module.small;
 scale = (1.5,1.5);
 },
 {
 alignment = -1;
 pos = (228,208);
-ref = _part.module.smnall;
+ref = _part.module.small;
 scale = (1.5,1.5);
 },
 {
 alignment = -1;
 pos = (26,208);
-ref = _part.module.smnall;
+ref = _part.module.small;
 scale = (1.5,1.5);
 },
 {
 alignment = -1;
 pos = (429,208);
-ref = _part.module.smnall;
+ref = _part.module.small;
 scale = (1.5,1.5);
 },
 {
 alignment = -1;
 pos = (530,208);
-ref = _part.module.smnall;
+ref = _part.module.small;
 scale = (1.5,1.5);
 },
 {
 alignment = -1;
 pos = (329,208);
-ref = _part.module.smnall;
+ref = _part.module.small;
 scale = (1.5,1.5);
 },
 {
 alignment = -1;
 pos = (128,316);
-ref = _part.module.smnall;
+ref = _part.module.small;
 scale = (1.5,1.5);
 },
 {
 alignment = -1;
 pos = (228,316);
-ref = _part.module.smnall;
+ref = _part.module.small;
 scale = (1.5,1.5);
 },
 {
 alignment = -1;
 pos = (26,316);
-ref = _part.module.smnall;
+ref = _part.module.small;
 scale = (1.5,1.5);
 },
 {
 alignment = -1;
 pos = (429,316);
-ref = _part.module.smnall;
+ref = _part.module.small;
 scale = (1.5,1.5);
 },
 {
 alignment = -1;
 pos = (530,316);
-ref = _part.module.smnall;
+ref = _part.module.small;
 scale = (1.5,1.5);
 },
 {
 alignment = -1;
 pos = (329,316);
-ref = _part.module.smnall;
+ref = _part.module.small;
 scale = (1.5,1.5);
 },
 {
 alignment = -1;
 pos = (128,424);
-ref = _part.module.smnall;
+ref = _part.module.small;
 scale = (1.5,1.5);
 },
 {
 alignment = -1;
 pos = (228,424);
-ref = _part.module.smnall;
+ref = _part.module.small;
 scale = (1.5,1.5);
 },
 {
 alignment = -1;
 pos = (26,424);
-ref = _part.module.smnall;
+ref = _part.module.small;
 scale = (1.5,1.5);
 },
 {
 alignment = -1;
 pos = (429,424);
-ref = _part.module.smnall;
+ref = _part.module.small;
 scale = (1.5,1.5);
 },
 {
 alignment = -1;
 pos = (530,424);
-ref = _part.module.smnall;
+ref = _part.module.small;
 scale = (1.5,1.5);
 },
 {
 alignment = -1;
 pos = (329,424);
-ref = _part.module.smnall;
+ref = _part.module.small;
 scale = (1.5,1.5);
 },
 {
 alignment = -1;
 pos = (128,532);
-ref = _part.module.smnall;
+ref = _part.module.small;
 scale = (1.5,1.5);
 },
 {
 alignment = -1;
 pos = (228,532);
-ref = _part.module.smnall;
+ref = _part.module.small;
 scale = (1.5,1.5);
 },
 {
 alignment = -1;
 pos = (26,532);
-ref = _part.module.smnall;
+ref = _part.module.small;
 scale = (1.5,1.5);
 },
 {
 alignment = -1;
 pos = (429,532);
-ref = _part.module.smnall;
+ref = _part.module.small;
 scale = (1.5,1.5);
 },
 {
 alignment = -1;
 pos = (530,532);
-ref = _part.module.smnall;
+ref = _part.module.small;
 scale = (1.5,1.5);
 },
 {
 alignment = -1;
 pos = (329,532);
-ref = _part.module.smnall;
+ref = _part.module.small;
 scale = (1.5,1.5);
 },
 {
 alignment = -1;
 pos = (128,640);
-ref = _part.module.smnall;
+ref = _part.module.small;
 scale = (1.5,1.5);
 },
 {
 alignment = -1;
 pos = (228,640);
-ref = _part.module.smnall;
+ref = _part.module.small;
 scale = (1.5,1.5);
 },
 {
 alignment = -1;
 pos = (26,640);
-ref = _part.module.smnall;
+ref = _part.module.small;
 scale = (1.5,1.5);
 },
 {
 alignment = -1;
 pos = (429,640);
-ref = _part.module.smnall;
+ref = _part.module.small;
 scale = (1.5,1.5);
 },
 {
 alignment = -1;
 pos = (530,640);
-ref = _part.module.smnall;
+ref = _part.module.small;
 scale = (1.5,1.5);
 },
 {
 alignment = -1;
 pos = (329,640);
-ref = _part.module.smnall;
+ref = _part.module.small;
 scale = (1.5,1.5);
 },
 {
 alignment = -1;
 pos = (128,748);
-ref = _part.module.smnall;
+ref = _part.module.small;
 scale = (1.5,1.5);
 },
 {
 alignment = -1;
 pos = (228,748);
-ref = _part.module.smnall;
+ref = _part.module.small;
 scale = (1.5,1.5);
 },
 {
 alignment = -1;
 pos = (26,748);
-ref = _part.module.smnall;
+ref = _part.module.small;
 scale = (1.5,1.5);
 },
 {
 alignment = -1;
 pos = (429,748);
-ref = _part.module.smnall;
+ref = _part.module.small;
 scale = (1.5,1.5);
 },
 {
 alignment = -1;
 pos = (530,748);
-ref = _part.module.smnall;
+ref = _part.module.small;
 scale = (1.5,1.5);
 },
 {
 alignment = -1;
 pos = (329,748);
-ref = _part.module.smnall;
+ref = _part.module.small;
 scale = (1.5,1.5);
 },
 {
 alignment = -1;
 pos = (128,856);
-ref = _part.module.smnall;
+ref = _part.module.small;
 scale = (1.5,1.5);
 },
 {
 alignment = -1;
 pos = (228,856);
-ref = _part.module.smnall;
+ref = _part.module.small;
 scale = (1.5,1.5);
 },
 {
 alignment = -1;
 pos = (26,856);
-ref = _part.module.smnall;
+ref = _part.module.small;
 scale = (1.5,1.5);
 },
 {
 alignment = -1;
 pos = (429,856);
-ref = _part.module.smnall;
+ref = _part.module.small;
 scale = (1.5,1.5);
 },
 {
 alignment = -1;
 pos = (530,856);
-ref = _part.module.smnall;
+ref = _part.module.small;
 scale = (1.5,1.5);
 },
 {
 alignment = -1;
 pos = (329,856);
-ref = _part.module.smnall;
+ref = _part.module.small;
 scale = (1.5,1.5);
 },
 {
 alignment = -1;
 pos = (128,964);
-ref = _part.module.smnall;
+ref = _part.module.small;
 scale = (1.5,1.5);
 },
 {
 alignment = -1;
 pos = (228,964);
-ref = _part.module.smnall;
+ref = _part.module.small;
 scale = (1.5,1.5);
 },
 {
 alignment = -1;
 pos = (26,964);
-ref = _part.module.smnall;
+ref = _part.module.small;
 scale = (1.5,1.5);
 },
 {
 alignment = -1;
 pos = (429,964);
-ref = _part.module.smnall;
+ref = _part.module.small;
 scale = (1.5,1.5);
 },
 {
 alignment = -1;
 pos = (530,964);
-ref = _part.module.smnall;
+ref = _part.module.small;
 scale = (1.5,1.5);
 },
 {
 alignment = -1;
 pos = (329,964);
-ref = _part.module.smnall;
+ref = _part.module.small;
 scale = (1.5,1.5);
 }
 );

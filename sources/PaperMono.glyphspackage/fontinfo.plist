@@ -1529,6 +1529,7 @@ tag = ss02;
 {
 automatic = 1;
 code = "sub space by space.ss03;
+sub nbspace by nbspace.ss03;
 ";
 labels = (
 {

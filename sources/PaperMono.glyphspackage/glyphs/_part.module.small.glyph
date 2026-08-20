@@ -1,6 +1,6 @@
 {
 export = 0;
-glyphname = _part.module.smnall;
+glyphname = _part.module.small;
 layers = (
 {
 background = {
