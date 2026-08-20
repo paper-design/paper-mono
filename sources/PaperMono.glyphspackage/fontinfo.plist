@@ -1,5 +1,5 @@
 {
-.appVersion = "3531";
+.appVersion = "3436";
 .formatVersion = 3;
 axes = (
 {
@@ -19,7 +19,7 @@ name = FIGURES;
 },
 {
 automatic = 1;
-code = "A Aacute Abreve Acaron Acircumflex Adieresis Agrave Amacron Aogonek Aring Atilde AE B C Cacute Ccaron Ccedilla Ccircumflex Cdotaccent D Dcaron Dcroat Eth E Eacute Ecaron Ecircumflex Edieresis Edotaccent Egrave Emacron Eogonek Etilde Schwa F G Gbreve Gcaron Gcircumflex Gcommaaccent Gdotaccent Gmacron Gstroke H Hbar Hcircumflex I IJ Iacute Icircumflex Idieresis Idotaccent Igrave Imacron Iogonek Itilde J Jacute Jcircumflex K Kcaron Kcommaaccent L Lacute Lcaron Lcommaaccent Lslash M N Nacute Ncaron Ncommaaccent Ntilde Eng O Oacute Ocircumflex Odieresis Ograve Ohungarumlaut Omacron Oslash Otilde OE P Thorn Q R Racute Rcaron Rcommaaccent S Sacute Scaron Scedilla Scircumflex Scommaaccent Germandbls T Tbar Tcaron Tcedilla Tcommaaccent U Uacute Ubreve Ucircumflex Udieresis Ugrave Uhungarumlaut Umacron Uogonek Uring Utilde V W Wacute Wcircumflex Wdieresis Wgrave X Y Yacute Ycircumflex Ydieresis Ygrave Ytilde Z Zacute Zcaron Zdotaccent Saltillo Lcommaaccent.loclMAH Ncommaaccent.loclMAH a aacute abreve acaron acircumflex adieresis agrave amacron aogonek aring atilde ae b c cacute ccaron ccedilla ccircumflex cdotaccent d dcaron dcroat eth e eacute ecaron ecircumflex edieresis edotaccent egrave emacron eogonek etilde schwa f g gbreve gcaron gcircumflex gcommaaccent gdotaccent gmacron gstroke h hbar hcircumflex i idotless iacute icircumflex idieresis idotaccent igrave imacron iogonek itilde ij j jdotless jacute jcircumflex k kcaron kcommaaccent l lacute lcaron lcommaaccent lslash m n nacute ncaron ncommaaccent ntilde eng o oacute ocircumflex odieresis ograve ohungarumlaut omacron oslash otilde oe p thorn q r racute rcaron rcommaaccent s sacute scaron scedilla scircumflex scommaaccent germandbls t tbar tcaron tcedilla tcommaaccent u uacute ubreve ucircumflex udieresis ugrave uhungarumlaut umacron uogonek uring utilde v w wacute wcircumflex wdieresis wgrave x y yacute ycircumflex ydieresis ygrave ytilde z zacute zcaron zdotaccent saltillo lcommaaccent.loclMAH ncommaaccent.loclMAH aacute.ss01 abreve.ss01 acaron.ss01 acircumflex.ss01 adieresis.ss01 agrave.ss01 amacron.ss01 aogonek.ss01 aring.ss01 atilde.ss01 a.ss02 aacute.ss02 abreve.ss02 acaron.ss02 acircumflex.ss02 adieresis.ss02 agrave.ss02 amacron.ss02 aogonek.ss02 aring.ss02 atilde.ss02 fi fl ordfeminine ordmasculine Lambda Omega lambda pi Ldot AE.ss02 M.ss02 OE.ss02 W.ss02 Wacute.ss02 Wcircumflex.ss02 Wdieresis.ss02 Wgrave.ss02 ldot ae.ss02 m.ss02 oe.ss02 w.ss02 wacute.ss02 wcircumflex.ss02 wdieresis.ss02 wgrave.ss02";
+code = "A Aacute Abreve Acaron Acircumflex Adieresis Agrave Amacron Aogonek Aring Atilde AE B C Cacute Ccaron Ccedilla Ccircumflex Cdotaccent D Dcaron Dcroat Eth E Eacute Ecaron Ecircumflex Edieresis Edotaccent Egrave Emacron Eogonek Etilde Schwa F G Gbreve Gcaron Gcircumflex Gcommaaccent Gdotaccent Gmacron Gstroke H Hbar Hcircumflex I IJ Iacute Icircumflex Idieresis Idotaccent Igrave Imacron Iogonek Itilde J Jacute Jcircumflex K Kcaron Kcommaaccent L Lacute Lcaron Lcommaaccent Lslash M N Nacute Ncaron Ncommaaccent Ntilde Eng O Oacute Ocircumflex Odieresis Ograve Ohungarumlaut Omacron Oslash Otilde OE P Thorn Q R Racute Rcaron Rcommaaccent S Sacute Scaron Scedilla Scircumflex Scommaaccent Germandbls T Tbar Tcaron Tcedilla Tcommaaccent U Uacute Ubreve Ucircumflex Udieresis Ugrave Uhungarumlaut Umacron Uogonek Uring Utilde V W Wacute Wcircumflex Wdieresis Wgrave X Y Yacute Ycircumflex Ydieresis Ygrave Ytilde Z Zacute Zcaron Zdotaccent Saltillo Lcommaaccent.loclMAH Ncommaaccent.loclMAH a aacute abreve acaron acircumflex adieresis agrave amacron aogonek aring atilde ae b c cacute ccaron ccedilla ccircumflex cdotaccent d dcaron dcroat eth e eacute ecaron ecircumflex edieresis edotaccent egrave emacron eogonek etilde schwa f g gbreve gcaron gcircumflex gcommaaccent gdotaccent gmacron gstroke h hbar hcircumflex i idotless iacute icircumflex idieresis idotaccent igrave imacron iogonek itilde ij j jdotless jacute jcircumflex k kcaron kcommaaccent l lacute lcaron lcommaaccent lslash m n nacute ncaron ncommaaccent ntilde eng o oacute ocircumflex odieresis ograve ohungarumlaut omacron oslash otilde oe p thorn q r racute rcaron rcommaaccent s sacute scaron scedilla scircumflex scommaaccent germandbls t tbar tcaron tcedilla tcommaaccent u uacute ubreve ucircumflex udieresis ugrave uhungarumlaut umacron uogonek uring utilde v w wacute wcircumflex wdieresis wgrave x y yacute ycircumflex ydieresis ygrave ytilde z zacute zcaron zdotaccent saltillo lcommaaccent.loclMAH ncommaaccent.loclMAH fi fl ordfeminine ordmasculine Lambda Omega lambda pi Ldot AE.ss02 M.ss02 OE.ss02 W.ss02 Wacute.ss02 Wcircumflex.ss02 Wdieresis.ss02 Wgrave.ss02 ldot a.cv01 aacute.cv01 abreve.cv01 acaron.cv01 acircumflex.cv01 adieresis.cv01 agrave.cv01 amacron.cv01 aogonek.cv01 aring.cv01 atilde.cv01 ae.ss02 m.ss02 oe.ss02 w.ss02 wacute.ss02 wcircumflex.ss02 wdieresis.ss02 wgrave.ss02";
 name = AllLetters;
 }
 );
@@ -712,23 +712,7 @@ name = Languagesystems;
 );
 features = (
 {
-automatic = 1;
-code = "feature locl;
-feature subs;
-feature sinf;
-feature sups;
-feature numr;
-feature dnom;
-feature frac;
-feature ordn;
-feature case;
-feature ss01;
-feature ss02;
-feature ss03;
-feature ss04;
-feature zero;
-feature ss07;
-";
+code = "";
 tag = aalt;
 },
 {
@@ -935,8 +919,9 @@ sub slashlongcomb by slashlongcomb.case;
 tag = case;
 },
 {
-code = "sub apple P a' p e r by a.ss02;
-sub apple space P a' p e r by a.ss02;";
+code = "sub apple P a' p e r by a.cv01;
+sub apple space P a' p e r by a.cv01;
+";
 tag = calt;
 },
 {
@@ -1001,24 +986,18 @@ tag = liga;
 },
 {
 automatic = 1;
-code = "sub a by a.ss02;
-sub aacute by aacute.ss02;
-sub abreve by abreve.ss02;
-sub acaron by acaron.ss02;
-sub acircumflex by acircumflex.ss02;
-sub adieresis by adieresis.ss02;
-sub agrave by agrave.ss02;
-sub amacron by amacron.ss02;
-sub aogonek by aogonek.ss02;
-sub aring by aring.ss02;
-sub atilde by atilde.ss02;
+code = "sub a by a.cv01;
+sub aacute by aacute.cv01;
+sub abreve by abreve.cv01;
+sub acaron by acaron.cv01;
+sub acircumflex by acircumflex.cv01;
+sub adieresis by adieresis.cv01;
+sub agrave by agrave.cv01;
+sub amacron by amacron.cv01;
+sub aogonek by aogonek.cv01;
+sub aring by aring.cv01;
+sub atilde by atilde.cv01;
 ";
-labels = (
-{
-language = dflt;
-value = "Alternative single storey a";
-}
-);
 tag = cv01;
 },
 {
@@ -1499,18 +1478,7 @@ tag = ss01;
 },
 {
 automatic = 1;
-code = "sub a by a.ss02;
-sub aacute by aacute.ss02;
-sub abreve by abreve.ss02;
-sub acaron by acaron.ss02;
-sub acircumflex by acircumflex.ss02;
-sub adieresis by adieresis.ss02;
-sub agrave by agrave.ss02;
-sub amacron by amacron.ss02;
-sub aogonek by aogonek.ss02;
-sub aring by aring.ss02;
-sub atilde by atilde.ss02;
-sub AE by AE.ss02;
+code = "sub AE by AE.ss02;
 sub M by M.ss02;
 sub OE by OE.ss02;
 sub W by W.ss02;
