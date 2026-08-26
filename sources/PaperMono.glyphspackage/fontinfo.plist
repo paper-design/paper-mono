@@ -1723,25 +1723,25 @@ sub greater' greater equal by SPC;
 
 # =>
 lookup equal_greater.liga {
-sub SPC greater' by equal_greater.liga;
 ignore sub less equal' greater;
 ignore sub equal' greater greater;
+sub SPC greater' by equal_greater.liga;
 sub equal' greater by SPC;
 } equal_greater.liga;
 
 # <<
 lookup less_less.liga {
-sub SPC less' by less_less.liga;
 ignore sub less' less equal;
 ignore sub equal less' less;
+sub SPC less' by less_less.liga;
 sub less' less by SPC;
 } less_less.liga;
 
 # >>
 lookup greater_greater.liga {
-sub SPC greater' by greater_greater.liga;
 ignore sub equal greater' greater;
 ignore sub greater' greater equal;
+sub SPC greater' by greater_greater.liga;
 sub greater' greater by SPC;
 } greater_greater.liga;
 
