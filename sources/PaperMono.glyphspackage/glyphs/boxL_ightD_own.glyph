@@ -1,0 +1,51 @@
+{
+glyphname = boxLightDown;
+layers = (
+{
+layerId = "2B4B7FDD-7E66-4143-AA8B-CAF759C636CA";
+shapes = (
+{
+closed = 1;
+nodes = (
+(346,-265,l),
+(346,398,l),
+(260,398,l),
+(260,-265,l)
+);
+}
+);
+width = 606;
+},
+{
+layerId = "742FEEFA-C05E-41BB-8475-8B252540AEF7";
+shapes = (
+{
+closed = 1;
+nodes = (
+(318,-265,l),
+(318,370,l),
+(288,370,l),
+(288,-265,l)
+);
+}
+);
+width = 606;
+},
+{
+layerId = m003;
+shapes = (
+{
+closed = 1;
+nodes = (
+(383,-265,l),
+(383,435,l),
+(223,435,l),
+(223,-265,l)
+);
+}
+);
+width = 606;
+}
+);
+unicode = 9591;
+}

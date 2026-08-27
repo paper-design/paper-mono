@@ -26,7 +26,7 @@ pos = (106,-2);
 ref = acutecomb.case;
 }
 );
-width = 605;
+width = 606;
 },
 {
 anchors = (
@@ -52,7 +52,7 @@ pos = (48,-2);
 ref = acutecomb.case;
 }
 );
-width = 605;
+width = 606;
 },
 {
 anchors = (
@@ -78,7 +78,7 @@ pos = (70,-2);
 ref = acutecomb.case;
 }
 );
-width = 605;
+width = 606;
 }
 );
 }

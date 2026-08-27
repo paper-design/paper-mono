@@ -1,0 +1,2814 @@
+{
+glyphname = shadedark;
+layers = (
+{
+layerId = "2B4B7FDD-7E66-4143-AA8B-CAF759C636CA";
+shapes = (
+{
+alignment = -1;
+pos = (578,-13);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (278,-13);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (378,-13);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (178,-13);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (478,-13);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (78,-13);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (578,41);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (278,41);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (378,41);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (178,41);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (478,41);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (78,41);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (528,41);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (428,41);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (328,41);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (228,41);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (28,41);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (128,41);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (528,95);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (428,95);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (328,95);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (228,95);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (28,95);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (128,95);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (578,149);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (278,149);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (378,149);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (178,149);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (478,149);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (78,149);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (528,149);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (428,149);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (328,149);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (228,149);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (28,149);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (128,149);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (578,203);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (278,203);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (378,203);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (178,203);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (478,203);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (78,203);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (578,257);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (278,257);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (378,257);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (178,257);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (478,257);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (78,257);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (528,257);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (428,257);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (328,257);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (228,257);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (28,257);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (128,257);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (528,311);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (428,311);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (328,311);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (228,311);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (28,311);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (128,311);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (578,365);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (278,365);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (378,365);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (178,365);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (478,365);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (78,365);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (528,365);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (428,365);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (328,365);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (228,365);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (28,365);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (128,365);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (578,419);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (278,419);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (378,419);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (178,419);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (478,419);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (78,419);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (578,473);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (278,473);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (378,473);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (178,473);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (478,473);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (78,473);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (528,473);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (428,473);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (328,473);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (228,473);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (28,473);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (128,473);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (528,527);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (428,527);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (328,527);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (228,527);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (28,527);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (128,527);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (578,581);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (278,581);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (378,581);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (178,581);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (478,581);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (78,581);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (528,581);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (428,581);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (328,581);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (228,581);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (28,581);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (128,581);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (278,635);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (178,635);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (78,635);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (578,635);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (478,635);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (378,635);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (578,689);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (278,689);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (378,689);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (178,689);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (478,689);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (78,689);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (528,689);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (428,689);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (328,689);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (228,689);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (28,689);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (128,689);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (528,743);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (428,743);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (328,743);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (228,743);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (28,743);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (128,743);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (578,797);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (278,797);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (378,797);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (178,797);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (478,797);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (78,797);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (528,797);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (428,797);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (328,797);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (228,797);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (28,797);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (128,797);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (578,851);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (278,851);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (378,851);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (178,851);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (478,851);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (78,851);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (578,905);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (278,905);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (378,905);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (178,905);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (478,905);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (78,905);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (528,905);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (428,905);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (328,905);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (228,905);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (28,905);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (128,905);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (528,959);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (428,959);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (328,959);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (228,959);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (28,959);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (128,959);
+ref = _part.module.small;
+},
+{
+closed = 1;
+nodes = (
+(603,-158,l),
+(606,-158,l),
+(606,-50,l),
+(603,-50,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(603,4,l),
+(606,4,l),
+(606,166,l),
+(603,166,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(603,220,l),
+(606,220,l),
+(606,382,l),
+(603,382,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(603,436,l),
+(606,436,l),
+(606,598,l),
+(603,598,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(603,652,l),
+(606,652,l),
+(606,814,l),
+(603,814,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(0,-104,l),
+(3,-104,l),
+(3,58,l),
+(0,58,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(0,112,l),
+(3,112,l),
+(3,274,l),
+(0,274,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(0,328,l),
+(3,328,l),
+(3,490,l),
+(0,490,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(0,544,l),
+(3,544,l),
+(3,706,l),
+(0,706,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(0,760,l),
+(3,760,l),
+(3,868,l),
+(0,868,l)
+);
+}
+);
+width = 606;
+},
+{
+layerId = "742FEEFA-C05E-41BB-8475-8B252540AEF7";
+shapes = (
+{
+alignment = -1;
+pos = (578,-13);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (278,-13);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (378,-13);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (178,-13);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (478,-13);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (78,-13);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (578,41);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (278,41);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (378,41);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (178,41);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (478,41);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (78,41);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (528,41);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (428,41);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (328,41);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (228,41);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (28,41);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (128,41);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (528,95);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (428,95);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (328,95);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (228,95);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (28,95);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (128,95);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (578,149);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (278,149);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (378,149);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (178,149);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (478,149);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (78,149);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (528,149);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (428,149);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (328,149);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (228,149);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (28,149);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (128,149);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (578,203);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (278,203);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (378,203);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (178,203);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (478,203);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (78,203);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (578,257);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (278,257);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (378,257);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (178,257);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (478,257);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (78,257);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (528,257);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (428,257);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (328,257);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (228,257);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (28,257);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (128,257);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (528,311);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (428,311);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (328,311);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (228,311);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (28,311);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (128,311);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (578,365);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (278,365);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (378,365);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (178,365);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (478,365);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (78,365);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (528,365);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (428,365);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (328,365);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (228,365);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (28,365);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (128,365);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (578,419);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (278,419);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (378,419);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (178,419);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (478,419);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (78,419);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (578,473);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (278,473);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (378,473);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (178,473);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (478,473);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (78,473);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (528,473);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (428,473);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (328,473);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (228,473);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (28,473);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (128,473);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (528,527);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (428,527);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (328,527);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (228,527);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (28,527);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (128,527);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (578,581);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (278,581);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (378,581);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (178,581);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (478,581);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (78,581);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (528,581);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (428,581);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (328,581);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (228,581);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (28,581);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (128,581);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (278,635);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (178,635);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (78,635);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (578,635);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (478,635);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (378,635);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (578,689);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (278,689);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (378,689);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (178,689);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (478,689);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (78,689);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (528,689);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (428,689);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (328,689);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (228,689);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (28,689);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (128,689);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (528,743);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (428,743);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (328,743);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (228,743);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (28,743);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (128,743);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (578,797);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (278,797);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (378,797);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (178,797);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (478,797);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (78,797);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (528,797);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (428,797);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (328,797);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (228,797);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (28,797);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (128,797);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (578,851);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (278,851);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (378,851);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (178,851);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (478,851);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (78,851);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (578,905);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (278,905);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (378,905);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (178,905);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (478,905);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (78,905);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (528,905);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (428,905);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (328,905);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (228,905);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (28,905);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (128,905);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (528,959);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (428,959);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (328,959);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (228,959);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (28,959);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (128,959);
+ref = _part.module.small;
+},
+{
+closed = 1;
+nodes = (
+(603,-158,l),
+(606,-158,l),
+(606,-50,l),
+(603,-50,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(603,4,l),
+(606,4,l),
+(606,166,l),
+(603,166,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(603,220,l),
+(606,220,l),
+(606,382,l),
+(603,382,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(603,436,l),
+(606,436,l),
+(606,598,l),
+(603,598,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(603,652,l),
+(606,652,l),
+(606,814,l),
+(603,814,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(0,-104,l),
+(3,-104,l),
+(3,58,l),
+(0,58,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(0,112,l),
+(3,112,l),
+(3,274,l),
+(0,274,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(0,328,l),
+(3,328,l),
+(3,490,l),
+(0,490,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(0,544,l),
+(3,544,l),
+(3,706,l),
+(0,706,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(0,760,l),
+(3,760,l),
+(3,868,l),
+(0,868,l)
+);
+}
+);
+width = 606;
+},
+{
+layerId = m003;
+shapes = (
+{
+alignment = -1;
+pos = (578,-13);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (278,-13);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (378,-13);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (178,-13);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (478,-13);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (78,-13);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (578,41);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (278,41);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (378,41);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (178,41);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (478,41);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (78,41);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (528,41);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (428,41);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (328,41);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (228,41);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (28,41);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (128,41);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (528,95);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (428,95);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (328,95);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (228,95);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (28,95);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (128,95);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (578,149);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (278,149);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (378,149);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (178,149);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (478,149);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (78,149);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (528,149);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (428,149);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (328,149);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (228,149);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (28,149);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (128,149);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (578,203);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (278,203);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (378,203);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (178,203);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (478,203);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (78,203);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (578,257);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (278,257);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (378,257);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (178,257);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (478,257);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (78,257);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (528,257);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (428,257);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (328,257);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (228,257);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (28,257);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (128,257);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (528,311);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (428,311);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (328,311);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (228,311);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (28,311);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (128,311);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (578,365);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (278,365);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (378,365);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (178,365);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (478,365);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (78,365);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (528,365);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (428,365);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (328,365);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (228,365);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (28,365);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (128,365);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (578,419);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (278,419);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (378,419);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (178,419);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (478,419);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (78,419);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (578,473);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (278,473);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (378,473);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (178,473);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (478,473);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (78,473);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (528,473);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (428,473);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (328,473);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (228,473);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (28,473);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (128,473);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (528,527);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (428,527);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (328,527);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (228,527);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (28,527);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (128,527);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (578,581);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (278,581);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (378,581);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (178,581);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (478,581);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (78,581);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (528,581);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (428,581);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (328,581);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (228,581);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (28,581);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (128,581);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (278,635);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (178,635);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (78,635);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (578,635);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (478,635);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (378,635);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (578,689);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (278,689);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (378,689);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (178,689);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (478,689);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (78,689);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (528,689);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (428,689);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (328,689);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (228,689);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (28,689);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (128,689);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (528,743);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (428,743);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (328,743);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (228,743);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (28,743);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (128,743);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (578,797);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (278,797);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (378,797);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (178,797);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (478,797);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (78,797);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (528,797);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (428,797);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (328,797);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (228,797);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (28,797);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (128,797);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (578,851);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (278,851);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (378,851);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (178,851);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (478,851);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (78,851);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (578,905);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (278,905);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (378,905);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (178,905);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (478,905);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (78,905);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (528,905);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (428,905);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (328,905);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (228,905);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (28,905);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (128,905);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (528,959);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (428,959);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (328,959);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (228,959);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (28,959);
+ref = _part.module.small;
+},
+{
+alignment = -1;
+pos = (128,959);
+ref = _part.module.small;
+},
+{
+closed = 1;
+nodes = (
+(603,-158,l),
+(606,-158,l),
+(606,-50,l),
+(603,-50,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(603,4,l),
+(606,4,l),
+(606,166,l),
+(603,166,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(603,220,l),
+(606,220,l),
+(606,382,l),
+(603,382,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(603,436,l),
+(606,436,l),
+(606,598,l),
+(603,598,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(603,652,l),
+(606,652,l),
+(606,814,l),
+(603,814,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(0,-104,l),
+(3,-104,l),
+(3,58,l),
+(0,58,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(0,112,l),
+(3,112,l),
+(3,274,l),
+(0,274,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(0,328,l),
+(3,328,l),
+(3,490,l),
+(0,490,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(0,544,l),
+(3,544,l),
+(3,706,l),
+(0,706,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(0,760,l),
+(3,760,l),
+(3,868,l),
+(0,868,l)
+);
+}
+);
+width = 606;
+}
+);
+unicode = 9619;
+}

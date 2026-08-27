@@ -8,14 +8,14 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(387,392,l),
-(387,747,l),
+(388,392,l),
+(388,747,l),
 (218,747,l),
 (218,392,l)
 );
 }
 );
-width = 605;
+width = 606;
 },
 {
 layerId = "742FEEFA-C05E-41BB-8475-8B252540AEF7";
@@ -30,7 +30,7 @@ nodes = (
 );
 }
 );
-width = 605;
+width = 606;
 },
 {
 layerId = "2B4B7FDD-7E66-4143-AA8B-CAF759C636CA";
@@ -45,7 +45,7 @@ nodes = (
 );
 }
 );
-width = 605;
+width = 606;
 }
 );
 unicode = 39;

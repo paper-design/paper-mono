@@ -20,7 +20,7 @@ alignment = -1;
 ref = commaaccentcomb;
 }
 );
-width = 605;
+width = 606;
 },
 {
 anchors = (
@@ -40,7 +40,7 @@ alignment = -1;
 ref = commaaccentcomb;
 }
 );
-width = 605;
+width = 606;
 },
 {
 anchors = (
@@ -60,7 +60,7 @@ alignment = -1;
 ref = commaaccentcomb;
 }
 );
-width = 605;
+width = 606;
 }
 );
 }

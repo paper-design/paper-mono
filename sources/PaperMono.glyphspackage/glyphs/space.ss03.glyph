@@ -8,11 +8,12 @@ width = 454;
 },
 {
 layerId = m003;
-width = 605;
+width = 454;
 },
 {
 layerId = "742FEEFA-C05E-41BB-8475-8B252540AEF7";
-width = 605;
+width = 454;
 }
 );
+metricWidth = "=454";
 }

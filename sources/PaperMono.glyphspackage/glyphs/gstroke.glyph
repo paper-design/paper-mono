@@ -20,7 +20,7 @@ pos = (-12,0);
 ref = g;
 }
 );
-width = 605;
+width = 606;
 },
 {
 layerId = "742FEEFA-C05E-41BB-8475-8B252540AEF7";
@@ -40,7 +40,7 @@ pos = (4,0);
 ref = g;
 }
 );
-width = 605;
+width = 606;
 },
 {
 layerId = "2B4B7FDD-7E66-4143-AA8B-CAF759C636CA";
@@ -48,8 +48,8 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(577,235,l),
-(577,304,l),
+(578,235,l),
+(578,304,l),
 (281,304,l),
 (281,235,l)
 );
@@ -60,7 +60,7 @@ pos = (-1,0);
 ref = g;
 }
 );
-width = 605;
+width = 606;
 }
 );
 unicode = 485;
