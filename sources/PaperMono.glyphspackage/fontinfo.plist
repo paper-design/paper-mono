@@ -1,5 +1,5 @@
 {
-.appVersion = "3436";
+.appVersion = "3532";
 .formatVersion = 3;
 axes = (
 {
@@ -1880,6 +1880,14 @@ pos = (-1135,156);
 },
 {
 pos = (-1135,424);
+},
+{
+angle = 90;
+pos = (86,254);
+},
+{
+angle = 90;
+pos = (492,0);
 }
 );
 iconName = Light;
@@ -1977,6 +1985,14 @@ pos = (-1112,482);
 },
 {
 pos = (-1112,206);
+},
+{
+angle = 90;
+pos = (506,0);
+},
+{
+angle = 90;
+pos = (70,254);
 }
 );
 id = "2B4B7FDD-7E66-4143-AA8B-CAF759C636CA";
@@ -2073,6 +2089,14 @@ pos = (-1112,369);
 },
 {
 pos = (-1112,509);
+},
+{
+angle = 90;
+pos = (50,254);
+},
+{
+angle = 90;
+pos = (524,0);
 }
 );
 iconName = Bold;
@@ -4669,5 +4693,5 @@ O,
 };
 };
 versionMajor = 0;
-versionMinor = 320;
+versionMinor = 322;
 }
