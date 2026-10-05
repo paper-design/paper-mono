@@ -2147,16 +2147,6 @@ GSCornerRadius = 30;
 );
 instances = (
 {
-name = Regular;
-properties = (
-{
-key = variationsPostScriptNamePrefix;
-value = MyPrefix;
-}
-);
-type = variable;
-},
-{
 axesValues = (
 30
 );
