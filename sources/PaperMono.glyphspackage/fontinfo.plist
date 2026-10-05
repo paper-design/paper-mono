@@ -1241,8 +1241,20 @@ disabled = 1;
 tag = liga;
 },
 {
-automatic = 1;
-code = "sub a by a.cv01;
+code = "cvParameters {
+    FeatUILabelNameID {
+        name \"Single-story a\";
+    };
+    FeatUITooltipTextNameID {
+        name \"Alternative single-story a\";
+    };
+    SampleTextNameID {
+        name \"Paper\";
+    };
+    Character 0x61;
+};
+
+sub a by a.cv01;
 sub aacute by aacute.cv01;
 sub abreve by abreve.cv01;
 sub acaron by acaron.cv01;
