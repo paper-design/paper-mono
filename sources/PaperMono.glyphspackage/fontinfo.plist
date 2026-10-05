@@ -1888,6 +1888,9 @@ pos = (86,254);
 {
 angle = 90;
 pos = (492,0);
+},
+{
+pos = (272,304);
 }
 );
 iconName = Light;
@@ -1993,6 +1996,9 @@ pos = (506,0);
 {
 angle = 90;
 pos = (70,254);
+},
+{
+pos = (272,304);
 }
 );
 id = "2B4B7FDD-7E66-4143-AA8B-CAF759C636CA";
@@ -2097,6 +2103,9 @@ pos = (50,254);
 {
 angle = 90;
 pos = (524,0);
+},
+{
+pos = (272,304);
 }
 );
 iconName = Bold;
@@ -2137,6 +2146,16 @@ GSCornerRadius = 30;
 }
 );
 instances = (
+{
+name = Regular;
+properties = (
+{
+key = variationsPostScriptNamePrefix;
+value = MyPrefix;
+}
+);
+type = variable;
+},
 {
 axesValues = (
 30
