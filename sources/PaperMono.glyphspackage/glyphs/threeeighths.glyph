@@ -8,7 +8,7 @@ shapes = (
 {
 alignment = -1;
 pos = (-152,0);
-ref = five.numr;
+ref = three.numr;
 },
 {
 alignment = -1;
@@ -28,7 +28,7 @@ shapes = (
 {
 alignment = -1;
 pos = (-142,0);
-ref = five.numr;
+ref = three.numr;
 },
 {
 alignment = -1;
@@ -48,7 +48,7 @@ shapes = (
 {
 alignment = -1;
 pos = (-146,0);
-ref = five.numr;
+ref = three.numr;
 },
 {
 alignment = -1;

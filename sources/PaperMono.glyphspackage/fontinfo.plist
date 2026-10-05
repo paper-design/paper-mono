@@ -925,7 +925,7 @@ tag = slng;
 );
 }
 );
-date = "2026-07-22 18:18:45 +0000";
+date = "2026-10-05 20:22:17 +0000";
 familyName = "Paper Mono";
 featurePrefixes = (
 {
@@ -1134,7 +1134,7 @@ tag = dnom;
 {
 code = "sub one [fraction slash] two by onehalf;
 sub one [fraction slash] three by onethird;
-sub two slash three by twothirds;
+sub two [fraction slash] three by twothirds;
 sub one [fraction slash] four by onequarter;
 sub three [fraction slash] four by threequarters;
 sub one [fraction slash] five by onefifth;
@@ -1811,7 +1811,7 @@ sub upDownArrow by upDownArrow.ss04;
 labels = (
 {
 language = dflt;
-value = "Alt arrows";
+value = "Small arrows";
 }
 );
 tag = ss04;
@@ -2365,7 +2365,7 @@ key = designers;
 values = (
 {
 language = dflt;
-value = "Guido Ferreyra, Javier Quintana Godoy";
+value = "Guido Ferreyra, Javier Quintana Godoy, Vladyslav Moroz";
 }
 );
 },
@@ -2387,13 +2387,13 @@ key = manufacturers;
 values = (
 {
 language = dflt;
-value = "Guido Ferreyra, Javier Quintana Godoy, Paper";
+value = "Paper Design";
 }
 );
 },
 {
 key = manufacturerURL;
-value = "https://www.tipografia.com.ar";
+value = "https://paper.design";
 },
 {
 key = vendorID;
