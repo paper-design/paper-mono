@@ -276,13 +276,13 @@ you're checking.</p>
         <h2>Summary</h2>
     <table>
     <tr>
-        <th>🔥 FAIL</th><th>⚠️ WARN</th><th>ℹ️ INFO</th><th>✅ PASS</th><th>⏩ SKIP</th>
+        <th>⚠️ WARN</th><th>ℹ️ INFO</th><th>✅ PASS</th><th>⏩ SKIP</th>
     </tr>
     <tr>
-        <td>5 </td> <td>15 </td> <td>7 </td> <td>90 </td> <td>66 </td> 
+        <td>14 </td> <td>8 </td> <td>111 </td> <td>49 </td> 
     </tr>
     <tr>
-        <td>3%</td> <td>8%</td> <td>4%</td> <td>50%</td> <td>37%</td> 
+        <td>8%</td> <td>4%</td> <td>62%</td> <td>27%</td> 
     </tr>
 </table>
 
@@ -381,8 +381,8 @@ immediately.
     
         <details>
             <summary>
-                🔥
-                PaperMono-Regular.ttf
+                ⚠️
+                PaperMono[wght].ttf
                 
             </summary>
             <div>
@@ -396,7 +396,7 @@ immediately.
 
                             <span class='details_text'>
                                 
-                                    <p>The OpenType spec recommends at <a href="https://learn.microsoft.com/en-us/typography/opentype/spec/recom#hhea-table">https://learn.microsoft.com/en-us/typography/opentype/spec/recom#hhea-table</a> that hhea.numberOfHMetrics be set to 3 but this font has 548 instead.
+                                    <p>The OpenType spec recommends at <a href="https://learn.microsoft.com/en-us/typography/opentype/spec/recom#hhea-table">https://learn.microsoft.com/en-us/typography/opentype/spec/recom#hhea-table</a> that hhea.numberOfHMetrics be set to 3 but this font has 799 instead.
 Please read <a href="https://github.com/fonttools/fonttools/issues/3014">https://github.com/fonttools/fonttools/issues/3014</a> to decide whether this makes sense for your font.</p>
                                 
                                 
@@ -409,15 +409,58 @@ Please read <a href="https://github.com/fonttools/fonttools/issues/3014">https:/
                 
                         <li class='details_item'>
                             <span class='details_indicator'>
-                            🔥 FAIL
+                            ⚠️ WARN
                             </span>
 
                             <span class='details_text'>
                                 
-                                    <p>The PANOSE numbers are incorrect for a monospaced font.</p>
+                                    <p>Font is monospaced (common width = 606) but 41 glyphs (5.12%) have a different width. You should check the widths of:</p>
+<ul>
+<li>uniF8FF (417), width: 758</li>
+<li>uni21E4 (482), width: 758</li>
+<li>uni21E5 (483), width: 758</li>
+<li>uni21A9 (484), width: 758</li>
+<li>uni21AA (485), width: 758</li>
+<li>uni21B0 (486), width: 758</li>
+<li>uni21B1 (487), width: 758</li>
+<li>uni21B3 (488), width: 758</li>
+<li>uni21B4 (489), width: 758</li>
+<li>carriagereturn (490), width: 758</li>
+<li>uni21E7 (491), width: 758</li>
+<li>uni21B9 (492), width: 758</li>
+<li>uni21C6 (493), width: 758</li>
+<li>AE.ss02 (608), width: 758</li>
+<li>M.ss02 (609), width: 758</li>
+<li>OE.ss02 (610), width: 758</li>
+<li>W.ss02 (611), width: 758</li>
+<li>Wacute.ss02 (612), width: 758</li>
+<li>Wcircumflex.ss02 (613), width: 758</li>
+<li>Wdieresis.ss02 (614), width: 758</li>
+<li>Wgrave.ss02 (615), width: 758</li>
+<li>ae.ss02 (616), width: 758</li>
+<li>m.ss02 (617), width: 758</li>
+<li>oe.ss02 (618), width: 758</li>
+<li>w.ss02 (619), width: 758</li>
+<li>wacute.ss02 (620), width: 758</li>
+<li>wcircumflex.ss02 (621), width: 758</li>
+<li>wdieresis.ss02 (622), width: 758</li>
+<li>wgrave.ss02 (623), width: 758</li>
+<li>space.ss03 (624), width: 454</li>
+<li>uni00A0.ss03 (625), width: 454</li>
+<li>uni238B (786), width: 758</li>
+<li>uni2303 (787), width: 758</li>
+<li>uni21EA (788), width: 758</li>
+<li>uni2327 (789), width: 758</li>
+<li>uni232B (790), width: 758</li>
+<li>uni2326 (791), width: 758</li>
+<li>uni2325 (792), width: 758</li>
+<li>uni2318 (793), width: 758</li>
+<li>uni23CE (794), width: 758</li>
+<li>openbullet (797), width: 600</li>
+</ul>
                                 
                                 
-                                     [code: mono-bad-panose]
+                                     [code: mono-outliers]
                                 
                             </span>
                         </li>
@@ -491,7 +534,7 @@ Please read <a href="https://github.com/fonttools/fonttools/issues/3014">https:/
         <details>
             <summary>
                 ⚠️
-                PaperMono-Regular.ttf
+                PaperMono[wght].ttf
                 
             </summary>
             <div>
@@ -537,8 +580,24 @@ Please read <a href="https://github.com/fonttools/fonttools/issues/3014">https:/
     
 
     
-        <h3>Check if each glyph has the recommended amount of contours.</h3>
-<div class='check__idlabel'>Check ID: contour_count</div>
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+        <h3>Does GPOS table have kerning information?</h3>
+<div class='check__idlabel'>Check ID: gpos_kerning_info</div>
 
 <div class="rationale">
     
@@ -550,7 +609,7 @@ Please read <a href="https://github.com/fonttools/fonttools/issues/3014">https:/
         <details>
             <summary>
                 ⚠️
-                PaperMono-Regular.ttf
+                PaperMono[wght].ttf
                 
             </summary>
             <div>
@@ -564,22 +623,10 @@ Please read <a href="https://github.com/fonttools/fonttools/issues/3014">https:/
 
                             <span class='details_text'>
                                 
-                                    <p>This check inspects the glyph outlines and detects the total number of contours in each of them. The expected values are
-inferred from the typical amounts of contours observed in a
-large collection of reference font families. The divergences
-listed below may simply indicate a significantly different
-design on some of your glyphs. On the other hand, some of these
-may flag actual bugs in the font such as glyphs mapped to an
-incorrect codepoint. Please consider reviewing the design and
-codepoint assignment of these to make sure they are correct.</p>
-<pre><code>The following glyphs do not have the recommended number of contours:
-</code></pre>
-<ul>
-<li>fraction (U+2044): found 2, expected one of: {1}</li>
-</ul>
+                                    <p>GPOS table lacks kerning information.</p>
                                 
                                 
-                                     [code: contour-count]
+                                     [code: lacks-kern-info]
                                 
                             </span>
                         </li>
@@ -590,22 +637,6 @@ codepoint assignment of these to make sure they are correct.</p>
         </details>
     
 
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
 
     
 
@@ -683,7 +714,7 @@ codepoint assignment of these to make sure they are correct.</p>
         <details>
             <summary>
                 ⚠️
-                PaperMono-Regular.ttf
+                PaperMono[wght].ttf
                 
             </summary>
             <div>
@@ -720,6 +751,49 @@ codepoint assignment of these to make sure they are correct.</p>
     
 
     
+
+    
+        <h3>Glyph names are all valid?</h3>
+<div class='check__idlabel'>Check ID: valid_glyphnames</div>
+
+<div class="rationale">
+    
+
+</div>
+
+
+    
+        <details>
+            <summary>
+                ⚠️
+                PaperMono[wght].ttf
+                
+            </summary>
+            <div>
+                <ul>
+                
+                
+                        <li class='details_item'>
+                            <span class='details_indicator'>
+                            ⚠️ WARN
+                            </span>
+
+                            <span class='details_text'>
+                                
+                                    <p>The following glyph names are too long: &quot;asciitilde_asciitilde_greater.liga&quot;</p>
+                                
+                                
+                                     [code: legacy-long-names]
+                                
+                            </span>
+                        </li>
+                
+                
+                </ul>
+            </div>
+        </details>
+    
+
 
     
 
@@ -775,7 +849,7 @@ codepoint assignment of these to make sure they are correct.</p>
         <details>
             <summary>
                 ⚠️
-                ttf
+                variable
                 
             </summary>
             <div>
@@ -789,26 +863,26 @@ codepoint assignment of these to make sure they are correct.</p>
 
                             <span class='details_text'>
                                 
-                                    <p>fonts/ttf/PaperMono-Regular.ttf: The following codepoints supported by the font are not covered by any subsets defined in the font's metadata file, and will never be served. You can solve this by either manually adding additional subset declarations to METADATA.pb, or by editing the glyphset definitions.</p>
+                                    <p>fonts/variable/PaperMono[wght].ttf: The following codepoints supported by the font are not covered by any subsets defined in the font's metadata file, and will never be served. You can solve this by either manually adding additional subset declarations to METADATA.pb, or by editing the glyphset definitions.</p>
 <ul>
-<li>U+02D8 BREVE: try adding one of: canadian-aboriginal, yi</li>
+<li>U+02D8 BREVE: try adding one of: yi, canadian-aboriginal</li>
 <li>U+02D9 DOT ABOVE: try adding one of: canadian-aboriginal, yi</li>
 <li>U+02DB OGONEK: try adding one of: canadian-aboriginal, yi</li>
-<li>U+0302 COMBINING CIRCUMFLEX ACCENT: try adding one of: tifinagh, coptic, math, cherokee</li>
-<li>U+0306 COMBINING BREVE: try adding one of: old-permic, tifinagh</li>
-<li>U+0307 COMBINING DOT ABOVE: try adding one of: todhri, hebrew, old-permic, syriac, tifinagh, malayalam, duployan, coptic, math, tai-le, canadian-aboriginal</li>
-<li>U+030A COMBINING RING ABOVE: try adding one of: syriac, duployan</li>
-<li>U+030B COMBINING DOUBLE ACUTE ACCENT: try adding one of: osage, cherokee</li>
-<li>U+030C COMBINING CARON: try adding one of: tai-le, cherokee</li>
+<li>U+0302 COMBINING CIRCUMFLEX ACCENT: try adding one of: cherokee, tifinagh, coptic, math</li>
+<li>U+0306 COMBINING BREVE: try adding one of: tifinagh, old-permic</li>
+<li>U+0307 COMBINING DOT ABOVE: try adding one of: coptic, canadian-aboriginal, duployan, hebrew, todhri, syriac, tai-le, malayalam, old-permic, math, tifinagh</li>
+<li>U+030A COMBINING RING ABOVE: try adding one of: duployan, syriac</li>
+<li>U+030B COMBINING DOUBLE ACUTE ACCENT: try adding one of: cherokee, osage</li>
+<li>U+030C COMBINING CARON: try adding one of: cherokee, tai-le</li>
 <li>U+0312 COMBINING TURNED COMMA ABOVE: try adding math</li>
 <li>U+0326 COMBINING COMMA BELOW: try adding math</li>
 <li>U+0327 COMBINING CEDILLA: try adding math</li>
 <li>U+0338 COMBINING LONG SOLIDUS OVERLAY: try adding math</li>
-<li>U+039B GREEK CAPITAL LETTER LAMDA: try adding one of: math, elbasan, greek</li>
-<li>U+03A9 GREEK CAPITAL LETTER OMEGA: try adding one of: greek, elbasan, math</li>
+<li>U+039B GREEK CAPITAL LETTER LAMDA: try adding one of: greek, math, elbasan</li>
+<li>U+03A9 GREEK CAPITAL LETTER OMEGA: try adding one of: elbasan, math, greek</li>
 <li>U+03BB GREEK SMALL LETTER LAMDA: try adding one of: greek, math</li>
-<li>U+03BC GREEK SMALL LETTER MU: try adding one of: math, greek</li>
-<li>U+03C0 GREEK SMALL LETTER PI: try adding one of: yi, greek, math</li>
+<li>U+03BC GREEK SMALL LETTER MU: try adding one of: greek, math</li>
+<li>U+03C0 GREEK SMALL LETTER PI: try adding one of: greek, math, yi</li>
 <li>U+0E3F THAI CURRENCY SYMBOL BAHT: try adding thai</li>
 <li>U+1EBC LATIN CAPITAL LETTER E WITH TILDE: try adding vietnamese</li>
 <li>U+1EBD LATIN SMALL LETTER E WITH TILDE: try adding vietnamese</li>
@@ -840,15 +914,14 @@ codepoint assignment of these to make sure they are correct.</p>
 <li>U+215C VULGAR FRACTION THREE EIGHTHS: try adding symbols</li>
 <li>U+215D VULGAR FRACTION FIVE EIGHTHS: try adding symbols</li>
 <li>U+215E VULGAR FRACTION SEVEN EIGHTHS: try adding symbols</li>
-<li>U+2190 LEFTWARDS ARROW: try adding one of: symbols, math</li>
+<li>U+2190 LEFTWARDS ARROW: try adding one of: math, symbols</li>
 <li>U+2192 RIGHTWARDS ARROW: try adding one of: symbols, math</li>
-<li>U+2194 LEFT RIGHT ARROW: try adding one of: math, symbols</li>
+<li>U+2194 LEFT RIGHT ARROW: try adding one of: symbols, math</li>
 <li>U+2195 UP DOWN ARROW: try adding one of: symbols, math</li>
-<li>U+2196 NORTH WEST ARROW: try adding one of: symbols, math</li>
-<li>U+2197 NORTH EAST ARROW: try adding one of: symbols, math</li>
+<li>U+2196 NORTH WEST ARROW: try adding one of: math, symbols</li>
+<li>U+2197 NORTH EAST ARROW: try adding one of: math, symbols</li>
 <li>U+2198 SOUTH EAST ARROW: try adding one of: math, symbols</li>
-<li>U+2199 SOUTH WEST ARROW: try adding one of: math, symbols</li>
-<li>U+219D RIGHTWARDS WAVE ARROW: try adding math</li>
+<li>U+2199 SOUTH WEST ARROW: try adding one of: symbols, math</li>
 <li>U+21A9 LEFTWARDS ARROW WITH HOOK: try adding math</li>
 <li>U+21AA RIGHTWARDS ARROW WITH HOOK: try adding math</li>
 <li>U+21B0 UPWARDS ARROW WITH TIP LEFTWARDS: try adding math</li>
@@ -856,9 +929,12 @@ codepoint assignment of these to make sure they are correct.</p>
 <li>U+21B3 DOWNWARDS ARROW WITH TIP RIGHTWARDS: try adding math</li>
 <li>U+21B4 RIGHTWARDS ARROW WITH CORNER DOWNWARDS: try adding math</li>
 <li>U+21B5 DOWNWARDS ARROW WITH CORNER LEFTWARDS: try adding math</li>
+<li>U+21B9 LEFTWARDS ARROW TO BAR OVER RIGHTWARDS ARROW TO BAR: try adding math</li>
+<li>U+21C6 LEFTWARDS ARROW OVER RIGHTWARDS ARROW: try adding math</li>
 <li>U+21E4 LEFTWARDS ARROW TO BAR: try adding math</li>
 <li>U+21E5 RIGHTWARDS ARROW TO BAR: try adding math</li>
 <li>U+21E7 UPWARDS WHITE ARROW: try adding symbols</li>
+<li>U+21EA UPWARDS WHITE ARROW FROM BAR: try adding symbols</li>
 <li>U+2202 PARTIAL DIFFERENTIAL: try adding math</li>
 <li>U+2206 INCREMENT: try adding math</li>
 <li>U+220F N-ARY PRODUCT: try adding math</li>
@@ -871,18 +947,29 @@ codepoint assignment of these to make sure they are correct.</p>
 <li>U+2260 NOT EQUAL TO: try adding math</li>
 <li>U+2264 LESS-THAN OR EQUAL TO: try adding math</li>
 <li>U+2265 GREATER-THAN OR EQUAL TO: try adding math</li>
-<li>U+2460 CIRCLED DIGIT ONE: try adding one of: symbols, mongolian, yi</li>
-<li>U+2461 CIRCLED DIGIT TWO: try adding one of: symbols, yi, mongolian</li>
+<li>U+2303 UP ARROWHEAD: try adding symbols</li>
+<li>U+2318 PLACE OF INTEREST SIGN: try adding symbols</li>
+<li>U+2325 OPTION KEY: try adding symbols</li>
+<li>U+2326 ERASE TO THE RIGHT: try adding symbols</li>
+<li>U+2327 X IN A RECTANGLE BOX: try adding symbols</li>
+<li>U+232B ERASE TO THE LEFT: try adding symbols</li>
+<li>U+238B BROKEN CIRCLE WITH NORTHWEST ARROW: try adding symbols</li>
+<li>U+23CE RETURN SYMBOL: try adding symbols</li>
+<li>U+2460 CIRCLED DIGIT ONE: try adding one of: mongolian, yi, symbols</li>
+<li>U+2461 CIRCLED DIGIT TWO: try adding one of: mongolian, symbols, yi</li>
 <li>U+2462 CIRCLED DIGIT THREE: try adding one of: symbols, yi, mongolian</li>
-<li>U+2463 CIRCLED DIGIT FOUR: try adding one of: symbols, yi, mongolian</li>
-<li>U+2464 CIRCLED DIGIT FIVE: try adding one of: yi, symbols, mongolian</li>
-<li>U+2465 CIRCLED DIGIT SIX: try adding one of: mongolian, symbols, yi</li>
-<li>U+2466 CIRCLED DIGIT SEVEN: try adding one of: yi, symbols, mongolian</li>
-<li>U+2467 CIRCLED DIGIT EIGHT: try adding one of: mongolian, symbols, yi</li>
-<li>U+2468 CIRCLED DIGIT NINE: try adding one of: mongolian, symbols, yi</li>
+<li>U+2463 CIRCLED DIGIT FOUR: try adding one of: mongolian, symbols, yi</li>
+<li>U+2464 CIRCLED DIGIT FIVE: try adding one of: symbols, yi, mongolian</li>
+<li>U+2465 CIRCLED DIGIT SIX: try adding one of: symbols, yi, mongolian</li>
+<li>U+2466 CIRCLED DIGIT SEVEN: try adding one of: symbols, mongolian, yi</li>
+<li>U+2467 CIRCLED DIGIT EIGHT: try adding one of: symbols, mongolian, yi</li>
+<li>U+2468 CIRCLED DIGIT NINE: try adding one of: mongolian, yi, symbols</li>
 <li>U+24EA CIRCLED DIGIT ZERO: try adding symbols</li>
 <li>U+24FF NEGATIVE CIRCLED DIGIT ZERO: try adding symbols</li>
 <li>U+25CA LOZENGE: try adding one of: math, symbols</li>
+<li>U+25CB WHITE CIRCLE: try adding symbols</li>
+<li>U+25CF BLACK CIRCLE: try adding symbols</li>
+<li>U+25E6 WHITE BULLET: try adding symbols</li>
 <li>U+2776 DINGBAT NEGATIVE CIRCLED DIGIT ONE: try adding symbols</li>
 <li>U+2777 DINGBAT NEGATIVE CIRCLED DIGIT TWO: try adding symbols</li>
 <li>U+2778 DINGBAT NEGATIVE CIRCLED DIGIT THREE: try adding symbols</li>
@@ -892,10 +979,10 @@ codepoint assignment of these to make sure they are correct.</p>
 <li>U+277C DINGBAT NEGATIVE CIRCLED DIGIT SEVEN: try adding symbols</li>
 <li>U+277D DINGBAT NEGATIVE CIRCLED DIGIT EIGHT: try adding symbols</li>
 <li>U+277E DINGBAT NEGATIVE CIRCLED DIGIT NINE: try adding symbols</li>
-<li>U+3003 DITTO MARK: try adding one of: chinese-simplified, phags-pa, yi, chinese-hongkong, chinese-traditional, japanese</li>
+<li>U+3003 DITTO MARK: try adding one of: phags-pa, japanese, chinese-hongkong, yi, chinese-traditional, chinese-simplified</li>
 <li>U+301C WAVE DASH: try adding japanese</li>
 </ul>
-<p>Or you can add the above codepoints to one of the subsets supported by the font: cyrillic-ext, latin-ext, latin</p>
+<p>Or you can add the above codepoints to one of the subsets supported by the font: cyrillic-ext, latin-ext, latin, symbols2</p>
                                 
                                 
                                      [code: unreachable-subsetting]
@@ -936,7 +1023,7 @@ codepoint assignment of these to make sure they are correct.</p>
         <details>
             <summary>
                 ⚠️
-                PaperMono-Regular.ttf
+                PaperMono[wght].ttf
                 
             </summary>
             <div>
@@ -961,6 +1048,14 @@ codepoint assignment of these to make sure they are correct.</p>
 <tbody>
 <tr>
 <td>Auxiliary orthography codepoints:</td>
+<td>* en_Latn (English)</td>
+</tr>
+<tr>
+<td>The following auxiliary characters are missing from the font: ʻ</td>
+<td></td>
+</tr>
+<tr>
+<td>Auxiliary orthography codepoints:</td>
 <td>* fi_Latn (Finnish)</td>
 </tr>
 <tr>
@@ -977,26 +1072,6 @@ codepoint assignment of these to make sure they are correct.</p>
 </tr>
 <tr>
 <td>The following auxiliary characters are missing from the font: ǯ</td>
-<td></td>
-</tr>
-<tr>
-<td>Auxiliary orthography codepoints:</td>
-<td>* en_Latn (English)</td>
-</tr>
-<tr>
-<td>The following auxiliary characters are missing from the font: ʻ</td>
-<td></td>
-</tr>
-<tr>
-<td>Auxiliary orthography codepoints:</td>
-<td>* ca_Latn (Catalan)</td>
-</tr>
-<tr>
-<td>The following auxiliary characters are missing from the font: Ŀ</td>
-<td></td>
-</tr>
-<tr>
-<td>The following auxiliary characters are missing from the font: ŀ</td>
 <td></td>
 </tr>
 <tr>
@@ -1039,7 +1114,7 @@ codepoint assignment of these to make sure they are correct.</p>
         <details>
             <summary>
                 ⚠️
-                PaperMono-Regular.ttf
+                PaperMono[wght].ttf
                 
             </summary>
             <div>
@@ -1076,120 +1151,6 @@ codepoint assignment of these to make sure they are correct.</p>
 
 
         
-            <h2>Licensing Checks</h2>
-
-    
-
-    
-        <h3>Copyright notices match canonical pattern in fonts</h3>
-<div class='check__idlabel'>Check ID: googlefonts&#x2F;font_copyright</div>
-
-<div class="rationale">
-    
-
-</div>
-
-
-    
-        <details>
-            <summary>
-                🔥
-                ttf
-                
-            </summary>
-            <div>
-                <ul>
-                
-                
-                        <li class='details_item'>
-                            <span class='details_indicator'>
-                            🔥 FAIL
-                            </span>
-
-                            <span class='details_text'>
-                                
-                                    <p>PaperMono-Regular.ttf: Name Table entry: Copyright notices should match a pattern similar to:</p>
-<p>&quot;Copyright 2020 The Familyname Project Authors (git url)&quot;</p>
-<p>But instead we have got:</p>
-<p>&quot;copyright 2025 the paper mono project authors <a href="https://github.com/paper-design/paper-mono">https://github.com/paper-design/paper-mono</a>&quot;</p>
-                                
-                                
-                                     [code: bad-notice-format]
-                                
-                            </span>
-                        </li>
-                
-                
-                </ul>
-            </div>
-        </details>
-    
-
-
-    
-
-    
-
-    
-
-    
-
-    
-
-
-        
-            <h2>Repository Checks</h2>
-
-    
-
-    
-        <h3>Directory name in GFonts repo structure must
-    match NameID 1 of the regular.</h3>
-<div class='check__idlabel'>Check ID: googlefonts&#x2F;repo&#x2F;dirname_matches_nameid_1</div>
-
-<div class="rationale">
-    
-
-</div>
-
-
-    
-        <details>
-            <summary>
-                🔥
-                PaperMono-Regular.ttf
-                
-            </summary>
-            <div>
-                <ul>
-                
-                
-                        <li class='details_item'>
-                            <span class='details_indicator'>
-                            🔥 FAIL
-                            </span>
-
-                            <span class='details_text'>
-                                
-                                    <p>Family name on the name table ('Paper Mono') does not match directory name in the repo structure ('ttf'). Expected 'papermono'.</p>
-                                
-                                
-                                     [code: mismatch]
-                                
-                            </span>
-                        </li>
-                
-                
-                </ul>
-            </div>
-        </details>
-    
-
-
-    
-
-
-        
             <h2>Font File Checks</h2>
 
     
@@ -1207,88 +1168,6 @@ codepoint assignment of these to make sure they are correct.</p>
     
 
     
-        <h3>Check font names are correct</h3>
-<div class='check__idlabel'>Check ID: googlefonts&#x2F;font_names</div>
-
-<div class="rationale">
-    
-
-</div>
-
-
-    
-        <details>
-            <summary>
-                🔥
-                PaperMono-Regular.ttf
-                
-            </summary>
-            <div>
-                <ul>
-                
-                
-                        <li class='details_item'>
-                            <span class='details_indicator'>
-                            🔥 FAIL
-                            </span>
-
-                            <span class='details_text'>
-                                
-                                    <p>Font names are incorrect:</p>
-<table>
-<thead>
-<tr>
-<th>Name</th>
-<th>Current</th>
-<th>Expected</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>Family Name</td>
-<td>Paper Mono</td>
-<td>Paper Mono</td>
-</tr>
-<tr>
-<td>Subfamily Name</td>
-<td>Regular</td>
-<td>Regular</td>
-</tr>
-<tr>
-<td>Full Name</td>
-<td>Paper Mono Regular</td>
-<td>Paper Mono Regular</td>
-</tr>
-<tr>
-<td>Postscript Name</td>
-<td>PaperMono-Regular</td>
-<td>PaperMono-Regular</td>
-</tr>
-<tr>
-<td>Typographic Family Name</td>
-<td><strong>Paper Mono</strong></td>
-<td><strong>N/A</strong></td>
-</tr>
-<tr>
-<td>Typographic Subfamily Name</td>
-<td>N/A</td>
-<td>N/A</td>
-</tr>
-</tbody>
-</table>
-                                
-                                
-                                     [code: bad-names]
-                                
-                            </span>
-                        </li>
-                
-                
-                </ul>
-            </div>
-        </details>
-    
-
 
     
 
@@ -1297,53 +1176,6 @@ codepoint assignment of these to make sure they are correct.</p>
     
 
     
-
-    
-
-    
-        <h3>Ensure fonts have ScriptLangTags declared on the &#x27;meta&#x27; table.</h3>
-<div class='check__idlabel'>Check ID: googlefonts&#x2F;meta&#x2F;script_lang_tags</div>
-
-<div class="rationale">
-    
-
-</div>
-
-
-    
-        <details>
-            <summary>
-                🔥
-                PaperMono-Regular.ttf
-                
-            </summary>
-            <div>
-                <ul>
-                
-                
-                
-                
-                        <li class='details_item'>
-                            <span class='details_indicator'>
-                            🔥 FAIL
-                            </span>
-
-                            <span class='details_text'>
-                                
-                                    <p>Please specify which languages and scripts this font supports.</p>
-                                
-                                
-                                     [code: missing-slng-tag]
-                                
-                            </span>
-                        </li>
-                
-                
-                </ul>
-            </div>
-        </details>
-    
-
 
     
 
@@ -1383,7 +1215,7 @@ codepoint assignment of these to make sure they are correct.</p>
         <details>
             <summary>
                 ⚠️
-                PaperMono-Regular.ttf
+                PaperMono[wght].ttf
                 
             </summary>
             <div>
@@ -1444,7 +1276,7 @@ If you registered it recently, then it's safe to ignore this warning message. Ot
         <details>
             <summary>
                 ⚠️
-                PaperMono-Regular.ttf
+                PaperMono[wght].ttf
                 
             </summary>
             <div>
@@ -1490,7 +1322,7 @@ replace the dot.</h3>
         <details>
             <summary>
                 ⚠️
-                PaperMono-Regular.ttf
+                PaperMono[wght].ttf
                 
             </summary>
             <div>
@@ -1507,193 +1339,193 @@ replace the dot.</h3>
                                     <p>The dot of soft dotted characters used in orthographies <em>must</em> disappear in the following strings:</p>
 <ul>
 <li>
-<p>į́</p>
-</li>
-<li>
-<p>į̌</p>
-</li>
-<li>
 <p>į̂</p>
-</li>
-<li>
-<p>į̃</p>
 </li>
 <li>
 <p>į̄</p>
 </li>
 <li>
-<p>į̀The dot of soft dotted characters <em>should</em> disappear in other cases, for example:</p>
+<p>į́</p>
 </li>
 <li>
-<p>į̦́</p>
+<p>į̀</p>
 </li>
 <li>
-<p>į̦̈</p>
+<p>į̌</p>
 </li>
 <li>
-<p>į̦̌</p>
-</li>
-<li>
-<p>į̦̆</p>
-</li>
-<li>
-<p>į̦̂</p>
-</li>
-<li>
-<p>į̦̃</p>
-</li>
-<li>
-<p>į̦̄</p>
-</li>
-<li>
-<p>į̦̀</p>
-</li>
-<li>
-<p>į̦̇</p>
-</li>
-<li>
-<p>į̦̋</p>
-</li>
-<li>
-<p>į̦̊</p>
-</li>
-<li>
-<p>į̦̒</p>
-</li>
-<li>
-<p>į̨́</p>
-</li>
-<li>
-<p>į̨̈</p>
-</li>
-<li>
-<p>į̨̌</p>
-</li>
-<li>
-<p>į̨̆</p>
-</li>
-<li>
-<p>į̨̂</p>
-</li>
-<li>
-<p>į̨̃</p>
-</li>
-<li>
-<p>į̨̄</p>
-</li>
-<li>
-<p>į̨̀</p>
-</li>
-<li>
-<p>į̨̇</p>
-</li>
-<li>
-<p>į̨̋</p>
-</li>
-<li>
-<p>į̨̊</p>
-</li>
-<li>
-<p>į̨̒</p>
-</li>
-<li>
-<p>į̷̒</p>
-</li>
-<li>
-<p>į̶́</p>
-</li>
-<li>
-<p>į̶̈</p>
-</li>
-<li>
-<p>į̶̌</p>
-</li>
-<li>
-<p>į̶̆</p>
-</li>
-<li>
-<p>į̶̂</p>
-</li>
-<li>
-<p>į̶̃</p>
-</li>
-<li>
-<p>į̶̄</p>
-</li>
-<li>
-<p>į̶̀</p>
-</li>
-<li>
-<p>į̶̇</p>
+<p>į̃The dot of soft dotted characters <em>should</em> disappear in other cases, for example:</p>
 </li>
 <li>
 <p>į̶̋</p>
 </li>
 <li>
-<p>į̶̊</p>
-</li>
-<li>
 <p>į̶̒</p>
 </li>
 <li>
-<p>į̸̒</p>
+<p>į̶̂</p>
+</li>
+<li>
+<p>į̶̄</p>
+</li>
+<li>
+<p>į̶́</p>
+</li>
+<li>
+<p>į̶̇</p>
+</li>
+<li>
+<p>į̶̀</p>
+</li>
+<li>
+<p>į̶̌</p>
+</li>
+<li>
+<p>į̶̈</p>
+</li>
+<li>
+<p>į̶̊</p>
+</li>
+<li>
+<p>į̶̆</p>
+</li>
+<li>
+<p>į̶̃</p>
+</li>
+<li>
+<p>į̷̒</p>
+</li>
+<li>
+<p>į̨̋</p>
+</li>
+<li>
+<p>į̨̒</p>
+</li>
+<li>
+<p>į̨̂</p>
+</li>
+<li>
+<p>į̨̄</p>
+</li>
+<li>
+<p>į̨́</p>
+</li>
+<li>
+<p>į̨̇</p>
+</li>
+<li>
+<p>į̨̀</p>
+</li>
+<li>
+<p>į̨̌</p>
+</li>
+<li>
+<p>į̨̈</p>
+</li>
+<li>
+<p>į̨̊</p>
+</li>
+<li>
+<p>į̨̆</p>
+</li>
+<li>
+<p>į̨̃</p>
 </li>
 <li>
 <p>į̵̒</p>
 </li>
 <li>
-<p>į̧́</p>
+<p>į̸̒</p>
 </li>
 <li>
-<p>į̧̈</p>
+<p>į̦̋</p>
 </li>
 <li>
-<p>į̧̌</p>
+<p>į̦̒</p>
 </li>
 <li>
-<p>į̧̆</p>
+<p>į̦̂</p>
 </li>
 <li>
-<p>į̧̂</p>
+<p>į̦̄</p>
 </li>
 <li>
-<p>į̧̃</p>
+<p>į̦́</p>
 </li>
 <li>
-<p>į̧̄</p>
+<p>į̦̇</p>
 </li>
 <li>
-<p>į̧̀</p>
+<p>į̦̀</p>
 </li>
 <li>
-<p>į̧̇</p>
+<p>į̦̌</p>
+</li>
+<li>
+<p>į̦̈</p>
+</li>
+<li>
+<p>į̦̊</p>
+</li>
+<li>
+<p>į̦̆</p>
+</li>
+<li>
+<p>į̦̃</p>
 </li>
 <li>
 <p>į̧̋</p>
 </li>
 <li>
-<p>į̧̊</p>
-</li>
-<li>
 <p>į̧̒</p>
 </li>
 <li>
-<p>į̈</p>
+<p>į̧̂</p>
 </li>
 <li>
-<p>į̆</p>
+<p>į̧̄</p>
 </li>
 <li>
-<p>į̇</p>
+<p>į̧́</p>
+</li>
+<li>
+<p>į̧̇</p>
+</li>
+<li>
+<p>į̧̀</p>
+</li>
+<li>
+<p>į̧̌</p>
+</li>
+<li>
+<p>į̧̈</p>
+</li>
+<li>
+<p>į̧̊</p>
+</li>
+<li>
+<p>į̧̆</p>
+</li>
+<li>
+<p>į̧̃</p>
 </li>
 <li>
 <p>į̋</p>
 </li>
 <li>
+<p>į̒</p>
+</li>
+<li>
+<p>į̇</p>
+</li>
+<li>
+<p>į̈</p>
+</li>
+<li>
 <p>į̊</p>
 </li>
 <li>
-<p>į̒</p>
+<p>į̆</p>
 </li>
 </ul>
                                 
@@ -1734,7 +1566,7 @@ replace the dot.</h3>
         <details>
             <summary>
                 ⚠️
-                PaperMono-Regular.ttf
+                PaperMono[wght].ttf
                 
             </summary>
             <div>
@@ -1752,497 +1584,352 @@ replace the dot.</h3>
 <ul>
 <li>
 <ul>
-<li>Uogonek (U+0172): X=407,Y=1 (should be at baseline 0?)</li>
+<li>aring (U+00E5): X=314,Y=711 (should be at cap-height 710?)</li>
 </ul>
 </li>
 <li>
 <ul>
-<li>adieresis (U+00E4): X=368.5,Y=738.5 (should be at cap-height 740?)</li>
+<li>dcaron (U+010F): X=272,Y=1.5 (should be at baseline 0?)</li>
 </ul>
 </li>
 <li>
 <ul>
-<li>adieresis (U+00E4): X=452,Y=738.5 (should be at cap-height 740?)</li>
+<li>l (U+006C): X=262,Y=711 (should be at cap-height 710?)</li>
 </ul>
 </li>
 <li>
 <ul>
-<li>adieresis (U+00E4): X=172.5,Y=738.5 (should be at cap-height 740?)</li>
+<li>lacute (U+013A): X=262,Y=711 (should be at cap-height 710?)</li>
 </ul>
 </li>
 <li>
 <ul>
-<li>adieresis (U+00E4): X=256,Y=738.5 (should be at cap-height 740?)</li>
+<li>lcaron (U+013E): X=262,Y=711 (should be at cap-height 710?)</li>
 </ul>
 </li>
 <li>
 <ul>
-<li>edieresis (U+00EB): X=372.5,Y=738.5 (should be at cap-height 740?)</li>
+<li>uni013C (U+013C): X=262,Y=711 (should be at cap-height 710?)</li>
 </ul>
 </li>
 <li>
 <ul>
-<li>edieresis (U+00EB): X=456,Y=738.5 (should be at cap-height 740?)</li>
+<li>ldot (U+0140): X=262,Y=711 (should be at cap-height 710?)</li>
 </ul>
 </li>
 <li>
 <ul>
-<li>edieresis (U+00EB): X=176.5,Y=738.5 (should be at cap-height 740?)</li>
+<li>lslash (U+0142): X=262,Y=711 (should be at cap-height 710?)</li>
 </ul>
 </li>
 <li>
 <ul>
-<li>edieresis (U+00EB): X=260,Y=738.5 (should be at cap-height 740?)</li>
+<li>germandbls (U+00DF): X=227,Y=-2 (should be at baseline 0?)</li>
 </ul>
 </li>
 <li>
 <ul>
-<li>f (U+0066): X=278.5,Y=742 (should be at cap-height 740?)</li>
+<li>t (U+0074): X=522,Y=-2 (should be at baseline 0?)</li>
 </ul>
 </li>
 <li>
 <ul>
-<li>g (U+0067): X=456,Y=-2 (should be at baseline 0?)</li>
+<li>tbar (U+0167): X=522,Y=-2 (should be at baseline 0?)</li>
 </ul>
 </li>
 <li>
 <ul>
-<li>g (U+0067): X=540,Y=-2 (should be at baseline 0?)</li>
+<li>tcaron (U+0165): X=522,Y=-2 (should be at baseline 0?)</li>
 </ul>
 </li>
 <li>
 <ul>
-<li>gbreve (U+011F): X=456,Y=-2 (should be at baseline 0?)</li>
+<li>uni0163 (U+0163): X=522,Y=-2 (should be at baseline 0?)</li>
 </ul>
 </li>
 <li>
 <ul>
-<li>gbreve (U+011F): X=540,Y=-2 (should be at baseline 0?)</li>
+<li>uni021B (U+021B): X=522,Y=-2 (should be at baseline 0?)</li>
 </ul>
 </li>
 <li>
 <ul>
-<li>gcaron (U+01E7): X=456,Y=-2 (should be at baseline 0?)</li>
+<li>uring (U+016F): X=302,Y=711 (should be at cap-height 710?)</li>
 </ul>
 </li>
 <li>
 <ul>
-<li>gcaron (U+01E7): X=540,Y=-2 (should be at baseline 0?)</li>
+<li>uni013C.loclMAH: X=262,Y=711 (should be at cap-height 710?)</li>
 </ul>
 </li>
 <li>
 <ul>
-<li>gcircumflex (U+011D): X=456,Y=-2 (should be at baseline 0?)</li>
+<li>aring.cv01: X=292,Y=711 (should be at cap-height 710?)</li>
 </ul>
 </li>
 <li>
 <ul>
-<li>gcircumflex (U+011D): X=540,Y=-2 (should be at baseline 0?)</li>
+<li>fi (U+FB01): X=137,Y=712 (should be at cap-height 710?)</li>
 </ul>
 </li>
 <li>
 <ul>
-<li>uni0123 (U+0123): X=456,Y=-2 (should be at baseline 0?)</li>
+<li>fl (U+FB02): X=141,Y=712 (should be at cap-height 710?)</li>
 </ul>
 </li>
 <li>
 <ul>
-<li>uni0123 (U+0123): X=540,Y=-2 (should be at baseline 0?)</li>
+<li>lambda (U+03BB): X=502,Y=-1 (should be at baseline 0?)</li>
 </ul>
 </li>
 <li>
 <ul>
-<li>gdotaccent (U+0121): X=456,Y=-2 (should be at baseline 0?)</li>
+<li>lambda (U+03BB): X=546,Y=-1 (should be at baseline 0?)</li>
 </ul>
 </li>
 <li>
 <ul>
-<li>gdotaccent (U+0121): X=540,Y=-2 (should be at baseline 0?)</li>
+<li>seven.dnom: X=222,Y=1 (should be at baseline 0?)</li>
 </ul>
 </li>
 <li>
 <ul>
-<li>uni1E21 (U+1E21): X=456,Y=-2 (should be at baseline 0?)</li>
+<li>seven.dnom: X=293,Y=1 (should be at baseline 0?)</li>
 </ul>
 </li>
 <li>
 <ul>
-<li>uni1E21 (U+1E21): X=540,Y=-2 (should be at baseline 0?)</li>
+<li>one.numr: X=330,Y=711 (should be at cap-height 710?)</li>
 </ul>
 </li>
 <li>
 <ul>
-<li>uni01E5 (U+01E5): X=456,Y=-2 (should be at baseline 0?)</li>
+<li>one.numr: X=390,Y=711 (should be at cap-height 710?)</li>
 </ul>
 </li>
 <li>
 <ul>
-<li>uni01E5 (U+01E5): X=540,Y=-2 (should be at baseline 0?)</li>
+<li>four.numr: X=288,Y=711 (should be at cap-height 710?)</li>
 </ul>
 </li>
 <li>
 <ul>
-<li>idieresis (U+00EF): X=389.5,Y=738.5 (should be at cap-height 740?)</li>
+<li>four.numr: X=361,Y=711 (should be at cap-height 710?)</li>
 </ul>
 </li>
 <li>
 <ul>
-<li>idieresis (U+00EF): X=473,Y=738.5 (should be at cap-height 740?)</li>
+<li>five.numr: X=190,Y=711 (should be at cap-height 710?)</li>
 </ul>
 </li>
 <li>
 <ul>
-<li>idieresis (U+00EF): X=193.5,Y=738.5 (should be at cap-height 740?)</li>
+<li>five.numr: X=409,Y=711 (should be at cap-height 710?)</li>
 </ul>
 </li>
 <li>
 <ul>
-<li>idieresis (U+00EF): X=277,Y=738.5 (should be at cap-height 740?)</li>
+<li>six.numr: X=289,Y=711 (should be at cap-height 710?)</li>
 </ul>
 </li>
 <li>
 <ul>
-<li>odieresis (U+00F6): X=366.5,Y=738.5 (should be at cap-height 740?)</li>
+<li>six.numr: X=363,Y=711 (should be at cap-height 710?)</li>
 </ul>
 </li>
 <li>
 <ul>
-<li>odieresis (U+00F6): X=450,Y=738.5 (should be at cap-height 740?)</li>
+<li>seven.numr: X=171,Y=711 (should be at cap-height 710?)</li>
 </ul>
 </li>
 <li>
 <ul>
-<li>odieresis (U+00F6): X=170.5,Y=738.5 (should be at cap-height 740?)</li>
+<li>seven.numr: X=434,Y=711 (should be at cap-height 710?)</li>
 </ul>
 </li>
 <li>
 <ul>
-<li>odieresis (U+00F6): X=254,Y=738.5 (should be at cap-height 740?)</li>
+<li>onehalf (U+00BD): X=157,Y=711 (should be at cap-height 710?)</li>
 </ul>
 </li>
 <li>
 <ul>
-<li>germandbls (U+00DF): X=230,Y=-2 (should be at baseline 0?)</li>
+<li>onehalf (U+00BD): X=217,Y=711 (should be at cap-height 710?)</li>
 </ul>
 </li>
 <li>
 <ul>
-<li>t (U+0074): X=540,Y=-2 (should be at baseline 0?)</li>
+<li>uni2153 (U+2153): X=157,Y=711 (should be at cap-height 710?)</li>
 </ul>
 </li>
 <li>
 <ul>
-<li>tbar (U+0167): X=540,Y=-2 (should be at baseline 0?)</li>
+<li>uni2153 (U+2153): X=217,Y=711 (should be at cap-height 710?)</li>
 </ul>
 </li>
 <li>
 <ul>
-<li>tcaron (U+0165): X=540,Y=-2 (should be at baseline 0?)</li>
+<li>onequarter (U+00BC): X=157,Y=711 (should be at cap-height 710?)</li>
 </ul>
 </li>
 <li>
 <ul>
-<li>uni0163 (U+0163): X=540,Y=-2 (should be at baseline 0?)</li>
+<li>onequarter (U+00BC): X=217,Y=711 (should be at cap-height 710?)</li>
 </ul>
 </li>
 <li>
 <ul>
-<li>uni021B (U+021B): X=540,Y=-2 (should be at baseline 0?)</li>
+<li>uni2155 (U+2155): X=157,Y=711 (should be at cap-height 710?)</li>
 </ul>
 </li>
 <li>
 <ul>
-<li>udieresis (U+00FC): X=365.5,Y=738.5 (should be at cap-height 740?)</li>
+<li>uni2155 (U+2155): X=217,Y=711 (should be at cap-height 710?)</li>
 </ul>
 </li>
 <li>
 <ul>
-<li>udieresis (U+00FC): X=449,Y=738.5 (should be at cap-height 740?)</li>
+<li>oneeighth (U+215B): X=157,Y=711 (should be at cap-height 710?)</li>
 </ul>
 </li>
 <li>
 <ul>
-<li>udieresis (U+00FC): X=169.5,Y=738.5 (should be at cap-height 740?)</li>
+<li>oneeighth (U+215B): X=217,Y=711 (should be at cap-height 710?)</li>
 </ul>
 </li>
 <li>
 <ul>
-<li>udieresis (U+00FC): X=253,Y=738.5 (should be at cap-height 740?)</li>
+<li>fiveeighths (U+215D): X=49,Y=711 (should be at cap-height 710?)</li>
 </ul>
 </li>
 <li>
 <ul>
-<li>wdieresis (U+1E85): X=366.5,Y=738.5 (should be at cap-height 740?)</li>
+<li>fiveeighths (U+215D): X=268,Y=711 (should be at cap-height 710?)</li>
 </ul>
 </li>
 <li>
 <ul>
-<li>wdieresis (U+1E85): X=450,Y=738.5 (should be at cap-height 740?)</li>
+<li>seveneighths (U+215E): X=23,Y=711 (should be at cap-height 710?)</li>
 </ul>
 </li>
 <li>
 <ul>
-<li>wdieresis (U+1E85): X=170.5,Y=738.5 (should be at cap-height 740?)</li>
+<li>seveneighths (U+215E): X=286,Y=711 (should be at cap-height 710?)</li>
 </ul>
 </li>
 <li>
 <ul>
-<li>wdieresis (U+1E85): X=254,Y=738.5 (should be at cap-height 740?)</li>
+<li>uni2088 (U+2088): X=374,Y=1 (should be at baseline 0?)</li>
 </ul>
 </li>
 <li>
 <ul>
-<li>ydieresis (U+00FF): X=365.5,Y=738.5 (should be at cap-height 740?)</li>
+<li>uni2088 (U+2088): X=231,Y=1 (should be at baseline 0?)</li>
 </ul>
 </li>
 <li>
 <ul>
-<li>ydieresis (U+00FF): X=449,Y=738.5 (should be at cap-height 740?)</li>
+<li>questiondown (U+00BF): X=173,Y=1 (should be at baseline 0?)</li>
 </ul>
 </li>
 <li>
 <ul>
-<li>ydieresis (U+00FF): X=169.5,Y=738.5 (should be at cap-height 740?)</li>
+<li>braceleft (U+007B): X=307.5,Y=1 (should be at baseline 0?)</li>
 </ul>
 </li>
 <li>
 <ul>
-<li>ydieresis (U+00FF): X=253,Y=738.5 (should be at cap-height 740?)</li>
+<li>braceright (U+007D): X=298.5,Y=1 (should be at baseline 0?)</li>
 </ul>
 </li>
 <li>
 <ul>
-<li>a.ss01: X=524,Y=-2 (should be at baseline 0?)</li>
+<li>at (U+0040): X=101.5,Y=2 (should be at baseline 0?)</li>
 </ul>
 </li>
 <li>
 <ul>
-<li>aacute.ss01: X=524,Y=-2 (should be at baseline 0?)</li>
+<li>at (U+0040): X=211,Y=1 (should be at baseline 0?)</li>
 </ul>
 </li>
 <li>
 <ul>
-<li>abreve.ss01: X=524,Y=-2 (should be at baseline 0?)</li>
+<li>ampersand (U+0026): X=310.5,Y=-2 (should be at baseline 0?)</li>
 </ul>
 </li>
 <li>
 <ul>
-<li>uni01CE.ss01: X=524,Y=-2 (should be at baseline 0?)</li>
+<li>Euro (U+20AC): X=545,Y=708 (should be at cap-height 710?)</li>
 </ul>
 </li>
 <li>
 <ul>
-<li>acircumflex.ss01: X=524,Y=-2 (should be at baseline 0?)</li>
+<li>Euro (U+20AC): X=545,Y=2 (should be at baseline 0?)</li>
 </ul>
 </li>
 <li>
 <ul>
-<li>adieresis.ss01: X=524,Y=-2 (should be at baseline 0?)</li>
+<li>greaterequal (U+2265): X=80,Y=1 (should be at baseline 0?)</li>
 </ul>
 </li>
 <li>
 <ul>
-<li>adieresis.ss01: X=359.5,Y=738.5 (should be at cap-height 740?)</li>
+<li>greaterequal (U+2265): X=526,Y=1 (should be at baseline 0?)</li>
 </ul>
 </li>
 <li>
 <ul>
-<li>adieresis.ss01: X=443,Y=738.5 (should be at cap-height 740?)</li>
+<li>lessequal (U+2264): X=526,Y=1 (should be at baseline 0?)</li>
 </ul>
 </li>
 <li>
 <ul>
-<li>adieresis.ss01: X=163.5,Y=738.5 (should be at cap-height 740?)</li>
+<li>lessequal (U+2264): X=80,Y=1 (should be at baseline 0?)</li>
 </ul>
 </li>
 <li>
 <ul>
-<li>adieresis.ss01: X=247,Y=738.5 (should be at cap-height 740?)</li>
+<li>plusminus (U+00B1): X=50,Y=1 (should be at baseline 0?)</li>
 </ul>
 </li>
 <li>
 <ul>
-<li>agrave.ss01: X=524,Y=-2 (should be at baseline 0?)</li>
+<li>plusminus (U+00B1): X=556,Y=1 (should be at baseline 0?)</li>
 </ul>
 </li>
 <li>
 <ul>
-<li>amacron.ss01: X=524,Y=-2 (should be at baseline 0?)</li>
+<li>integral (U+222B): X=230,Y=-2 (should be at baseline 0?)</li>
 </ul>
 </li>
 <li>
 <ul>
-<li>aogonek.ss01: X=524,Y=-2 (should be at baseline 0?)</li>
+<li>uni030A (U+030A): X=303,Y=711 (should be at cap-height 710?)</li>
 </ul>
 </li>
 <li>
 <ul>
-<li>aring.ss01: X=524,Y=-2 (should be at baseline 0?)</li>
+<li>ring (U+02DA): X=303,Y=711 (should be at cap-height 710?)</li>
 </ul>
 </li>
 <li>
 <ul>
-<li>atilde.ss01: X=524,Y=-2 (should be at baseline 0?)</li>
+<li>uni25CF (U+25CF): X=303,Y=1 (should be at baseline 0?)</li>
 </ul>
 </li>
 <li>
 <ul>
-<li>adieresis.ss02: X=337.5,Y=738.5 (should be at cap-height 740?)</li>
+<li>uni25CF (U+25CF): X=303,Y=1 (should be at baseline 0?)</li>
 </ul>
 </li>
 <li>
 <ul>
-<li>adieresis.ss02: X=421,Y=738.5 (should be at cap-height 740?)</li>
+<li>circle (U+25CB): X=303,Y=1 (should be at baseline 0?)</li>
 </ul>
 </li>
 <li>
 <ul>
-<li>adieresis.ss02: X=141.5,Y=738.5 (should be at cap-height 740?)</li>
-</ul>
-</li>
-<li>
-<ul>
-<li>adieresis.ss02: X=225,Y=738.5 (should be at cap-height 740?)</li>
-</ul>
-</li>
-<li>
-<ul>
-<li>fi (U+FB01): X=137.5,Y=742 (should be at cap-height 740?)</li>
-</ul>
-</li>
-<li>
-<ul>
-<li>fl (U+FB02): X=137.5,Y=742 (should be at cap-height 740?)</li>
-</ul>
-</li>
-<li>
-<ul>
-<li>seven.dnom: X=228,Y=1 (should be at baseline 0?)</li>
-</ul>
-</li>
-<li>
-<ul>
-<li>seven.dnom: X=298,Y=1 (should be at baseline 0?)</li>
-</ul>
-</li>
-<li>
-<ul>
-<li>uni2083 (U+2083): X=166,Y=2 (should be at baseline 0?)</li>
-</ul>
-</li>
-<li>
-<ul>
-<li>uni2083 (U+2083): X=232,Y=2 (should be at baseline 0?)</li>
-</ul>
-</li>
-<li>
-<ul>
-<li>braceleft (U+007B): X=348.5,Y=739 (should be at cap-height 740?)</li>
-</ul>
-</li>
-<li>
-<ul>
-<li>braceleft (U+007B): X=348.5,Y=1 (should be at baseline 0?)</li>
-</ul>
-</li>
-<li>
-<ul>
-<li>braceright (U+007D): X=271.5,Y=1 (should be at baseline 0?)</li>
-</ul>
-</li>
-<li>
-<ul>
-<li>braceright (U+007D): X=271.5,Y=739 (should be at cap-height 740?)</li>
-</ul>
-</li>
-<li>
-<ul>
-<li>florin (U+0192): X=540,Y=739 (should be at cap-height 740?)</li>
-</ul>
-</li>
-<li>
-<ul>
-<li>florin (U+0192): X=174,Y=-1 (should be at baseline 0?)</li>
-</ul>
-</li>
-<li>
-<ul>
-<li>at (U+0040): X=215.5,Y=1.5 (should be at baseline 0?)</li>
-</ul>
-</li>
-<li>
-<ul>
-<li>dollar (U+0024): X=279,Y=1 (should be at baseline 0?)</li>
-</ul>
-</li>
-<li>
-<ul>
-<li>dollar (U+0024): X=279,Y=738 (should be at cap-height 740?)</li>
-</ul>
-</li>
-<li>
-<ul>
-<li>dollar (U+0024): X=353,Y=738 (should be at cap-height 740?)</li>
-</ul>
-</li>
-<li>
-<ul>
-<li>dollar (U+0024): X=353,Y=2 (should be at baseline 0?)</li>
-</ul>
-</li>
-<li>
-<ul>
-<li>Euro (U+20AC): X=560,Y=738 (should be at cap-height 740?)</li>
-</ul>
-</li>
-<li>
-<ul>
-<li>Euro (U+20AC): X=560,Y=2 (should be at baseline 0?)</li>
-</ul>
-</li>
-<li>
-<ul>
-<li>uni00B5 (U+00B5): X=218,Y=-2 (should be at baseline 0?)</li>
-</ul>
-</li>
-<li>
-<ul>
-<li>uni0308 (U+0308): X=366.5,Y=738.5 (should be at cap-height 740?)</li>
-</ul>
-</li>
-<li>
-<ul>
-<li>uni0308 (U+0308): X=450,Y=738.5 (should be at cap-height 740?)</li>
-</ul>
-</li>
-<li>
-<ul>
-<li>uni0308 (U+0308): X=170.5,Y=738.5 (should be at cap-height 740?)</li>
-</ul>
-</li>
-<li>
-<ul>
-<li>uni0308 (U+0308): X=254,Y=738.5 (should be at cap-height 740?)</li>
-</ul>
-</li>
-<li>
-<ul>
-<li>dieresis (U+00A8): X=366.5,Y=738.5 (should be at cap-height 740?)</li>
-</ul>
-</li>
-<li>
-<ul>
-<li>dieresis (U+00A8): X=450,Y=738.5 (should be at cap-height 740?)</li>
-</ul>
-</li>
-<li>
-<ul>
-<li>dieresis (U+00A8): X=170.5,Y=738.5 (should be at cap-height 740?)</li>
-</ul>
-</li>
-<li>
-<ul>
-<li>dieresis (U+00A8): X=254,Y=738.5 (should be at cap-height 740?)</li>
+<li>circle (U+25CB): X=303,Y=1 (should be at baseline 0?)</li>
 </ul>
 </li>
 </ul>
@@ -2263,8 +1950,14 @@ replace the dot.</h3>
     
 
     
-        <h3>Do any segments have colinear vectors?</h3>
-<div class='check__idlabel'>Check ID: outline_colinear_vectors</div>
+
+    
+
+    
+
+    
+        <h3>Check there are no overlapping path segments</h3>
+<div class='check__idlabel'>Check ID: overlapping_path_segments</div>
 
 <div class="rationale">
     
@@ -2276,7 +1969,7 @@ replace the dot.</h3>
         <details>
             <summary>
                 ⚠️
-                PaperMono-Regular.ttf
+                PaperMono[wght].ttf
                 
             </summary>
             <div>
@@ -2290,16 +1983,227 @@ replace the dot.</h3>
 
                             <span class='details_text'>
                                 
-                                    <p>The following glyphs have colinear vectors:</p>
+                                    <p>The following glyphs have overlapping path segments:</p>
 <ul>
-<li>uniA78B (U+A78B): Line { p0: (276.0, 380.0), p1: (266.0, 600.0) } -&gt; Line { p0: (266.0, 600.0), p1: (266.0, 740.0) }</li>
-<li>uniA78B (U+A78B): Line { p0: (354.0, 740.0), p1: (354.0, 600.0) } -&gt; Line { p0: (354.0, 600.0), p1: (344.0, 380.0) }</li>
-<li>uniA78C (U+A78C): Line { p0: (276.0, 418.0), p1: (266.0, 638.0) } -&gt; Line { p0: (266.0, 638.0), p1: (266.0, 778.0) }</li>
-<li>uniA78C (U+A78C): Line { p0: (354.0, 778.0), p1: (354.0, 638.0) } -&gt; Line { p0: (354.0, 638.0), p1: (344.0, 418.0) }</li>
+<li>dkshade (U+2593): Line(Line { p0: (603.0, -104.0), p1: (553.0, -104.0) }) has the same coordinates as a previous segment.</li>
+<li>dkshade (U+2593): Line(Line { p0: (303.0, -104.0), p1: (253.0, -104.0) }) has the same coordinates as a previous segment.</li>
+<li>dkshade (U+2593): Line(Line { p0: (403.0, -104.0), p1: (353.0, -104.0) }) has the same coordinates as a previous segment.</li>
+<li>dkshade (U+2593): Line(Line { p0: (203.0, -104.0), p1: (153.0, -104.0) }) has the same coordinates as a previous segment.</li>
+<li>dkshade (U+2593): Line(Line { p0: (503.0, -104.0), p1: (453.0, -104.0) }) has the same coordinates as a previous segment.</li>
+<li>dkshade (U+2593): Line(Line { p0: (103.0, -104.0), p1: (53.0, -104.0) }) has the same coordinates as a previous segment.</li>
+<li>dkshade (U+2593): Line(Line { p0: (553.0, -50.0), p1: (553.0, -104.0) }) has the same coordinates as a previous segment.</li>
+<li>dkshade (U+2593): Line(Line { p0: (503.0, -104.0), p1: (503.0, -50.0) }) has the same coordinates as a previous segment.</li>
+<li>dkshade (U+2593): Line(Line { p0: (453.0, -50.0), p1: (453.0, -104.0) }) has the same coordinates as a previous segment.</li>
+<li>dkshade (U+2593): Line(Line { p0: (403.0, -104.0), p1: (403.0, -50.0) }) has the same coordinates as a previous segment.</li>
+<li>dkshade (U+2593): Line(Line { p0: (353.0, -50.0), p1: (353.0, -104.0) }) has the same coordinates as a previous segment.</li>
+<li>dkshade (U+2593): Line(Line { p0: (303.0, -104.0), p1: (303.0, -50.0) }) has the same coordinates as a previous segment.</li>
+<li>dkshade (U+2593): Line(Line { p0: (253.0, -50.0), p1: (253.0, -104.0) }) has the same coordinates as a previous segment.</li>
+<li>dkshade (U+2593): Line(Line { p0: (203.0, -104.0), p1: (203.0, -50.0) }) has the same coordinates as a previous segment.</li>
+<li>dkshade (U+2593): Line(Line { p0: (53.0, -50.0), p1: (53.0, -104.0) }) has the same coordinates as a previous segment.</li>
+<li>dkshade (U+2593): Line(Line { p0: (153.0, -50.0), p1: (153.0, -104.0) }) has the same coordinates as a previous segment.</li>
+<li>dkshade (U+2593): Line(Line { p0: (103.0, -104.0), p1: (103.0, -50.0) }) has the same coordinates as a previous segment.</li>
+<li>dkshade (U+2593): Line(Line { p0: (553.0, -50.0), p1: (503.0, -50.0) }) has the same coordinates as a previous segment.</li>
+<li>dkshade (U+2593): Line(Line { p0: (453.0, -50.0), p1: (403.0, -50.0) }) has the same coordinates as a previous segment.</li>
+<li>dkshade (U+2593): Line(Line { p0: (353.0, -50.0), p1: (303.0, -50.0) }) has the same coordinates as a previous segment.</li>
+<li>dkshade (U+2593): Line(Line { p0: (253.0, -50.0), p1: (203.0, -50.0) }) has the same coordinates as a previous segment.</li>
+<li>dkshade (U+2593): Line(Line { p0: (53.0, -50.0), p1: (3.0, -50.0) }) has the same coordinates as a previous segment.</li>
+<li>dkshade (U+2593): Line(Line { p0: (153.0, -50.0), p1: (103.0, -50.0) }) has the same coordinates as a previous segment.</li>
+<li>dkshade (U+2593): Line(Line { p0: (553.0, 58.0), p1: (553.0, 4.0) }) has the same coordinates as a previous segment.</li>
+<li>dkshade (U+2593): Line(Line { p0: (553.0, 4.0), p1: (503.0, 4.0) }) has the same coordinates as a previous segment.</li>
+<li>dkshade (U+2593): Line(Line { p0: (503.0, 4.0), p1: (503.0, 58.0) }) has the same coordinates as a previous segment.</li>
+<li>dkshade (U+2593): Line(Line { p0: (453.0, 58.0), p1: (453.0, 4.0) }) has the same coordinates as a previous segment.</li>
+<li>dkshade (U+2593): Line(Line { p0: (453.0, 4.0), p1: (403.0, 4.0) }) has the same coordinates as a previous segment.</li>
+<li>dkshade (U+2593): Line(Line { p0: (403.0, 4.0), p1: (403.0, 58.0) }) has the same coordinates as a previous segment.</li>
+<li>dkshade (U+2593): Line(Line { p0: (353.0, 58.0), p1: (353.0, 4.0) }) has the same coordinates as a previous segment.</li>
+<li>dkshade (U+2593): Line(Line { p0: (353.0, 4.0), p1: (303.0, 4.0) }) has the same coordinates as a previous segment.</li>
+<li>dkshade (U+2593): Line(Line { p0: (303.0, 4.0), p1: (303.0, 58.0) }) has the same coordinates as a previous segment.</li>
+<li>dkshade (U+2593): Line(Line { p0: (253.0, 58.0), p1: (253.0, 4.0) }) has the same coordinates as a previous segment.</li>
+<li>dkshade (U+2593): Line(Line { p0: (253.0, 4.0), p1: (203.0, 4.0) }) has the same coordinates as a previous segment.</li>
+<li>dkshade (U+2593): Line(Line { p0: (203.0, 4.0), p1: (203.0, 58.0) }) has the same coordinates as a previous segment.</li>
+<li>dkshade (U+2593): Line(Line { p0: (53.0, 58.0), p1: (53.0, 4.0) }) has the same coordinates as a previous segment.</li>
+<li>dkshade (U+2593): Line(Line { p0: (53.0, 4.0), p1: (3.0, 4.0) }) has the same coordinates as a previous segment.</li>
+<li>dkshade (U+2593): Line(Line { p0: (153.0, 58.0), p1: (153.0, 4.0) }) has the same coordinates as a previous segment.</li>
+<li>dkshade (U+2593): Line(Line { p0: (153.0, 4.0), p1: (103.0, 4.0) }) has the same coordinates as a previous segment.</li>
+<li>dkshade (U+2593): Line(Line { p0: (103.0, 4.0), p1: (103.0, 58.0) }) has the same coordinates as a previous segment.</li>
+<li>dkshade (U+2593): Line(Line { p0: (603.0, 58.0), p1: (553.0, 58.0) }) has the same coordinates as a previous segment.</li>
+<li>dkshade (U+2593): Line(Line { p0: (303.0, 58.0), p1: (253.0, 58.0) }) has the same coordinates as a previous segment.</li>
+<li>dkshade (U+2593): Line(Line { p0: (403.0, 58.0), p1: (353.0, 58.0) }) has the same coordinates as a previous segment.</li>
+<li>dkshade (U+2593): Line(Line { p0: (203.0, 58.0), p1: (153.0, 58.0) }) has the same coordinates as a previous segment.</li>
+<li>dkshade (U+2593): Line(Line { p0: (503.0, 58.0), p1: (453.0, 58.0) }) has the same coordinates as a previous segment.</li>
+<li>dkshade (U+2593): Line(Line { p0: (103.0, 58.0), p1: (53.0, 58.0) }) has the same coordinates as a previous segment.</li>
+<li>dkshade (U+2593): Line(Line { p0: (603.0, 112.0), p1: (553.0, 112.0) }) has the same coordinates as a previous segment.</li>
+<li>dkshade (U+2593): Line(Line { p0: (303.0, 112.0), p1: (253.0, 112.0) }) has the same coordinates as a previous segment.</li>
+<li>dkshade (U+2593): Line(Line { p0: (403.0, 112.0), p1: (353.0, 112.0) }) has the same coordinates as a previous segment.</li>
+<li>dkshade (U+2593): Line(Line { p0: (203.0, 112.0), p1: (153.0, 112.0) }) has the same coordinates as a previous segment.</li>
+<li>dkshade (U+2593): Line(Line { p0: (503.0, 112.0), p1: (453.0, 112.0) }) has the same coordinates as a previous segment.</li>
+<li>dkshade (U+2593): Line(Line { p0: (103.0, 112.0), p1: (53.0, 112.0) }) has the same coordinates as a previous segment.</li>
+<li>dkshade (U+2593): Line(Line { p0: (553.0, 166.0), p1: (553.0, 112.0) }) has the same coordinates as a previous segment.</li>
+<li>dkshade (U+2593): Line(Line { p0: (503.0, 112.0), p1: (503.0, 166.0) }) has the same coordinates as a previous segment.</li>
+<li>dkshade (U+2593): Line(Line { p0: (453.0, 166.0), p1: (453.0, 112.0) }) has the same coordinates as a previous segment.</li>
+<li>dkshade (U+2593): Line(Line { p0: (403.0, 112.0), p1: (403.0, 166.0) }) has the same coordinates as a previous segment.</li>
+<li>dkshade (U+2593): Line(Line { p0: (353.0, 166.0), p1: (353.0, 112.0) }) has the same coordinates as a previous segment.</li>
+<li>dkshade (U+2593): Line(Line { p0: (303.0, 112.0), p1: (303.0, 166.0) }) has the same coordinates as a previous segment.</li>
+<li>dkshade (U+2593): Line(Line { p0: (253.0, 166.0), p1: (253.0, 112.0) }) has the same coordinates as a previous segment.</li>
+<li>dkshade (U+2593): Line(Line { p0: (203.0, 112.0), p1: (203.0, 166.0) }) has the same coordinates as a previous segment.</li>
+<li>dkshade (U+2593): Line(Line { p0: (53.0, 166.0), p1: (53.0, 112.0) }) has the same coordinates as a previous segment.</li>
+<li>dkshade (U+2593): Line(Line { p0: (153.0, 166.0), p1: (153.0, 112.0) }) has the same coordinates as a previous segment.</li>
+<li>dkshade (U+2593): Line(Line { p0: (103.0, 112.0), p1: (103.0, 166.0) }) has the same coordinates as a previous segment.</li>
+<li>dkshade (U+2593): Line(Line { p0: (553.0, 166.0), p1: (503.0, 166.0) }) has the same coordinates as a previous segment.</li>
+<li>dkshade (U+2593): Line(Line { p0: (453.0, 166.0), p1: (403.0, 166.0) }) has the same coordinates as a previous segment.</li>
+<li>dkshade (U+2593): Line(Line { p0: (353.0, 166.0), p1: (303.0, 166.0) }) has the same coordinates as a previous segment.</li>
+<li>dkshade (U+2593): Line(Line { p0: (253.0, 166.0), p1: (203.0, 166.0) }) has the same coordinates as a previous segment.</li>
+<li>dkshade (U+2593): Line(Line { p0: (53.0, 166.0), p1: (3.0, 166.0) }) has the same coordinates as a previous segment.</li>
+<li>dkshade (U+2593): Line(Line { p0: (153.0, 166.0), p1: (103.0, 166.0) }) has the same coordinates as a previous segment.</li>
+<li>dkshade (U+2593): Line(Line { p0: (553.0, 274.0), p1: (553.0, 220.0) }) has the same coordinates as a previous segment.</li>
+<li>dkshade (U+2593): Line(Line { p0: (553.0, 220.0), p1: (503.0, 220.0) }) has the same coordinates as a previous segment.</li>
+<li>dkshade (U+2593): Line(Line { p0: (503.0, 220.0), p1: (503.0, 274.0) }) has the same coordinates as a previous segment.</li>
+<li>dkshade (U+2593): Line(Line { p0: (453.0, 274.0), p1: (453.0, 220.0) }) has the same coordinates as a previous segment.</li>
+<li>dkshade (U+2593): Line(Line { p0: (453.0, 220.0), p1: (403.0, 220.0) }) has the same coordinates as a previous segment.</li>
+<li>dkshade (U+2593): Line(Line { p0: (403.0, 220.0), p1: (403.0, 274.0) }) has the same coordinates as a previous segment.</li>
+<li>dkshade (U+2593): Line(Line { p0: (353.0, 274.0), p1: (353.0, 220.0) }) has the same coordinates as a previous segment.</li>
+<li>dkshade (U+2593): Line(Line { p0: (353.0, 220.0), p1: (303.0, 220.0) }) has the same coordinates as a previous segment.</li>
+<li>dkshade (U+2593): Line(Line { p0: (303.0, 220.0), p1: (303.0, 274.0) }) has the same coordinates as a previous segment.</li>
+<li>dkshade (U+2593): Line(Line { p0: (253.0, 274.0), p1: (253.0, 220.0) }) has the same coordinates as a previous segment.</li>
+<li>dkshade (U+2593): Line(Line { p0: (253.0, 220.0), p1: (203.0, 220.0) }) has the same coordinates as a previous segment.</li>
+<li>dkshade (U+2593): Line(Line { p0: (203.0, 220.0), p1: (203.0, 274.0) }) has the same coordinates as a previous segment.</li>
+<li>dkshade (U+2593): Line(Line { p0: (53.0, 274.0), p1: (53.0, 220.0) }) has the same coordinates as a previous segment.</li>
+<li>dkshade (U+2593): Line(Line { p0: (53.0, 220.0), p1: (3.0, 220.0) }) has the same coordinates as a previous segment.</li>
+<li>dkshade (U+2593): Line(Line { p0: (153.0, 274.0), p1: (153.0, 220.0) }) has the same coordinates as a previous segment.</li>
+<li>dkshade (U+2593): Line(Line { p0: (153.0, 220.0), p1: (103.0, 220.0) }) has the same coordinates as a previous segment.</li>
+<li>dkshade (U+2593): Line(Line { p0: (103.0, 220.0), p1: (103.0, 274.0) }) has the same coordinates as a previous segment.</li>
+<li>dkshade (U+2593): Line(Line { p0: (603.0, 274.0), p1: (553.0, 274.0) }) has the same coordinates as a previous segment.</li>
+<li>dkshade (U+2593): Line(Line { p0: (303.0, 274.0), p1: (253.0, 274.0) }) has the same coordinates as a previous segment.</li>
+<li>dkshade (U+2593): Line(Line { p0: (403.0, 274.0), p1: (353.0, 274.0) }) has the same coordinates as a previous segment.</li>
+<li>dkshade (U+2593): Line(Line { p0: (203.0, 274.0), p1: (153.0, 274.0) }) has the same coordinates as a previous segment.</li>
+<li>dkshade (U+2593): Line(Line { p0: (503.0, 274.0), p1: (453.0, 274.0) }) has the same coordinates as a previous segment.</li>
+<li>dkshade (U+2593): Line(Line { p0: (103.0, 274.0), p1: (53.0, 274.0) }) has the same coordinates as a previous segment.</li>
+<li>dkshade (U+2593): Line(Line { p0: (603.0, 328.0), p1: (553.0, 328.0) }) has the same coordinates as a previous segment.</li>
+<li>dkshade (U+2593): Line(Line { p0: (303.0, 328.0), p1: (253.0, 328.0) }) has the same coordinates as a previous segment.</li>
+<li>dkshade (U+2593): Line(Line { p0: (403.0, 328.0), p1: (353.0, 328.0) }) has the same coordinates as a previous segment.</li>
+<li>dkshade (U+2593): Line(Line { p0: (203.0, 328.0), p1: (153.0, 328.0) }) has the same coordinates as a previous segment.</li>
+<li>dkshade (U+2593): Line(Line { p0: (503.0, 328.0), p1: (453.0, 328.0) }) has the same coordinates as a previous segment.</li>
+<li>dkshade (U+2593): Line(Line { p0: (103.0, 328.0), p1: (53.0, 328.0) }) has the same coordinates as a previous segment.</li>
+<li>dkshade (U+2593): Line(Line { p0: (553.0, 382.0), p1: (553.0, 328.0) }) has the same coordinates as a previous segment.</li>
+<li>dkshade (U+2593): Line(Line { p0: (503.0, 328.0), p1: (503.0, 382.0) }) has the same coordinates as a previous segment.</li>
+<li>dkshade (U+2593): Line(Line { p0: (453.0, 382.0), p1: (453.0, 328.0) }) has the same coordinates as a previous segment.</li>
+<li>dkshade (U+2593): Line(Line { p0: (403.0, 328.0), p1: (403.0, 382.0) }) has the same coordinates as a previous segment.</li>
+<li>dkshade (U+2593): Line(Line { p0: (353.0, 382.0), p1: (353.0, 328.0) }) has the same coordinates as a previous segment.</li>
+<li>dkshade (U+2593): Line(Line { p0: (303.0, 328.0), p1: (303.0, 382.0) }) has the same coordinates as a previous segment.</li>
+<li>dkshade (U+2593): Line(Line { p0: (253.0, 382.0), p1: (253.0, 328.0) }) has the same coordinates as a previous segment.</li>
+<li>dkshade (U+2593): Line(Line { p0: (203.0, 328.0), p1: (203.0, 382.0) }) has the same coordinates as a previous segment.</li>
+<li>dkshade (U+2593): Line(Line { p0: (53.0, 382.0), p1: (53.0, 328.0) }) has the same coordinates as a previous segment.</li>
+<li>dkshade (U+2593): Line(Line { p0: (153.0, 382.0), p1: (153.0, 328.0) }) has the same coordinates as a previous segment.</li>
+<li>dkshade (U+2593): Line(Line { p0: (103.0, 328.0), p1: (103.0, 382.0) }) has the same coordinates as a previous segment.</li>
+<li>dkshade (U+2593): Line(Line { p0: (553.0, 382.0), p1: (503.0, 382.0) }) has the same coordinates as a previous segment.</li>
+<li>dkshade (U+2593): Line(Line { p0: (453.0, 382.0), p1: (403.0, 382.0) }) has the same coordinates as a previous segment.</li>
+<li>dkshade (U+2593): Line(Line { p0: (353.0, 382.0), p1: (303.0, 382.0) }) has the same coordinates as a previous segment.</li>
+<li>dkshade (U+2593): Line(Line { p0: (253.0, 382.0), p1: (203.0, 382.0) }) has the same coordinates as a previous segment.</li>
+<li>dkshade (U+2593): Line(Line { p0: (53.0, 382.0), p1: (3.0, 382.0) }) has the same coordinates as a previous segment.</li>
+<li>dkshade (U+2593): Line(Line { p0: (153.0, 382.0), p1: (103.0, 382.0) }) has the same coordinates as a previous segment.</li>
+<li>dkshade (U+2593): Line(Line { p0: (553.0, 490.0), p1: (553.0, 436.0) }) has the same coordinates as a previous segment.</li>
+<li>dkshade (U+2593): Line(Line { p0: (553.0, 436.0), p1: (503.0, 436.0) }) has the same coordinates as a previous segment.</li>
+<li>dkshade (U+2593): Line(Line { p0: (503.0, 436.0), p1: (503.0, 490.0) }) has the same coordinates as a previous segment.</li>
+<li>dkshade (U+2593): Line(Line { p0: (453.0, 490.0), p1: (453.0, 436.0) }) has the same coordinates as a previous segment.</li>
+<li>dkshade (U+2593): Line(Line { p0: (453.0, 436.0), p1: (403.0, 436.0) }) has the same coordinates as a previous segment.</li>
+<li>dkshade (U+2593): Line(Line { p0: (403.0, 436.0), p1: (403.0, 490.0) }) has the same coordinates as a previous segment.</li>
+<li>dkshade (U+2593): Line(Line { p0: (353.0, 490.0), p1: (353.0, 436.0) }) has the same coordinates as a previous segment.</li>
+<li>dkshade (U+2593): Line(Line { p0: (353.0, 436.0), p1: (303.0, 436.0) }) has the same coordinates as a previous segment.</li>
+<li>dkshade (U+2593): Line(Line { p0: (303.0, 436.0), p1: (303.0, 490.0) }) has the same coordinates as a previous segment.</li>
+<li>dkshade (U+2593): Line(Line { p0: (253.0, 490.0), p1: (253.0, 436.0) }) has the same coordinates as a previous segment.</li>
+<li>dkshade (U+2593): Line(Line { p0: (253.0, 436.0), p1: (203.0, 436.0) }) has the same coordinates as a previous segment.</li>
+<li>dkshade (U+2593): Line(Line { p0: (203.0, 436.0), p1: (203.0, 490.0) }) has the same coordinates as a previous segment.</li>
+<li>dkshade (U+2593): Line(Line { p0: (53.0, 490.0), p1: (53.0, 436.0) }) has the same coordinates as a previous segment.</li>
+<li>dkshade (U+2593): Line(Line { p0: (53.0, 436.0), p1: (3.0, 436.0) }) has the same coordinates as a previous segment.</li>
+<li>dkshade (U+2593): Line(Line { p0: (153.0, 490.0), p1: (153.0, 436.0) }) has the same coordinates as a previous segment.</li>
+<li>dkshade (U+2593): Line(Line { p0: (153.0, 436.0), p1: (103.0, 436.0) }) has the same coordinates as a previous segment.</li>
+<li>dkshade (U+2593): Line(Line { p0: (103.0, 436.0), p1: (103.0, 490.0) }) has the same coordinates as a previous segment.</li>
+<li>dkshade (U+2593): Line(Line { p0: (303.0, 490.0), p1: (253.0, 490.0) }) has the same coordinates as a previous segment.</li>
+<li>dkshade (U+2593): Line(Line { p0: (203.0, 490.0), p1: (153.0, 490.0) }) has the same coordinates as a previous segment.</li>
+<li>dkshade (U+2593): Line(Line { p0: (103.0, 490.0), p1: (53.0, 490.0) }) has the same coordinates as a previous segment.</li>
+<li>dkshade (U+2593): Line(Line { p0: (603.0, 490.0), p1: (553.0, 490.0) }) has the same coordinates as a previous segment.</li>
+<li>dkshade (U+2593): Line(Line { p0: (503.0, 490.0), p1: (453.0, 490.0) }) has the same coordinates as a previous segment.</li>
+<li>dkshade (U+2593): Line(Line { p0: (403.0, 490.0), p1: (353.0, 490.0) }) has the same coordinates as a previous segment.</li>
+<li>dkshade (U+2593): Line(Line { p0: (603.0, 544.0), p1: (553.0, 544.0) }) has the same coordinates as a previous segment.</li>
+<li>dkshade (U+2593): Line(Line { p0: (303.0, 544.0), p1: (253.0, 544.0) }) has the same coordinates as a previous segment.</li>
+<li>dkshade (U+2593): Line(Line { p0: (403.0, 544.0), p1: (353.0, 544.0) }) has the same coordinates as a previous segment.</li>
+<li>dkshade (U+2593): Line(Line { p0: (203.0, 544.0), p1: (153.0, 544.0) }) has the same coordinates as a previous segment.</li>
+<li>dkshade (U+2593): Line(Line { p0: (503.0, 544.0), p1: (453.0, 544.0) }) has the same coordinates as a previous segment.</li>
+<li>dkshade (U+2593): Line(Line { p0: (103.0, 544.0), p1: (53.0, 544.0) }) has the same coordinates as a previous segment.</li>
+<li>dkshade (U+2593): Line(Line { p0: (553.0, 598.0), p1: (553.0, 544.0) }) has the same coordinates as a previous segment.</li>
+<li>dkshade (U+2593): Line(Line { p0: (503.0, 544.0), p1: (503.0, 598.0) }) has the same coordinates as a previous segment.</li>
+<li>dkshade (U+2593): Line(Line { p0: (453.0, 598.0), p1: (453.0, 544.0) }) has the same coordinates as a previous segment.</li>
+<li>dkshade (U+2593): Line(Line { p0: (403.0, 544.0), p1: (403.0, 598.0) }) has the same coordinates as a previous segment.</li>
+<li>dkshade (U+2593): Line(Line { p0: (353.0, 598.0), p1: (353.0, 544.0) }) has the same coordinates as a previous segment.</li>
+<li>dkshade (U+2593): Line(Line { p0: (303.0, 544.0), p1: (303.0, 598.0) }) has the same coordinates as a previous segment.</li>
+<li>dkshade (U+2593): Line(Line { p0: (253.0, 598.0), p1: (253.0, 544.0) }) has the same coordinates as a previous segment.</li>
+<li>dkshade (U+2593): Line(Line { p0: (203.0, 544.0), p1: (203.0, 598.0) }) has the same coordinates as a previous segment.</li>
+<li>dkshade (U+2593): Line(Line { p0: (53.0, 598.0), p1: (53.0, 544.0) }) has the same coordinates as a previous segment.</li>
+<li>dkshade (U+2593): Line(Line { p0: (153.0, 598.0), p1: (153.0, 544.0) }) has the same coordinates as a previous segment.</li>
+<li>dkshade (U+2593): Line(Line { p0: (103.0, 544.0), p1: (103.0, 598.0) }) has the same coordinates as a previous segment.</li>
+<li>dkshade (U+2593): Line(Line { p0: (553.0, 598.0), p1: (503.0, 598.0) }) has the same coordinates as a previous segment.</li>
+<li>dkshade (U+2593): Line(Line { p0: (453.0, 598.0), p1: (403.0, 598.0) }) has the same coordinates as a previous segment.</li>
+<li>dkshade (U+2593): Line(Line { p0: (353.0, 598.0), p1: (303.0, 598.0) }) has the same coordinates as a previous segment.</li>
+<li>dkshade (U+2593): Line(Line { p0: (253.0, 598.0), p1: (203.0, 598.0) }) has the same coordinates as a previous segment.</li>
+<li>dkshade (U+2593): Line(Line { p0: (53.0, 598.0), p1: (3.0, 598.0) }) has the same coordinates as a previous segment.</li>
+<li>dkshade (U+2593): Line(Line { p0: (153.0, 598.0), p1: (103.0, 598.0) }) has the same coordinates as a previous segment.</li>
+<li>dkshade (U+2593): Line(Line { p0: (553.0, 706.0), p1: (553.0, 652.0) }) has the same coordinates as a previous segment.</li>
+<li>dkshade (U+2593): Line(Line { p0: (553.0, 652.0), p1: (503.0, 652.0) }) has the same coordinates as a previous segment.</li>
+<li>dkshade (U+2593): Line(Line { p0: (503.0, 652.0), p1: (503.0, 706.0) }) has the same coordinates as a previous segment.</li>
+<li>dkshade (U+2593): Line(Line { p0: (453.0, 706.0), p1: (453.0, 652.0) }) has the same coordinates as a previous segment.</li>
+<li>dkshade (U+2593): Line(Line { p0: (453.0, 652.0), p1: (403.0, 652.0) }) has the same coordinates as a previous segment.</li>
+<li>dkshade (U+2593): Line(Line { p0: (403.0, 652.0), p1: (403.0, 706.0) }) has the same coordinates as a previous segment.</li>
+<li>dkshade (U+2593): Line(Line { p0: (353.0, 706.0), p1: (353.0, 652.0) }) has the same coordinates as a previous segment.</li>
+<li>dkshade (U+2593): Line(Line { p0: (353.0, 652.0), p1: (303.0, 652.0) }) has the same coordinates as a previous segment.</li>
+<li>dkshade (U+2593): Line(Line { p0: (303.0, 652.0), p1: (303.0, 706.0) }) has the same coordinates as a previous segment.</li>
+<li>dkshade (U+2593): Line(Line { p0: (253.0, 706.0), p1: (253.0, 652.0) }) has the same coordinates as a previous segment.</li>
+<li>dkshade (U+2593): Line(Line { p0: (253.0, 652.0), p1: (203.0, 652.0) }) has the same coordinates as a previous segment.</li>
+<li>dkshade (U+2593): Line(Line { p0: (203.0, 652.0), p1: (203.0, 706.0) }) has the same coordinates as a previous segment.</li>
+<li>dkshade (U+2593): Line(Line { p0: (53.0, 706.0), p1: (53.0, 652.0) }) has the same coordinates as a previous segment.</li>
+<li>dkshade (U+2593): Line(Line { p0: (53.0, 652.0), p1: (3.0, 652.0) }) has the same coordinates as a previous segment.</li>
+<li>dkshade (U+2593): Line(Line { p0: (153.0, 706.0), p1: (153.0, 652.0) }) has the same coordinates as a previous segment.</li>
+<li>dkshade (U+2593): Line(Line { p0: (153.0, 652.0), p1: (103.0, 652.0) }) has the same coordinates as a previous segment.</li>
+<li>dkshade (U+2593): Line(Line { p0: (103.0, 652.0), p1: (103.0, 706.0) }) has the same coordinates as a previous segment.</li>
+<li>dkshade (U+2593): Line(Line { p0: (603.0, 706.0), p1: (553.0, 706.0) }) has the same coordinates as a previous segment.</li>
+<li>dkshade (U+2593): Line(Line { p0: (303.0, 706.0), p1: (253.0, 706.0) }) has the same coordinates as a previous segment.</li>
+<li>dkshade (U+2593): Line(Line { p0: (403.0, 706.0), p1: (353.0, 706.0) }) has the same coordinates as a previous segment.</li>
+<li>dkshade (U+2593): Line(Line { p0: (203.0, 706.0), p1: (153.0, 706.0) }) has the same coordinates as a previous segment.</li>
+<li>dkshade (U+2593): Line(Line { p0: (503.0, 706.0), p1: (453.0, 706.0) }) has the same coordinates as a previous segment.</li>
+<li>dkshade (U+2593): Line(Line { p0: (103.0, 706.0), p1: (53.0, 706.0) }) has the same coordinates as a previous segment.</li>
+<li>dkshade (U+2593): Line(Line { p0: (603.0, 760.0), p1: (553.0, 760.0) }) has the same coordinates as a previous segment.</li>
+<li>dkshade (U+2593): Line(Line { p0: (303.0, 760.0), p1: (253.0, 760.0) }) has the same coordinates as a previous segment.</li>
+<li>dkshade (U+2593): Line(Line { p0: (403.0, 760.0), p1: (353.0, 760.0) }) has the same coordinates as a previous segment.</li>
+<li>dkshade (U+2593): Line(Line { p0: (203.0, 760.0), p1: (153.0, 760.0) }) has the same coordinates as a previous segment.</li>
+<li>dkshade (U+2593): Line(Line { p0: (503.0, 760.0), p1: (453.0, 760.0) }) has the same coordinates as a previous segment.</li>
+<li>dkshade (U+2593): Line(Line { p0: (103.0, 760.0), p1: (53.0, 760.0) }) has the same coordinates as a previous segment.</li>
+<li>dkshade (U+2593): Line(Line { p0: (553.0, 814.0), p1: (553.0, 760.0) }) has the same coordinates as a previous segment.</li>
+<li>dkshade (U+2593): Line(Line { p0: (503.0, 760.0), p1: (503.0, 814.0) }) has the same coordinates as a previous segment.</li>
+<li>dkshade (U+2593): Line(Line { p0: (453.0, 814.0), p1: (453.0, 760.0) }) has the same coordinates as a previous segment.</li>
+<li>dkshade (U+2593): Line(Line { p0: (403.0, 760.0), p1: (403.0, 814.0) }) has the same coordinates as a previous segment.</li>
+<li>dkshade (U+2593): Line(Line { p0: (353.0, 814.0), p1: (353.0, 760.0) }) has the same coordinates as a previous segment.</li>
+<li>dkshade (U+2593): Line(Line { p0: (303.0, 760.0), p1: (303.0, 814.0) }) has the same coordinates as a previous segment.</li>
+<li>dkshade (U+2593): Line(Line { p0: (253.0, 814.0), p1: (253.0, 760.0) }) has the same coordinates as a previous segment.</li>
+<li>dkshade (U+2593): Line(Line { p0: (203.0, 760.0), p1: (203.0, 814.0) }) has the same coordinates as a previous segment.</li>
+<li>dkshade (U+2593): Line(Line { p0: (53.0, 814.0), p1: (53.0, 760.0) }) has the same coordinates as a previous segment.</li>
+<li>dkshade (U+2593): Line(Line { p0: (153.0, 814.0), p1: (153.0, 760.0) }) has the same coordinates as a previous segment.</li>
+<li>dkshade (U+2593): Line(Line { p0: (103.0, 760.0), p1: (103.0, 814.0) }) has the same coordinates as a previous segment.</li>
+<li>dkshade (U+2593): Line(Line { p0: (553.0, 814.0), p1: (503.0, 814.0) }) has the same coordinates as a previous segment.</li>
+<li>dkshade (U+2593): Line(Line { p0: (453.0, 814.0), p1: (403.0, 814.0) }) has the same coordinates as a previous segment.</li>
+<li>dkshade (U+2593): Line(Line { p0: (353.0, 814.0), p1: (303.0, 814.0) }) has the same coordinates as a previous segment.</li>
+<li>dkshade (U+2593): Line(Line { p0: (253.0, 814.0), p1: (203.0, 814.0) }) has the same coordinates as a previous segment.</li>
+<li>dkshade (U+2593): Line(Line { p0: (53.0, 814.0), p1: (3.0, 814.0) }) has the same coordinates as a previous segment.</li>
+<li>dkshade (U+2593): Line(Line { p0: (153.0, 814.0), p1: (103.0, 814.0) }) has the same coordinates as a previous segment.</li>
+<li>uni2318 (U+2318): Line(Line { p0: (317.0, 170.0), p1: (253.0, 180.0) }) has the same coordinates as a previous segment.</li>
+<li>uni2318 (U+2318): Line(Line { p0: (203.0, 230.0), p1: (193.0, 294.0) }) has the same coordinates as a previous segment.</li>
+<li>uni2318 (U+2318): Line(Line { p0: (317.0, 540.0), p1: (253.0, 530.0) }) has the same coordinates as a previous segment.</li>
+<li>uni2318 (U+2318): Line(Line { p0: (555.0, 230.0), p1: (565.0, 294.0) }) has the same coordinates as a previous segment.</li>
+<li>uni2318 (U+2318): Line(Line { p0: (193.0, 416.0), p1: (203.0, 480.0) }) has the same coordinates as a previous segment.</li>
+<li>uni2318 (U+2318): Line(Line { p0: (555.0, 480.0), p1: (565.0, 416.0) }) has the same coordinates as a previous segment.</li>
+<li>uni2318 (U+2318): Line(Line { p0: (441.0, 540.0), p1: (505.0, 530.0) }) has the same coordinates as a previous segment.</li>
+<li>uni2318 (U+2318): Line(Line { p0: (505.0, 180.0), p1: (441.0, 170.0) }) has the same coordinates as a previous segment.</li>
 </ul>
                                 
                                 
-                                     [code: found-colinear-vectors]
+                                     [code: overlapping-path-segments]
                                 
                             </span>
                         </li>
@@ -2314,173 +2218,6 @@ replace the dot.</h3>
     
 
     
-
-    
-        <h3>Do outlines contain any jaggy segments?</h3>
-<div class='check__idlabel'>Check ID: outline_jaggy_segments</div>
-
-<div class="rationale">
-    
-
-</div>
-
-
-    
-        <details>
-            <summary>
-                ⚠️
-                PaperMono-Regular.ttf
-                
-            </summary>
-            <div>
-                <ul>
-                
-                
-                        <li class='details_item'>
-                            <span class='details_indicator'>
-                            ⚠️ WARN
-                            </span>
-
-                            <span class='details_text'>
-                                
-                                    <p>The following glyphs have jaggy segments:</p>
-<ul>
-<li>M (U+004D): Line(Line { p0: (272.0, 80.0), p1: (144.0, 626.0) })/Line(Line { p0: (144.0, 626.0), p1: (144.0, 0.0) }) = 13.193719207186096</li>
-<li>M (U+004D): Line(Line { p0: (476.0, 0.0), p1: (476.0, 626.0) })/Line(Line { p0: (476.0, 626.0), p1: (348.0, 80.0) }) = 13.193719207186096</li>
-<li>W (U+0057): Line(Line { p0: (376.0, 0.0), p1: (310.0, 553.0) })/Line(Line { p0: (310.0, 553.0), p1: (244.0, 0.0) }) = 13.612001657349818</li>
-<li>Wacute (U+1E82): Line(Line { p0: (376.0, 0.0), p1: (310.0, 553.0) })/Line(Line { p0: (310.0, 553.0), p1: (244.0, 0.0) }) = 13.612001657349818</li>
-<li>Wcircumflex (U+0174): Line(Line { p0: (376.0, 0.0), p1: (310.0, 553.0) })/Line(Line { p0: (310.0, 553.0), p1: (244.0, 0.0) }) = 13.612001657349818</li>
-<li>Wdieresis (U+1E84): Line(Line { p0: (376.0, 0.0), p1: (310.0, 553.0) })/Line(Line { p0: (310.0, 553.0), p1: (244.0, 0.0) }) = 13.612001657349818</li>
-<li>Wgrave (U+1E80): Line(Line { p0: (376.0, 0.0), p1: (310.0, 553.0) })/Line(Line { p0: (310.0, 553.0), p1: (244.0, 0.0) }) = 13.612001657349818</li>
-<li>six (U+0036): Quad(QuadBez { p0: (182.5, 400.0), p1: (177.0, 390.0), p2: (174.0, 383.0) })/Quad(QuadBez { p0: (174.0, 383.0), p1: (183.0, 396.0), p2: (204.0, 416.5) }) = 11.496563017585768</li>
-<li>nine (U+0039): Quad(QuadBez { p0: (437.5, 340.0), p1: (443.0, 350.0), p2: (446.0, 357.0) })/Quad(QuadBez { p0: (446.0, 357.0), p1: (437.0, 344.0), p2: (416.0, 323.5) }) = 11.496563017585768</li>
-<li>trademark (U+2122): Line(Line { p0: (526.0, 390.0), p1: (526.0, 656.0) })/Line(Line { p0: (526.0, 656.0), p1: (470.0, 428.0) }) = 13.799485396019389</li>
-<li>trademark (U+2122): Line(Line { p0: (426.0, 428.0), p1: (370.0, 656.0) })/Line(Line { p0: (370.0, 656.0), p1: (370.0, 390.0) }) = 13.799485396019389</li>
-<li>uni2116 (U+2116): Line(Line { p0: (140.0, 740.0), p1: (242.0, 195.0) })/Line(Line { p0: (242.0, 195.0), p1: (242.0, 740.0) }) = 10.600611698467386</li>
-<li>uni2116 (U+2116): Line(Line { p0: (220.0, 0.0), p1: (118.0, 545.0) })/Line(Line { p0: (118.0, 545.0), p1: (118.0, 0.0) }) = 10.600611698467386</li>
-</ul>
-                                
-                                
-                                     [code: found-jaggy-segments]
-                                
-                            </span>
-                        </li>
-                
-                
-                </ul>
-            </div>
-        </details>
-    
-
-
-    
-
-    
-
-    
-        <h3>Do outlines contain any semi-vertical or semi-horizontal lines?</h3>
-<div class='check__idlabel'>Check ID: outline_semi_vertical</div>
-
-<div class="rationale">
-    
-
-</div>
-
-
-    
-        <details>
-            <summary>
-                ⚠️
-                PaperMono-Regular.ttf
-                
-            </summary>
-            <div>
-                <ul>
-                
-                
-                        <li class='details_item'>
-                            <span class='details_indicator'>
-                            ⚠️ WARN
-                            </span>
-
-                            <span class='details_text'>
-                                
-                                    <p>The following glyphs have semi-vertical/semi-horizontal lines:</p>
-<ul>
-<li>uni2197 (U+2197): Line(Line { p0: (488.0, 142.0), p1: (487.0, 470.0) })</li>
-<li>uni2198 (U+2198): Line(Line { p0: (104.0, 170.0), p1: (432.0, 171.0) })</li>
-<li>uni2199 (U+2199): Line(Line { p0: (188.0, 171.0), p1: (516.0, 170.0) })</li>
-<li>uni2196 (U+2196): Line(Line { p0: (133.0, 470.0), p1: (132.0, 142.0) })</li>
-</ul>
-                                
-                                
-                                     [code: found-semi-vertical]
-                                
-                            </span>
-                        </li>
-                
-                
-                </ul>
-            </div>
-        </details>
-    
-
-
-    
-
-    
-        <h3>Are any segments inordinately short?</h3>
-<div class='check__idlabel'>Check ID: outline_short_segments</div>
-
-<div class="rationale">
-    
-
-</div>
-
-
-    
-        <details>
-            <summary>
-                ⚠️
-                PaperMono-Regular.ttf
-                
-            </summary>
-            <div>
-                <ul>
-                
-                
-                        <li class='details_item'>
-                            <span class='details_indicator'>
-                            ⚠️ WARN
-                            </span>
-
-                            <span class='details_text'>
-                                
-                                    <p>The following glyphs have short segments:</p>
-<ul>
-<li>at (U+0040) contains a short segment Quad(QuadBez { p0: (476.0, 174.0), p1: (489.0, 174.0), p2: (501.5, 187.5) })</li>
-<li>lozenge (U+25CA) contains a short segment Line(Line { p0: (259.0, -18.0), p1: (260.0, -16.0) })</li>
-<li>lozenge (U+25CA) contains a short segment Line(Line { p0: (260.0, 689.0), p1: (259.0, 690.0) })</li>
-<li>lozenge (U+25CA) contains a short segment Line(Line { p0: (259.0, 690.0), p1: (260.0, 690.0) })</li>
-<li>lozenge (U+25CA) contains a short segment Line(Line { p0: (260.0, 690.0), p1: (261.0, 691.0) })</li>
-<li>lozenge (U+25CA) contains a short segment Line(Line { p0: (361.0, 691.0), p1: (360.0, 689.0) })</li>
-<li>lozenge (U+25CA) contains a short segment Line(Line { p0: (360.0, -16.0), p1: (361.0, -17.0) })</li>
-<li>lozenge (U+25CA) contains a short segment Line(Line { p0: (361.0, -17.0), p1: (360.0, -17.0) })</li>
-<li>lozenge (U+25CA) contains a short segment Line(Line { p0: (360.0, -17.0), p1: (359.0, -18.0) })</li>
-</ul>
-                                
-                                
-                                     [code: found-short-segments]
-                                
-                            </span>
-                        </li>
-                
-                
-                </ul>
-            </div>
-        </details>
-    
-
 
     
 

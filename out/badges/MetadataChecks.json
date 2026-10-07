@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
   "label": "Metadata Checks",
-  "message": "0%",
-  "color": "red"
+  "message": "50%",
+  "color": "orange"
 }

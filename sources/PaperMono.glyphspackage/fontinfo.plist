@@ -925,7 +925,7 @@ tag = slng;
 );
 }
 );
-date = "2026-10-05 20:22:17 +0000";
+date = "2026-10-07 15:04:04 +0000";
 familyName = "Paper Mono";
 featurePrefixes = (
 {
@@ -2358,7 +2358,7 @@ key = copyrights;
 values = (
 {
 language = dflt;
-value = "Copyright 2025 The Paper Mono Project Authors https://github.com/paper-design/paper-mono";
+value = "Copyright 2025 The Paper Mono Project Authors (https://github.com/paper-design/paper-mono)";
 }
 );
 },
@@ -4713,6 +4713,6 @@ O,
 );
 };
 };
-versionMajor = 0;
-versionMinor = 322;
+versionMajor = 1;
+versionMinor = 0;
 }

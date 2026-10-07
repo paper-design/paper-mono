@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
   "label": "Licensing Checks",
-  "message": "86%",
-  "color": "green"
+  "message": "100%",
+  "color": "brightgreen"
 }
