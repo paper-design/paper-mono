@@ -3,12 +3,15 @@ FAMILY=$(shell python3 scripts/read-config.py --family )
 DRAWBOT_SCRIPTS=$(shell ls documentation/*.py)
 DRAWBOT_OUTPUT=$(shell ls documentation/*.py | sed 's/\.py/.png/g')
 
+.PHONY: build-term
+
 help:
 	@echo "###"
 	@echo "# Build targets for $(FAMILY)"
 	@echo "###"
 	@echo
 	@echo "  make build:  Builds the fonts and places them in the fonts/ directory"
+	@echo "  make build-term: Builds only Paper Mono Term into fonts/terminal/"
 	@echo "  make test:   Tests the fonts with fontspector"
 	@echo "  make proof:  Creates HTML proof documents in the proof/ directory"
 	@echo "  make images: Creates PNG specimen images in the documentation/ directory"
@@ -21,7 +24,14 @@ venv: venv/touchfile
 customize: venv
 	. venv/bin/activate; python3 scripts/customize.py
 
-build.stamp: venv sources/config.yaml $(SOURCES)
+sources/PaperMonoTerm.glyphs: venv scripts/make-term-source.py $(SOURCES)
+	. venv/bin/activate; python3 scripts/make-term-source.py $(SOURCES) $@
+
+build-term: venv sources/PaperMonoTerm.glyphs
+	rm -rf fonts/terminal
+	. venv/bin/activate; gftools builder sources/config-term.yaml
+
+build.stamp: venv sources/config.yaml sources/config-term.yaml $(SOURCES) sources/PaperMonoTerm.glyphs
 	rm -rf fonts
 	(for config in sources/config*.yaml; do . venv/bin/activate; gftools builder $$config; done)  && touch build.stamp
 
