@@ -20,7 +20,6 @@ shapes = (
 ref = A;
 },
 {
-pos = (1,0);
 ref = brevecomb.case;
 }
 );

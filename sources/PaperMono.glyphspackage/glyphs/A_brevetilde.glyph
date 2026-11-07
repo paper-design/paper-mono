@@ -1,0 +1,54 @@
+{
+glyphname = Abrevetilde;
+layers = (
+{
+layerId = "742FEEFA-C05E-41BB-8475-8B252540AEF7";
+shapes = (
+{
+ref = A;
+},
+{
+ref = brevecomb.case;
+},
+{
+pos = (0,171);
+ref = tildecomb.case;
+}
+);
+width = 606;
+},
+{
+layerId = "2B4B7FDD-7E66-4143-AA8B-CAF759C636CA";
+shapes = (
+{
+ref = A;
+},
+{
+ref = brevecomb.case;
+},
+{
+pos = (0,171);
+ref = tildecomb.case;
+}
+);
+width = 606;
+},
+{
+layerId = m003;
+shapes = (
+{
+ref = A;
+},
+{
+ref = brevecomb.case;
+},
+{
+pos = (0,171);
+ref = tildecomb.case;
+}
+);
+width = 606;
+}
+);
+unicode = 7860;
+}

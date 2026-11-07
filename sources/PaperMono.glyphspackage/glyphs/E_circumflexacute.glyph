@@ -1,0 +1,57 @@
+{
+glyphname = Ecircumflexacute;
+layers = (
+{
+layerId = "742FEEFA-C05E-41BB-8475-8B252540AEF7";
+shapes = (
+{
+ref = E;
+},
+{
+pos = (-6,0);
+ref = circumflexcomb.case;
+},
+{
+pos = (35,182);
+ref = acutecomb.case;
+}
+);
+width = 606;
+},
+{
+layerId = "2B4B7FDD-7E66-4143-AA8B-CAF759C636CA";
+shapes = (
+{
+ref = E;
+},
+{
+pos = (1,0);
+ref = circumflexcomb.case;
+},
+{
+pos = (42,181);
+ref = acutecomb.case;
+}
+);
+width = 606;
+},
+{
+layerId = m003;
+shapes = (
+{
+ref = E;
+},
+{
+pos = (10,0);
+ref = circumflexcomb.case;
+},
+{
+pos = (51,181);
+ref = acutecomb.case;
+}
+);
+width = 606;
+}
+);
+unicode = 7870;
+}

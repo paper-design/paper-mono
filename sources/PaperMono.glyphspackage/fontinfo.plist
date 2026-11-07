@@ -923,9 +923,37 @@ data = Latn;
 tag = slng;
 }
 );
+},
+{
+name = unicodeRanges;
+value = (
+0,
+1,
+2,
+6,
+31,
+32,
+33,
+35,
+36,
+37,
+43,
+44,
+45,
+46
+);
+},
+{
+name = codePageRanges;
+value = (
+"1252",
+"1250",
+"1254",
+"1258"
+);
 }
 );
-date = "2026-10-07 15:04:04 +0000";
+date = "2026-11-07 00:06:27 +0000";
 familyName = "Paper Mono";
 featurePrefixes = (
 {
@@ -1265,6 +1293,18 @@ sub amacron by amacron.cv01;
 sub aogonek by aogonek.cv01;
 sub aring by aring.cv01;
 sub atilde by atilde.cv01;
+sub abreveacute by abreveacute.cv01;
+sub abrevedotbelow by abrevedotbelow.cv01;
+sub abrevegrave by abrevegrave.cv01;
+sub abrevehookabove by abrevehookabove.cv01;
+sub abrevetilde by abrevetilde.cv01;
+sub acircumflexacute by acircumflexacute.cv01;
+sub acircumflexdotbelow by acircumflexdotbelow.cv01;
+sub acircumflexgrave by acircumflexgrave.cv01;
+sub acircumflexhookabove by acircumflexhookabove.cv01;
+sub acircumflextilde by acircumflextilde.cv01;
+sub adotbelow by adotbelow.cv01;
+sub ahookabove by ahookabove.cv01;
 ";
 tag = cv01;
 },
@@ -1867,7 +1907,7 @@ value = 0;
 },
 {
 name = winAscent;
-value = 975;
+value = 1095;
 },
 {
 name = winDescent;
@@ -1891,18 +1931,18 @@ pos = (-427,-75);
 pos = (-1135,156);
 },
 {
-pos = (-1135,424);
+pos = (99,387);
 },
 {
 angle = 90;
-pos = (86,254);
+pos = (74,183);
 },
 {
 angle = 90;
 pos = (492,0);
 },
 {
-pos = (272,304);
+pos = (99,357);
 }
 );
 iconName = Light;
@@ -1972,7 +2012,7 @@ value = 0;
 },
 {
 name = winAscent;
-value = 975;
+value = 1095;
 },
 {
 name = winDescent;
@@ -1993,7 +2033,7 @@ guides = (
 pos = (-1135,126);
 },
 {
-pos = (-1112,402);
+pos = (-1112,412);
 },
 {
 pos = (-1112,482);
@@ -2010,7 +2050,7 @@ angle = 90;
 pos = (70,254);
 },
 {
-pos = (272,304);
+pos = (272,331);
 }
 );
 id = "2B4B7FDD-7E66-4143-AA8B-CAF759C636CA";
@@ -2079,7 +2119,7 @@ value = 0;
 },
 {
 name = winAscent;
-value = 975;
+value = 1095;
 },
 {
 name = winDescent;
@@ -2103,7 +2143,7 @@ pos = (-1112,99);
 pos = (-1112,239);
 },
 {
-pos = (-1112,369);
+pos = (-1112,450);
 },
 {
 pos = (-1112,509);
@@ -2117,7 +2157,7 @@ angle = 90;
 pos = (524,0);
 },
 {
-pos = (272,304);
+pos = (272,294);
 }
 );
 iconName = Bold;
@@ -2421,6 +2461,15 @@ name = Lower_V;
 unitsPerEm = 1000;
 userData = {
 GSDimensionPlugin.Dimensions = {
+"2B4B7FDD-7E66-4143-AA8B-CAF759C636CA" = {
+HH = "83";
+HV = "89";
+cyDeVthin = "83";
+nV = "87";
+nd = "77";
+oH = "78";
+oV = "91";
+};
 "37DC72B3-BCF2-46ED-AAD5-F0285A86700E" = {
 HH = "150";
 HV = "170";
@@ -2494,6 +2543,7 @@ HH = "156";
 HV = "165";
 OH = "153";
 OV = "168";
+cyDeVthin = "156";
 nV = "160";
 nd = "154";
 oH = "138";

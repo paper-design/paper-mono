@@ -21,7 +21,7 @@ shapes = (
 ref = E;
 },
 {
-pos = (153,0);
+pos = (150,0);
 ref = ogonekcomb;
 }
 );

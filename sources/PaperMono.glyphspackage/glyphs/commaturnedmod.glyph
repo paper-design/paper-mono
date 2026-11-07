@@ -1,0 +1,52 @@
+{
+color = 8;
+glyphname = commaturnedmod;
+layers = (
+{
+layerId = "742FEEFA-C05E-41BB-8475-8B252540AEF7";
+shapes = (
+{
+closed = 1;
+nodes = (
+(316,426,l),
+(336,732,l),
+(308,732,l),
+(250,426,l)
+);
+}
+);
+width = 606;
+},
+{
+layerId = "2B4B7FDD-7E66-4143-AA8B-CAF759C636CA";
+shapes = (
+{
+closed = 1;
+nodes = (
+(334,406,l),
+(366,732,l),
+(286,732,l),
+(220,406,l)
+);
+}
+);
+width = 606;
+},
+{
+layerId = m003;
+shapes = (
+{
+closed = 1;
+nodes = (
+(366,377,l),
+(386,732,l),
+(244,732,l),
+(190,377,l)
+);
+}
+);
+width = 606;
+}
+);
+unicode = 699;
+}
