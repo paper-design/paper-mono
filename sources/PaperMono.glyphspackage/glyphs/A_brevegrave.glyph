@@ -11,7 +11,7 @@ ref = A;
 ref = brevecomb.case;
 },
 {
-pos = (-42,171);
+pos = (-44,150);
 ref = gravecomb.case;
 }
 );
@@ -27,7 +27,7 @@ ref = A;
 ref = brevecomb.case;
 },
 {
-pos = (-57,171);
+pos = (-48,160);
 ref = gravecomb.case;
 }
 );
@@ -43,7 +43,7 @@ ref = A;
 ref = brevecomb.case;
 },
 {
-pos = (-55,171);
+pos = (-55,170);
 ref = gravecomb.case;
 }
 );

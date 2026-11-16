@@ -12,7 +12,7 @@ pos = (-6,0);
 ref = circumflexcomb.case;
 },
 {
-pos = (-6,182);
+pos = (-6,138);
 ref = tildecomb.case;
 }
 );
@@ -29,7 +29,7 @@ pos = (1,0);
 ref = circumflexcomb.case;
 },
 {
-pos = (1,181);
+pos = (1,152);
 ref = tildecomb.case;
 }
 );
@@ -46,7 +46,7 @@ pos = (10,0);
 ref = circumflexcomb.case;
 },
 {
-pos = (10,181);
+pos = (10,162);
 ref = tildecomb.case;
 }
 );

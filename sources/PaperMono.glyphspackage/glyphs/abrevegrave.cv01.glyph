@@ -9,7 +9,7 @@ shapes = (
 ref = a.cv01;
 },
 {
-pos = (-16,0);
+pos = (-16,10);
 ref = brevecomb_gravecomb;
 }
 );
@@ -22,7 +22,7 @@ shapes = (
 ref = a.cv01;
 },
 {
-pos = (-11,0);
+pos = (-11,-4);
 ref = brevecomb_gravecomb;
 }
 );
@@ -35,7 +35,7 @@ shapes = (
 ref = a.cv01;
 },
 {
-pos = (5,0);
+pos = (5,-23);
 ref = brevecomb_gravecomb;
 }
 );

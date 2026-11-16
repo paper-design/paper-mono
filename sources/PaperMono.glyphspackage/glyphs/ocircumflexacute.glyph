@@ -8,6 +8,7 @@ shapes = (
 ref = o;
 },
 {
+pos = (0,3);
 ref = circumflexcomb_acutecomb;
 }
 );
@@ -20,6 +21,7 @@ shapes = (
 ref = o;
 },
 {
+pos = (0,-4);
 ref = circumflexcomb_acutecomb;
 }
 );
@@ -32,6 +34,7 @@ shapes = (
 ref = o;
 },
 {
+pos = (0,-14);
 ref = circumflexcomb_acutecomb;
 }
 );

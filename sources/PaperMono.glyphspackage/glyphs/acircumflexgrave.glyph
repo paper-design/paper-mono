@@ -8,7 +8,7 @@ shapes = (
 ref = a;
 },
 {
-pos = (16,0);
+pos = (16,3);
 ref = circumflexcomb_gravecomb;
 }
 );
@@ -21,7 +21,7 @@ shapes = (
 ref = a;
 },
 {
-pos = (11,0);
+pos = (11,-4);
 ref = circumflexcomb_gravecomb;
 }
 );
@@ -34,7 +34,7 @@ shapes = (
 ref = a;
 },
 {
-pos = (-5,0);
+pos = (-5,-14);
 ref = circumflexcomb_gravecomb;
 }
 );

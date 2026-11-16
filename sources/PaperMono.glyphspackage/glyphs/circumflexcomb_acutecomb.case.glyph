@@ -1,0 +1,51 @@
+{
+color = 8;
+glyphname = circumflexcomb_acutecomb.case;
+layers = (
+{
+layerId = "742FEEFA-C05E-41BB-8475-8B252540AEF7";
+shapes = (
+{
+pos = (0,-204);
+ref = circumflexcomb.case;
+},
+{
+alignment = -1;
+pos = (145,-134);
+ref = acutecomb.case;
+}
+);
+width = 606;
+},
+{
+layerId = "2B4B7FDD-7E66-4143-AA8B-CAF759C636CA";
+shapes = (
+{
+pos = (0,-197);
+ref = circumflexcomb.case;
+},
+{
+alignment = -1;
+pos = (180,-107);
+ref = acutecomb.case;
+}
+);
+width = 606;
+},
+{
+layerId = m003;
+shapes = (
+{
+pos = (0,-187);
+ref = circumflexcomb.case;
+},
+{
+alignment = -1;
+pos = (223,-78);
+ref = acutecomb.case;
+}
+);
+width = 606;
+}
+);
+}

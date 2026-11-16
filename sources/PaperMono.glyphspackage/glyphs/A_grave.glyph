@@ -21,7 +21,7 @@ shapes = (
 ref = A;
 },
 {
-pos = (-42,0);
+pos = (-44,0);
 ref = gravecomb.case;
 }
 );
@@ -34,7 +34,7 @@ shapes = (
 ref = A;
 },
 {
-pos = (-57,0);
+pos = (-48,0);
 ref = gravecomb.case;
 }
 );

@@ -21,7 +21,7 @@ shapes = (
 ref = T;
 },
 {
-pos = (-1,31);
+pos = (0,31);
 ref = strokeshortcomb.case;
 }
 );

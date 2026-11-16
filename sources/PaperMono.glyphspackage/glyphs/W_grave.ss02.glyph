@@ -9,7 +9,7 @@ shapes = (
 ref = W.ss02;
 },
 {
-pos = (33,0);
+pos = (31,0);
 ref = gravecomb.case;
 }
 );
@@ -22,7 +22,7 @@ shapes = (
 ref = W.ss02;
 },
 {
-pos = (18,0);
+pos = (27,0);
 ref = gravecomb.case;
 }
 );

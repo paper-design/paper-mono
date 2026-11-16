@@ -11,7 +11,7 @@ ref = A;
 ref = circumflexcomb.case;
 },
 {
-pos = (0,182);
+pos = (0,138);
 ref = tildecomb.case;
 }
 );
@@ -27,7 +27,7 @@ ref = A;
 ref = circumflexcomb.case;
 },
 {
-pos = (0,181);
+pos = (0,152);
 ref = tildecomb.case;
 }
 );
@@ -43,7 +43,7 @@ ref = A;
 ref = circumflexcomb.case;
 },
 {
-pos = (0,181);
+pos = (0,162);
 ref = tildecomb.case;
 }
 );
